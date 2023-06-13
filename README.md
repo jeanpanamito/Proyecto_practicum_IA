@@ -4,6 +4,24 @@ Aplicación de Técnicas de Inteligencia Artificial en Información Relacionada 
 
 El proyecto "Aplicación de Técnicas de Inteligencia Artificial en Información Relacionada a la Seguridad Nacional" utiliza varias técnicas de procesamiento del lenguaje natural y análisis de sentimientos para procesar y analizar datos relacionados con la seguridad nacional.
 
+## Descripción de Metadatos
+Se utilizó la API de Twitter para guardar en una colección de MongoDB documentos que contienen metadatos de tweets sobre Seguridad en Ecuador
+Metadato | Descripción |
+---------| ----------- |
+id | Codigo del tweet
+time | Fecha y hora de extracción del tweet 
+created_at | Fecha y hora de creación del tweet
+full_text | Texto completo del tweet
+clean_full_text | Texto procesado del tweet
+user | Es un objeto del usuario que contiene su nombre, ubicación, numero de seguidores
+url_tweet | Url construida de acceso al tweet
+place | Lugar de creación del tweet
+retweet_count | Conteo de retweets
+hastags | Hastags extraidos del tweet
+urls | Urls extraidas del tweet
+photos | Urls de imágenes que contiene el tweet
+videos | Urls de videos que contenga el tweet
+
 ## Instalación de módulos
 El proyecto requiere la instalación de los siguientes módulos:
 
