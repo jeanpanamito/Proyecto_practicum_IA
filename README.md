@@ -125,9 +125,100 @@ Se realiza la lematización de las palabras para reducir las palabras a su forma
 Durante esta etapa, se pretende recuperar toda la información obtenida desde los tweets para encontrar los temas generales y temáticas implicitas que abarquen todo el contenido del texto, para de esa forma ordenar, resumir y tener mejor comprensión sobre el mismo.
 Para este proyecto, hemos decidido trabajar bajo el algoritmo de LDA(Latent Dirichlet Allocation).
 
-## Análisis de sentimientos
+##  Análisis de Sentimientos 
 
-El proyecto utiliza el modelo VADER (Valence Aware Dictionary and sEntiment Reasoner) para realizar el análisis de sentimientos de los tweets. VADER es un modelo de análisis de sentimientos específicamente diseñado para el análisis de texto social, como los tweets. Proporciona una puntuación de sentimiento compuesta que indica la polaridad del texto (positivo, negativo o neutro).
+En la presente documentacion, se describe el proceso de análisis de sentimientos realizado utilizando dos modelos de procesamiento de lenguaje natural. El objetivo fue evaluar diferentes enfoques y determinar cuál de los modelos proporcionaba los mejores resultados en términos de clasificación de sentimientos en textos, específicamente en tweets.
+
+### Modelos Utilizados
+
+Se seleccionaron los siguientes modelos para realizar el análisis de sentimientos:
+
+1. **VADER (Valence Aware Dictionary and sEntiment Reasoner):** Se trata de un analizador de sentimientos basado en reglas, incluido en la biblioteca NLTK (Natural Language Toolkit). Este modelo utiliza un conjunto de palabras y reglas predefinidas para asignar un puntaje de sentimiento a cada palabra y generar un puntaje general de sentimiento para un texto.
+
+2. **Twitter-roBERTa-base:** Es un modelo basado en transformer, específicamente diseñado para tareas de análisis de sentimientos en tweets. Se utiliza la biblioteca Transformers para cargar y utilizar este modelo preentrenado.
+
+### Proceso de Análisis de Sentimientos
+
+El proceso de análisis de sentimientos se llevó a cabo de la siguiente manera:
+
+1. **Análisis de Sentimientos con VADER:**
+
+   ```python
+   import nltk
+   from nltk.sentiment import SentimentIntensityAnalyzer
+
+   # Crear una instancia del analizador de sentimientos VADER
+   sia = SentimentIntensityAnalyzer()
+
+   datos = db[mongo_collection].find()
+
+   for tweet in datos:
+       tweet_text = tweet['full_text']
+
+       # Realizar preprocesamiento del texto
+       clean_text = remove_punctuation(remove_rt(remove_numbers(text_lowercase(tweet_text))))
+
+       # Tokenización del texto utilizando una expresión regular
+       tokens = re.findall(r'\w+', clean_text)
+
+       # Etiquetar el sentimiento de cada token utilizando VADER
+       sentiment_scores = [sia.polarity_scores(token)['compound'] for token in tokens]
+
+       # Asignar el sentimiento promedio del texto al campo 'sentiment'
+       tweet['sentiment'] = sum(sentiment_scores) / len(sentiment_scores)
+
+       # Presentar los resultados
+       print("Texto original:", tweet_text)
+       print("Clean Text:", clean_text)
+       print("Tokens:", tokens)
+       print("Sentimientos:", sentiment_scores)
+       print("Sentimiento promedio:", tweet['sentiment'])
+       print("------------------------")
+   ```
+
+   En este proceso, se utilizó el analizador de sentimientos VADER de NLTK. Se realizó un preprocesamiento del texto para eliminar puntuación, números y menciones a retweets. Luego, se tokenizó el texto y se asignó un puntaje de sentimiento a cada token utilizando VADER. El sentimiento promedio se asignó al campo 'sentiment' en cada documento de tweet.
+
+2. **Análisis de Sentimientos con Twitter-roBERTa-base:**
+
+   ```python
+   from transformers import AutoModelForSequenceClassification
+   from transformers import AutoTokenizer
+   import numpy as np
+   from scipy.special import softmax
+
+   task = 'sentiment'
+   MODEL = f"cardiffnlp/twitter-roberta-base-{task}"
+
+   tokenizer = AutoTokenizer.from_pretrained(MODEL)
+
+   # Cargar el modelo preentrenado
+   model = AutoModelForSequenceClassification.from_pretrained(MODEL)
+   model.save_pretrained(MODEL)
+
+   text = "Good night 😊"
+   text = preprocess(text)
+   encoded_input = tokenizer
+
+(text, return_tensors='pt')
+   output = model(**encoded_input)
+   scores = output[0][0].detach().numpy()
+   scores = softmax(scores)
+
+   ranking = np.argsort(scores)
+   ranking = ranking[::-1]
+   for i in range(scores.shape[0]):
+       l = labels[ranking[i]]
+       s = scores[ranking[i]]
+       print(f"{i+1}) {l} {np.round(float(s), 4)}")
+   ```
+
+   En este caso, se utilizó el modelo Twitter-roBERTa-base para el análisis de sentimientos en tweets. Se cargó el modelo y se utilizó un tokenizer específico para este modelo. Luego, se realizó el análisis de sentimientos en un texto de ejemplo y se obtuvieron las puntuaciones de sentimiento para cada etiqueta posible.
+
+### Conclusiones
+
+El análisis de sentimientos realizado utilizando los modelos VADER y Twitter-roBERTa-base proporcionó resultados interesantes. El enfoque basado en reglas de VADER fue rápido y fácil de implementar, y mostró una buena capacidad para identificar el sentimiento general en los tweets. Por otro lado, el modelo Twitter-roBERTa-base, basado en transformer, mostró un enfoque más sofisticado y ajustado específicamente para el análisis de sentimientos en tweets.
+
+En general, ambos modelos fueron útiles para el análisis de sentimientos en textos, pero el modelo Twitter-roBERTa-base demostró una mayor precisión y capacidad para capturar matices en los sentimientos expresados en los tweets. Por lo tanto, se recomienda utilizar este modelo para tareas de análisis de sentimientos en tweets en situaciones donde se requiera un mayor nivel de detalle y precisión.
 
 ## Clasificación de temas
 
@@ -136,16 +227,6 @@ El proyecto utiliza un modelo de clasificación de temas preentrenado para clasi
 ## Almacenamiento de resultados
 
 Los resultados del análisis de sentimientos y clasificación de temas se almacenan en la base de datos MongoDB. Cada documento en la colección "tweets" contiene la información original del tweet, el sentimiento calculado y la categoría temática asignada.
-
-## Uso del proyecto
-
-El proyecto se puede utilizar para procesar y analizar datos relacionados con la seguridad nacional en Twitter. Para utilizarlo, se deben seguir los siguientes pasos:
-
-1. Configurar la conexión a la base de datos MongoDB, especificando las credenciales y la URL del clúster.
-2. Ejecutar el preprocesamiento de datos para limpiar, tokenizar y procesar los textos de los tweets.
-3. Realizar el análisis de sentimientos utilizando el modelo VADER para obtener la puntuación de sentimiento de cada tweet.
-4. Realizar la clasificación de temas utilizando el modelo preentrenado para asignar categorías temáticas a los tweets.
-5. Almacenar los resultados en la base de datos MongoDB para su posterior análisis.
 
 ## Conclusiones
 
