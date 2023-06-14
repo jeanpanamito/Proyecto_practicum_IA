@@ -197,9 +197,7 @@ El proceso de análisis de sentimientos se llevó a cabo de la siguiente manera:
 
    text = "Good night 😊"
    text = preprocess(text)
-   encoded_input = tokenizer
-
-(text, return_tensors='pt')
+   encoded_input = tokenizer(text, return_tensors='pt')
    output = model(**encoded_input)
    scores = output[0][0].detach().numpy()
    scores = softmax(scores)
