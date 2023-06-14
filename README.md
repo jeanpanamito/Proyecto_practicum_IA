@@ -120,6 +120,11 @@ Se realiza una corrección ortográfica en los tweets utilizando la biblioteca `
 
 Se realiza la lematización de las palabras para reducir las palabras a su forma base o lema. Esto ayuda a reducir la variabilidad y mejorar la precisión del análisis de sentimientos.
 
+## Modelado de tópicos
+
+Durante esta etapa, se pretende recuperar toda la información obtenida desde los tweets para encontrar los temas generales y temáticas implicitas que abarquen todo el contenido del texto, para de esa forma ordenar, resumir y tener mejor comprensión sobre el mismo.
+Para este proyecto, hemos decidido trabajar bajo el algoritmo de LDA(Latent Dirichlet Allocation).
+
 ## Análisis de sentimientos
 
 El proyecto utiliza el modelo VADER (Valence Aware Dictionary and sEntiment Reasoner) para realizar el análisis de sentimientos de los tweets. VADER es un modelo de análisis de sentimientos específicamente diseñado para el análisis de texto social, como los tweets. Proporciona una puntuación de sentimiento compuesta que indica la polaridad del texto (positivo, negativo o neutro).
