@@ -64,8 +64,7 @@ Además, se realizo la utilización de la API de RoBERTa, un modelo basado en tr
 
 La precisión de los modelos de análisis de sentimientos puede variar según diversos factores, como la calidad del conjunto de datos utilizado para el entrenamiento y la evaluación, la representación de las características utilizadas por el modelo, la técnica de aprendizaje supervisado aplicada y la complejidad de la tarea de análisis de sentimientos.
 
-![Tweet Sentiment- RoBERTa](ruta/de/la/imagen.jpg)
-
+![Tweet Sentiment- RoBERTa](pictures/roberta.jpg)
 
 ## Conclusiones:
 
