@@ -1,0 +1,127 @@
+[
+    {
+        "Texto": 1,
+        "Texto original": "q tener dedos frente opinar consulta pregunta nombra terroristas bandas xq buscando soluciones q pedimos gritos frente inseguridad pena q vez apoyar jodas diario favor delincuentes",
+        "Sentimiento": "Sentimiento: Neutro\nScore Bayesiano: 0"
+    },
+    {
+        "Texto": 2,
+        "Texto original": "abr mg junto gd sostienen reuni\u00f3n trabajo organismos seguridad ciudadan",
+        "Sentimiento": "\u00eda\n\nSentimiento: Neutro\nScore Bayesiano: 0.5"
+    },
+    {
+        "Texto": 3,
+        "Texto original": "si racista asocias raza inmigraci\u00f3n ilegal ilegales suponen problema delincuencia ver raza cauc\u00e1sico puede ser ilegal delincuente",
+        "Sentimiento": "Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEl uso de la palabra \"ilegal\" en este contexto no implica un juicio de valor, por lo que el sentimiento es neutro. El score Bayesiano es 0.5 porque no hay ninguna indicaci\u00f3n de una connotaci\u00f3n positiva o negativa."
+    },
+    {
+        "Texto": 4,
+        "Texto original": "venezolana fingi\u00f3 secuestro sacarle alta suma dinero pareja mujer llam\u00f3 pareja afirm\u00f3 haber s",
+        "Sentimiento": "ospechado\n\nSentimiento: Negativo\nScore Bayesiano: 0.9"
+    },
+    {
+        "Texto": 5,
+        "Texto original": "naci\u00f3n fiscal subalterno barbosa pide petro entrometerse investigaciones fiscal\u00eda tra",
+        "Sentimiento": "fico drogas\n\nSentimiento: Neutro\nScore Bayesiano: 0.5"
+    },
+    {
+        "Texto": 6,
+        "Texto original": "hptas gobiernan narco evasor asco solo producen asco hace aos metieron feriado b",
+        "Sentimiento": "ancario\n\nPositivo: 0\nNegativo: 3\nNeutro: 0\nScore Bayesiano: -3"
+    },
+    {
+        "Texto": 7,
+        "Texto original": "democracia capitalista impuso reino terror hambrunacrimenguerra desigual",
+        "Sentimiento": "dad\n\nEste texto contiene sentimientos negativos. Se puede asignar un puntaje bayesiano de -2. El texto se refiere a la imposici\u00f3n de un r\u00e9gimen de terror, hambruna, crimen y desigualdad. Estas son todas cosas negativas que tienen un efecto negativo en la sociedad."
+    },
+    {
+        "Texto": 8,
+        "Texto original": "ley org\u00e1nica extinci\u00f3n dominio basada ley modelo extinci\u00f3n dominio oficina nac",
+        "Sentimiento": "ional\n\nNeutro: No hay suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. Score Bayesiano: 0."
+    },
+    {
+        "Texto": 9,
+        "Texto original": "cierra c\u00edrculo pdtepetro pide minjusticia convocar consejo d pol\u00edtica criminal analizar grave denu",
+        "Sentimiento": "Sentimiento: Neutro\nScore Bayesiano: 0"
+    },
+    {
+        "Texto": 10,
+        "Texto original": "ley org\u00e1nica extinci\u00f3n dominio basada ley modelo extinci\u00f3n dominio oficina naciones unidas droga delito unodc consancionesnada justiciayreparaci\u00f3n abril httpstconjscaotdmq",
+        "Sentimiento": "Neutro: No hay suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. Score Bayesiano: 0."
+    },
+    {
+        "Texto": 11,
+        "Texto original": "periodismo espaa compaero encarcelado polonia delito ser buen periodistas origen ruso",
+        "Sentimiento": "Sentimiento: Neutro\nScore: 0"
+    },
+    {
+        "Texto": 12,
+        "Texto original": "criminal preso seores fiscal\u00eda",
+        "Sentimiento": "Sentimiento: Neutro\nScore: 0"
+    },
+    {
+        "Texto": 13,
+        "Texto original": "subsecretar\u00eda prevenci\u00f3n delito impulsar\u00e1 iniciativa busca autorice guardias municipales uso ar",
+        "Sentimiento": "ma\n\nSentimiento: Neutro\nScore Bayesiano: 0.5"
+    },
+    {
+        "Texto": 14,
+        "Texto original": "factor\u00eda crimen mont\u00f3 grupo planeta villarejo pasar\u00e1 historia frases memorables",
+        "Sentimiento": "Positivo: Factor\u00eda Crimen Mont\u00f3 Grupo Planeta Villarejo Pasar\u00e1 Historia Frases Memorables (Score: 8/10)\n\nNegativo: N/A\n\nNeutro: N/A"
+    },
+    {
+        "Texto": 15,
+        "Texto original": "nuevo golpe crimen organizado pdi detiene c\u00e9sar figueroa udi alcalde san ignacio cohecho fraude fi",
+        "Sentimiento": "Sentimiento: Neutro\nScore Bayesiano: 0"
+    },
+    {
+        "Texto": 16,
+        "Texto original": "seor fiscal menos deber\u00eda enterarse prensa amigo ex alcalde torrealba contralor\u00eda acus",
+        "Sentimiento": "aciones\n\nSentimiento: Neutro\nScore Bayesiano: 0"
+    },
+    {
+        "Texto": 17,
+        "Texto original": "si racista asocias raza inmigraci\u00f3n ilegal ilegales suponen problema delincuencia ver raza cauc\u00e1sico puede ser ilegal delincuente",
+        "Sentimiento": "Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEsta frase no contiene ning\u00fan sentimiento positivo ni negativo, sino que es una simple descripci\u00f3n de los temas mencionados. No hay ninguna connotaci\u00f3n positiva o negativa asociada con la frase."
+    },
+    {
+        "Texto": 18,
+        "Texto original": "redes medell\u00edn valle aburra entraron paz total aliados alias tom douglas q",
+        "Sentimiento": "Este texto es neutro, ya que no contiene ninguna indicaci\u00f3n de sentimiento positivo o negativo. Si se le asignara un puntaje bayesiano, ser\u00eda 0."
+    },
+    {
+        "Texto": 19,
+        "Texto original": "crimen",
+        "Sentimiento": "Positivo: El texto muestra una actitud positiva hacia el crimen, por lo que se puede asignar una calificaci\u00f3n de 8/10.\n\nNeutro: El texto no muestra una actitud particularmente positiva ni negativa hacia el crimen, por lo que se puede asignar una calificaci\u00f3n de 5/10."
+    },
+    {
+        "Texto": 20,
+        "Texto original": "fascistas aguantan lados nieto stroessner senador alfredo stroessner asesino violador criminal todas letras",
+        "Sentimiento": "Positivo: 0\nNeutro: 0\nNegativo: 10\nScore Bayesiano: 0.00001"
+    },
+    {
+        "Texto": 21,
+        "Texto original": "\u00faltima hora exalcalde chavista jhonnatan mar\u00edn entregar\u00e1 autoridades eeuu tras sentencia delito lavado",
+        "Sentimiento": "de dinero\n\nSentimiento: Neutro\nScore Bayesiano: 0"
+    },
+    {
+        "Texto": 22,
+        "Texto original": "tanques solntsepyok asaltan nevelskoye juntos disparos ataque \u00fanicos mavic uav corrige operaci\u00f3n combate tanque sistema lanzallamas pesado solntsepyok asalto nevelskoye tanque va l\u00ednea apertura fuego httpstcowambjxys",
+        "Sentimiento": "Este texto es neutro. No hay suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. Si se le asignara un puntaje bayesiano, ser\u00eda 0."
+    },
+    {
+        "Texto": 23,
+        "Texto original": "almeida plan almeida mejorar seguridad ciudadana mano dura okupas venta ambulante ilegal narcopisos httpstcoqfrchze",
+        "Sentimiento": "An\u00e1lisis de sentimientos:\n\nAlmeida Plan: Neutro\nScore Bayesiano: 0\n\nMejorar seguridad ciudadana: Positivo\nScore Bayesiano: 1\n\nMano dura: Neutro\nScore Bayesiano: 0\n\nOkupas: Negativo\nScore Bayesiano: -1\n\nVenta ambulante ilegal: Negativo\nScore Bayesiano: -1\n\nNarcopisos: Negativo\nScore Bayesiano: -1"
+    },
+    {
+        "Texto": 24,
+        "Texto original": "abr puesto orden ministerio p\u00fablico ciudadano delito aprovechamiento cosas provenientes",
+        "Sentimiento": "Sentimiento: Neutro\nScore Bayesiano: 0.5"
+    },
+    {
+        "Texto": 25,
+        "Texto original": "verdadera v\u00edctima joven aos embarazada sido violada ecuatoriano debe hacer justicia",
+        "Sentimiento": "Sentimiento: Negativo\nScore Bayesiano: -0.9"
+    }
+]
