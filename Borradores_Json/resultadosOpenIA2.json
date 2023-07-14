@@ -1,20 +1,52 @@
 [
     {
-        "Texto": 1,
-        "Texto original": "id",
-        "Sentimiento": [
-            "1652095212867534848",
-            "RT @luciaeugenia: Expediente News | Guaid\u00f3 en el \u201cautoexilio\u201d: secuestro de diplom\u00e1tico Alex Saab fue para hambrear al pueblo\n\nPor @dcordov\u2026",
-            "Sentimiento: Negativo\nScore Bayesiano: 0.8"
-        ]
+        "0":"1652095212867534848",
+        "1":"RT @luciaeugenia: Expediente News | Guaid\u00f3 en el \u201cautoexilio\u201d: secuestro de diplom\u00e1tico Alex Saab fue para hambrear al pueblo\n\nPor @dcordov\u2026",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8"
     },
     {
-        "Texto": 2,
-        "Texto original": "full_text",
-        "Sentimiento": [
-            "1652097298963234818",
-            "RT @diceleo_: \ud83d\udea8DENUNCIA LA DELINCUENCIA UNIFORMADA!\n\u2800\nNo nos deja de sorprender el Tren la PNB con sus alcabalas fantasmas.\nSolo para esto\u2026",
-            "Sentimiento: Negativo\nScore Bayesiano: 0.9"
-        ]
+        "0":"1652097298963234818",
+        "1":"RT @diceleo_: \ud83d\udea8DENUNCIA LA DELINCUENCIA UNIFORMADA!\n\u2800\nNo nos deja de sorprender el Tren la PNB con sus alcabalas fantasmas.\nSolo para esto\u2026",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9"
+    },
+    {
+        "0":"1652094835384369159",
+        "1":"Pon\u00e9 #TelefeNoticias AHORA | #BaseDeDatos de la inseguridad. @marianogarcia1 accedi\u00f3 a las estad\u00edsticas que revelan la verdad sobre el flagelo que nos afecta todos los d\u00edas.\n\nSegu\u00ed el vivo en https:\/\/t.co\/akQDfBznFk https:\/\/t.co\/r5y0Pn30CM",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0"
+    },
+    {
+        "0":"1652095998288621568",
+        "1":"RT @PoliciaCucuta: 10 personas capturadas durante una importante operaci\u00f3n contra el grupo delincuencial com\u00fan organizado 'Tren de Aragua'.\u2026",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0"
+    },
+    {
+        "0":"1652094045823311872",
+        "1":"RT @crhoycom: Ministro Torres abandona conferencia sin responder medidas a corto plazo contra inseguridad - https:\/\/t.co\/BSALQYHLHd",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0.5"
+    },
+    {
+        "0":"1652090405004148737",
+        "1":"RT @RicardoAlemanMx: Siguen saliendo los trapitos sucios del crimen organizado en M\u00e9xico y su relaci\u00f3n con pa\u00edses como E.U. y China.\nhttps:\u2026",
+        "2":"Sentimiento: Neutro.\nScore Bayesiano: 0.5"
+    },
+    {
+        "0":"1652097540727226377",
+        "1":"RT @ElJota2020: @JCSolines Repite conmigo: LAS DECISIONES IRREGULARES SE TOMARON EN EL GOBIERNO DE LEN\u00cdN... \u00bfC\u00f3mo carajos una persona puede\u2026",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0.5"
+    },
+    {
+        "0":"1652098211845394432",
+        "1":"RT @Vivianolala: \u00bfSaben quienes son los responsables directos de este crimen? \nGardu\u00f1o y Ad\u00e1n Augusto.\n\u00bfSaben qui\u00e9n es el responsable pol\u00edt\u2026",
+        "2":"Neutro: 0.5"
+    },
+    {
+        "0":"1652094195295813632",
+        "1":"@LawyerOCT @petrogustavo @LawyerOCT Estas son las Consecuencias del Criminal C\u00f3digo Nacional de Polic\u00eda y Convivencia que le dio Poder a los Polic\u00edas para Actuar como se les diera la gana, eso lo hicieron Pol\u00edticos Corruptos para manejar esta herramienta en Impunidad al Igual que el Fuero Militar... https:\/\/t.co\/a8HXX4MuDG",
+        "2":"Este texto es neutro. No hay una evaluaci\u00f3n positiva o negativa de las consecuencias del C\u00f3digo Nacional de Polic\u00eda y Convivencia. No se p"
+    },
+    {
+        "0":"1652089484094078976",
+        "1":"RT @GildoGarzaMx: \u00bfCu\u00e1nto nos cuesta la seguridad de @Dr_AVillarreal el cual no lucha contra la delincuencia en #Tamaulipas pseudo diputada\u2026",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0.5"
     }
 ]
