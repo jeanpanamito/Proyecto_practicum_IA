@@ -1,0 +1,20 @@
+[
+    {
+        "Texto": 1,
+        "Texto original": "id",
+        "Sentimiento": [
+            "1652095212867534848",
+            "RT @luciaeugenia: Expediente News | Guaid\u00f3 en el \u201cautoexilio\u201d: secuestro de diplom\u00e1tico Alex Saab fue para hambrear al pueblo\n\nPor @dcordov\u2026",
+            "Sentimiento: Negativo\nScore Bayesiano: 0.8"
+        ]
+    },
+    {
+        "Texto": 2,
+        "Texto original": "full_text",
+        "Sentimiento": [
+            "1652097298963234818",
+            "RT @diceleo_: \ud83d\udea8DENUNCIA LA DELINCUENCIA UNIFORMADA!\n\u2800\nNo nos deja de sorprender el Tren la PNB con sus alcabalas fantasmas.\nSolo para esto\u2026",
+            "Sentimiento: Negativo\nScore Bayesiano: 0.9"
+        ]
+    }
+]
