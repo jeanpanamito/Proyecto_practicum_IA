@@ -1,0 +1,502 @@
+[
+    {
+        "0":"1652092374091268100",
+        "1":"capturado coordinaci\u00f3n realizado similar interpolper\u00fa permitir detenci\u00f3n isamel j procesado",
+        "2":"Neutro. Score Bayesiano: 0.5. El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se asume que es neutro."
+    },
+    {
+        "0":"1652098491609391105",
+        "1":"ministro llamar malo fe mediocres saber c\u00f3mo gobernar idea hacer",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"malo\", \"mediocre\" y \"gobernar\" que sugieren un sentimiento negativo hacia el ministro."
+    },
+    {
+        "0":"1652092629058826241",
+        "1":"primerodemayo unidad inseguridad deber prevalecer decir hoy representante trabajador demayo ecuador guayaquil httpstcozuwatdgw",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEste texto no contiene ninguna palabra que indique un sentimiento positivo o negativo, por lo que se puede considerar como neutro. El score bayesiano se asigna en 0.5 porque no hay ninguna indicaci\u00f3n de sentimiento."
+    },
+    {
+        "0":"1652099678459117574",
+        "1":"defender gla viejar solo apoyar sino defender furia amnistir violador floresmilo villal",
+        "2":"obos\n\nSentimiento: Neutro. Score Bayesiano: 0.\n\nEste texto no contiene palabras que sugieran un sentimiento positivo o negativo, por lo que se considera neutro. No hay suficiente informaci\u00f3n para asignar un score bayesiano."
+    },
+    {
+        "0":"1652092258311651336",
+        "1":"mantener convivencia seguro atacam esmeralda aprehendir dos presunto implicado asalto robar",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0.5\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se asume un sentimiento neutro."
+    },
+    {
+        "0":"1652096312714690561",
+        "1":"correa correo siempre correa d\u00e9jenlo descansar d\u00e9jenlo vivir hecho demasiado sacrificio pa\u00eds",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se considera neutro."
+    },
+    {
+        "0":"1652094435587502080",
+        "1":"empezar sacar verdadero intenci\u00f3n blindar gobierno t\u00fa interesar pueblo delincuenciir atacandono verdadero inter\u00e9s amedrentar repeler protesta social salir verdadero inter\u00e9s odio brota vivir as\u00ed nefasto",
+        "2":"Sentimiento: Negativo. Score Bayesiano: -3.\n\nEl texto describe una situaci\u00f3n en la que el gobierno est\u00e1 tratando de blindar sus intereses en lugar de proteger al pueblo de la delincuencia, lo que provoca odio y protestas sociales. Esto sugiere un sentimiento negativo hacia el gobierno y la"
+    },
+    {
+        "0":"1652098438442385408",
+        "1":"atenci\u00f3n gobierno encontrar asesorado mismo gente moreno demostrar ser",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene palabras que denoten un sentimiento positivo o negativo, por lo tanto se considera neutro."
+    },
+    {
+        "0":"1652088719577366530",
+        "1":"seguramente parte organizaci\u00f3n criminal tren aragua auspiciado interior gobierno venezolano",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto contiene palabras como \"criminal\", \"auspiciado\" y \"gobierno\" que sugieren una actividad ilegal y una relaci\u00f3n con el gobierno venezolano, lo que sugiere un sentimiento negativo."
+    },
+    {
+        "0":"1652093948117098497",
+        "1":"claro poder configurar delito penal dejar abierto posibilidad delito penal ser as\u00ed regresar lasso poder bobo",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se asume un sentimiento neutro."
+    },
+    {
+        "0":"1652098673872912387",
+        "1":"ay\u00fadano encontrar \u00e9l osorio parra luis felipe a\u00f1o edad reportado desaparecido marzo",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.\n\nEsta frase no contiene ning\u00fan tipo de sentimiento, sino que es una descripci\u00f3n de los detalles de una persona desaparecida. Por lo tanto, el sentimiento es neutro y el score bayesiano es 0."
+    },
+    {
+        "0":"1652088029949882370",
+        "1":"poder combatir crimen criminal mismo",
+        "2":"Sentimiento: Positivo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto habla de la posibilidad de combatir el crimen criminal, lo cual sugiere una actitud positiva hacia la lucha contra el crimen. Esto se refleja en el score bayesiano de 0.8, que indica una alta probabilidad de que el sentimiento"
+    },
+    {
+        "0":"1652099334442196993",
+        "1":"se\u00f1or crimar organizado representar elgranpadrino danilocarrera poder combatir",
+        "2":"la criminalidad\n\nSentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene ninguna palabra que indique un sentimiento positivo o negativo, por lo que se considera neutro."
+    },
+    {
+        "0":"1652090005886586880",
+        "1":"emelec jugar tardar a\u00f1o anterior \u00f1o domingo xq ahora escoger horario feo suceder ciudad lluviadelincuencia deber cambiar horario ah cosar bus taxi casi hora salir httpstcojawvqq",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto refleja una situaci\u00f3n desfavorable para el usuario, ya que el equipo de f\u00fatbol al que apoya debe cambiar su horario de juego, lo que le impide disfrutar del partido, adem\u00e1s de la delincuencia en la ciudad que"
+    },
+    {
+        "0":"1652088214553874432",
+        "1":"sociedad deber eliminar barrera verdadero acceso educaci\u00f3n calidad educaci\u00f3n mejor arma poder existir frente inseguridad pobrezar indiferencia bravo mantener misi\u00f3n olvido raz\u00f3n ser httpstcosfkrkpfaf",
+        "2":"Sentimiento: Positivo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto habla de la importancia de la educaci\u00f3n como una herramienta para eliminar las barreras sociales y mejorar la calidad de vida, lo que sugiere un sentimiento positivo. El score bayesiano es alto porque el texto es claro y direct"
+    },
+    {
+        "0":"1652095283067510787",
+        "1":"lamentablemente individuo representar mentalidad gobierno importar lucha crimar solo mantener poder privilegio costa reprimir tipo manifestaci\u00f3n",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto se refiere a la lucha de un individuo contra el gobierno para mantener el privilegio y reprimir ciertos tipos de manifestaciones, lo cual sugiere un sentimiento de frustraci\u00f3n y desesperaci\u00f3n."
+    },
+    {
+        "0":"1652090549946535936",
+        "1":"mayo fu\u00ed victimo secuestro express sustraer cantidad hacer otr",
+        "2":"as cosas\n\nSentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto describe una situaci\u00f3n de secuestro express, lo que sugiere una experiencia negativa para la persona que lo vivi\u00f3."
+    },
+    {
+        "0":"1652095552471855106",
+        "1":"todo porqueer tener sufrir diariamente delincuencia venezolano pa\u00eds ir acabar pa",
+        "2":"\u00eds\n\nSentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto contiene palabras como \"sufrir\", \"delincuencia\" y \"acabar\", que sugieren un sentimiento negativo hacia la situaci\u00f3n en Venezuela."
+    },
+    {
+        "0":"1652097182219096066",
+        "1":"crimar organizado narcotr\u00e1fico vencer emprendido gran cruzado seguridad paz car",
+        "2":"idad\n\nSentimiento: Neutro. Score Bayesiano: 0.5.\n\nEste texto no contiene ninguna palabra que sugiera un sentimiento positivo o negativo, por lo que se puede considerar neutro. El score bayesiano es 0.5 porque no hay ninguna indicaci\u00f3n de un sentimiento positivo o negativo."
+    },
+    {
+        "0":"1652089535159754753",
+        "1":"todo pena delito contener terrorismo extorsi\u00f3n secuestro tr\u00e1fico arma tratar menor terrorismo narcotr\u00e1fico asesinato descuartizamiento desaparici\u00f3n deber ser endurecer pena mayor a\u00f1o derecho rebaja httpstcotootrtuv",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto contiene palabras relacionadas con delitos graves, lo que sugiere un sentimiento negativo. El score bayesiano es alto porque el texto contiene palabras que sugieren un sentimiento negativo."
+    },
+    {
+        "0":"1652092728186925056",
+        "1":"ecuador ir enfrentar pr\u00f3ximo mes sufrir crisis energ\u00e9tico terrible imaginar inseguridad",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto describe una situaci\u00f3n de crisis energ\u00e9tica que se avecina para el pr\u00f3ximo mes, lo que genera una sensaci\u00f3n de inseguridad. Esto genera un sentimiento de preocupaci\u00f3n y temor."
+    },
+    {
+        "0":"1652097542799106049",
+        "1":"ley seguridad p\u00fablico establecer seguridad ciudadano combate delincuencia",
+        "2":"Sentimiento: Positivo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto habla de la importancia de establecer seguridad p\u00fablica, ciudadana y combatir la delincuencia, lo que sugiere una actitud positiva hacia la prevenci\u00f3n de la violencia y la protecci\u00f3n de la comunidad."
+    },
+    {
+        "0":"1652097260107497474",
+        "1":"pa\u00eds adem\u00e1s incompetent combatir delincuencia pendejo mentir",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras negativas como \"incompetente\", \"delincuencia\" y \"pendejo\" que sugieren un sentimiento negativo."
+    },
+    {
+        "0":"1652094122491015173",
+        "1":"ent\u00e9rate pa\u00eds estabilidad democraciar encima deber unir esfuerzo vencer crimen org",
+        "2":"\u00e1nizado\n\nSentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se considera neutro."
+    },
+    {
+        "0":"1652099381837942785",
+        "1":"alairar notimundoestelar embajador ecuador m\u00e9xico dialogar migrant ecuatoriano rescatado tras secuestro masivo mirar entrevista envivohttpstcoxllldamk httpstcofhjwtjpdm",
+        "2":"An\u00e1lisis de sentimientos: Sentimiento neutro. Score bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se asume que el sentimiento es neutro. El score bayesiano se asigna en 0.5 porque no hay ninguna indicaci\u00f3n de sent"
+    },
+    {
+        "0":"1652099558430605312",
+        "1":"dos presunto delincuente medida cautelar capturados delito secuestro extorsivo sur d",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto se refiere a la captura de presuntos delincuentes relacionados con el delito de secuestro extorsivo, lo cual es una situaci\u00f3n negativa."
+    },
+    {
+        "0":"1652099585743921155",
+        "1":"neutralizamos acci\u00f3n delictiva aprehensi\u00f3n dos persona presunto implicado tentativo asesinato",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nRaz\u00f3n: El texto no contiene ninguna palabra que indique un sentimiento positivo o negativo, por lo que se puede considerar como neutro. El score bayesiano se asigna en 0.5 porque no hay ninguna indicaci\u00f3n de sentimiento."
+    },
+    {
+        "0":"1652089831386652673",
+        "1":"hecho esclarecer asesinato joven esmeralda httpstcotummokhdr",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nRaz\u00f3n: El texto no contiene ninguna palabra o frase que indique un sentimiento positivo o negativo. Se trata de una noticia sobre un asesinato, por lo que el sentimiento es neutro."
+    },
+    {
+        "0":"1652094979831996416",
+        "1":"acabar presentar acci\u00f3n inconstitucionalidad grupo reforma punitiva hacer",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto se refiere a acciones punitivas, lo que sugiere un sentimiento negativo. El score bayesiano es alto porque el sentimiento es claramente negativo."
+    },
+    {
+        "0":"1652092889957113857",
+        "1":"operativo realizado madrugada viernes abril efectivo polic\u00eda nacional detener seis antisocial miembro bando dedicado secuestro extorsivo httpstcoqnlavalh httpstcozkftbgjc",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEn este texto no hay suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. Se trata de una noticia relacionada con la detenci\u00f3n de seis miembros de una banda dedicada al secuestro extorsivo por parte de la Polic\u00eda Nacional. No"
+    },
+    {
+        "0":"1652093072686084096",
+        "1":"c\u00f3mo ecuatoriano bien ecuatoriano avergonzado gentuza c\u00f3mo t\u00fa revolucionario socialcomunista sinvergenza t\u00fa trabajar crimar organizado tapar podrido t\u00fa httpstcorppvnqdnt",
+        "2":"Este texto es neutro. No hay suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. Si se le asignara un puntaje bayesiano, ser\u00eda 0, ya que no hay suficiente informaci\u00f3n para asignar una puntuaci\u00f3n."
+    },
+    {
+        "0":"1652089118615011332",
+        "1":"seguridad ocho banda crimen organizado declarada terrorista httpstcoxcfgotsnba",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto se refiere a la declaraci\u00f3n de una banda criminal como terrorista, lo que sugiere una situaci\u00f3n peligrosa y una actitud negativa hacia la banda criminal."
+    },
+    {
+        "0":"1652098866332803072",
+        "1":"entender porcar militar calle entender porcar ahora ir combatir delincuencia decir consul",
+        "2":"ado\n\nSentimiento: Neutro. Score Bayesiano: 0.5. \n\nEl texto no contiene palabras que sugieran un sentimiento positivo o negativo, por lo que se asume que el sentimiento es neutro. El score bayesiano se asigna en 0.5 para reflejar esto."
+    },
+    {
+        "0":"1652096639690067979",
+        "1":"manta encontrar poder ciudadano fusil asalto armamento guerra inve",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras relacionadas con la violencia, como \"fusil\", \"asalto\" y \"armamento\", lo que sugiere un sentimiento negativo. Adem\u00e1s, la palabra \"guerra\" sugiere una situaci\u00f3n de conflicto, lo que"
+    },
+    {
+        "0":"1652100084064976896",
+        "1":"fuerza p\u00fablico declarar guerra crimar organizado reuni\u00f3n consejo seguridad p\u00fablico cosepe",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0. Score porque: El texto no contiene ninguna palabra que indique un sentimiento positivo o negativo, por lo tanto se considera neutro."
+    },
+    {
+        "0":"1652093843280388097",
+        "1":"fiscal general di\u00e1n salazar solicitar hoy corte nacional justicia fije fecha hora formular cargo tres funcionario p\u00fablico dos vocal consejo judicatura presunto participaci\u00f3n delito tr\u00e1fico in",
+        "2":"migrantes\n\nSentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene ninguna palabra o frase que indique un sentimiento positivo o negativo, por lo que se considera neutro."
+    },
+    {
+        "0":"1652092660201451522",
+        "1":"legislador detenido flagrancia delito violaci\u00f3n joven a\u00f1os tonto turno httpstco",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto describe una situaci\u00f3n en la que un legislador ha sido detenido por un delito grave como la violaci\u00f3n de una joven de a\u00f1os tontos. Esto genera un sentimiento de indignaci\u00f3n y desaprobaci\u00f3n."
+    },
+    {
+        "0":"1652092884101857289",
+        "1":"atencion comunidad ecuatoriano residente espa\u00f1a realizar plant\u00f3n pac\u00edfico debido aumento insegurido",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto refleja una situaci\u00f3n preocupante y desfavorable para la comunidad ecuatoriana residente en Espa\u00f1a, debido al aumento de la inseguridad."
+    },
+    {
+        "0":"1652095353003425792",
+        "1":"ja ja jo chuchaber ir delincuencia com\u00fan primero ir terrorista mafia alban\u00e9s cuyo l\u00edder carondelet httpstcomdkhotzunx",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEste texto no contiene palabras con connotaciones positivas o negativas, por lo que se puede considerar neutro. No hay suficiente informaci\u00f3n para asignar un score bayesiano."
+    },
+    {
+        "0":"1652096344297820161",
+        "1":"santo domingo ts\u00e1chila polic\u00eda confirmar secuestro director ant aproximadamente",
+        "2":"las 10:00 pm\n\nSentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto describe una situaci\u00f3n de secuestro, lo que sugiere un sentimiento de temor y preocupaci\u00f3n. El score bayesiano es alto debido a la naturaleza negativa del contenido."
+    },
+    {
+        "0":"1652095769212534785",
+        "1":"culpa puta saber guayaquil todo noche llover c\u00e1ntaro a\u00fan seguir necear horario noche hacer eco delincuencia terrible ciudad",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto contiene palabras como \"culpa\", \"delincuencia\" y \"terrible\", que sugieren un sentimiento negativo hacia la ciudad de Guayaquil."
+    },
+    {
+        "0":"1652091172435763201",
+        "1":"decir delincuencia aqu\u00ed ecuador comenzar llegado venezolano preguntar b\u00e1s diz acabar delincuencia",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"delincuencia\" y \"acabar\" que sugieren un sentimiento negativo hacia la situaci\u00f3n de la delincuencia en Ecuador, debido a la llegada de venezolanos."
+    },
+    {
+        "0":"1652095043451211776",
+        "1":"comento gente protestar ser borrego ideolog\u00edo hacer convicci\u00f3n buscar mejorar pa\u00eds vivir mate delincuenciir gobierno veredar distancia as\u00ed perder gente callar",
+        "2":"Este texto es neutro ya que no hay ninguna expresi\u00f3n de sentimiento positivo o negativo. Si se le asignara un score bayesiano, ser\u00eda 0, ya que no hay ninguna expresi\u00f3n de sentimiento."
+    },
+    {
+        "0":"1652094479958982656",
+        "1":"cara conversar amigo inseguridad q dormir q hijo escriba q bien casa",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\nEl texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se considera neutro. El score bayesiano es 0.5 porque no hay una tendencia hacia un sentimiento positivo o negativo."
+    },
+    {
+        "0":"1652090341552451587",
+        "1":"terminar pulm\u00f3n perforado carro relato taxista sobrevivir asalto quito httpstco",
+        "2":"3qfhxhjy\n\nPulm\u00f3n perforado: Neutro. Score Bayesiano: 0.5. El sentimiento es neutro porque no hay ninguna indicaci\u00f3n de sentimiento positivo o negativo.\n\nCarro: Neutro. Score Bayesiano: 0.5. El sentimiento es neutro porque no hay ninguna indicaci\u00f3n de sentim"
+    },
+    {
+        "0":"1652095184685899779",
+        "1":"solidario comprometido sentir provincia azuay sumar protesta esfuerzo d\u00eda mejor afectar inseguridad mal v\u00eda httpstcoyrmymlms",
+        "2":"Sentimiento: Positivo\nScore Bayesiano: 8\/10\nRaz\u00f3n: El texto contiene palabras positivas como \"solidario\", \"comprometido\", \"sentir\", \"provincia\", \"sumar\", \"protesta\", \"esfuerzo\", \"d\u00eda mejor\" y \"afectar\", lo que sugiere un sentimiento positivo hacia la inse"
+    },
+    {
+        "0":"1652091494033940480",
+        "1":"necesitar ganar consulta popular mandar militar call enfrentar delincuencia",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.7\nRaz\u00f3n: El texto contiene palabras como \"enfrentar\", \"delincuencia\" y \"militar\", que sugieren una actitud de confrontaci\u00f3n y una situaci\u00f3n de peligro. Esto sugiere un sentimiento negativo."
+    },
+    {
+        "0":"1652094048193200128",
+        "1":"militar rondar calle santa el\u00e9n excepci\u00f3n hacer minuto luego supuestamente ir zona peligro obstante nivel delincuencia seguir ser mismo httpstcofrqjxtbn",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEste texto no contiene suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. El texto describe una situaci\u00f3n en la que un militar est\u00e1 rondando una calle, pero no hay suficiente informaci\u00f3n para determinar si esta situaci\u00f3n es positiva o"
+    },
+    {
+        "0":"1652100249048039426",
+        "1":"se\u00f1or entender horario prime etc dar situaci\u00f3n actual inseguridad sumado llover",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo tanto se considera neutro."
+    },
+    {
+        "0":"1652099749468680199",
+        "1":"ser legislador poder violar ser legislador poder ser violador se\u00f1alar asamble\u00edsta ban",
+        "2":"co\n\nSentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto contiene palabras negativas como \"violar\" y \"violador\", lo que sugiere un sentimiento negativo. El score bayesiano es alto porque el texto contiene palabras que sugieren un sentimiento negativo."
+    },
+    {
+        "0":"1652097498482106368",
+        "1":"nuevo medida seguridad tomar borde posible levantamiento confirmar gobierno preocup",
+        "2":"aci\u00f3n\n\nSentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene palabras que denoten un sentimiento positivo o negativo, por lo que se considera neutro."
+    },
+    {
+        "0":"1652089455409340416",
+        "1":"lojo ciudadanir moviliz\u00f3 inseguridad provincia httpstcotljrtdqb",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El tuit hace referencia a la inseguridad en una provincia, lo que sugiere un sentimiento negativo. El score bayesiano es alto porque el tuit est\u00e1 expresando un sentimiento negativo."
+    },
+    {
+        "0":"1652089081147404289",
+        "1":"icon chatarra c\u00ednico farsante incapaz mentiroso querer combatir crimen organizado",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: Las palabras utilizadas en el texto tienen connotaciones negativas, lo que sugiere que el autor tiene una actitud negativa hacia el tema de combatir el crimen organizado."
+    },
+    {
+        "0":"1652090103819378693",
+        "1":"atenci\u00f3n siete persona sentenciado tribunal asesinato abogado waltervallejo guayaquil xavier orlando v l jean carlos t ch bryan xavier lv cumplir pena a\u00f1o c\u00e1rcel mientras implicado httpstcohbqqxsqgxb httpstcolvdfxozcap",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto se refiere a un tribunal que ha sentenciado a siete personas por asesinato, lo que sugiere un sentimiento de tristeza y preocupaci\u00f3n. El score bayesiano es alto debido a la gravedad de la situaci\u00f3n."
+    },
+    {
+        "0":"1652097929534898176",
+        "1":"carambo creer decisi\u00f3n cosepe apuntar tomar decisi\u00f3n crimen organizado mensaje",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nRaz\u00f3n: El texto no contiene palabras que sugieran un sentimiento positivo o negativo, por lo que se considera neutro. El score bayesiano es 0.5 porque no hay suficiente informaci\u00f3n para asignar un sentimiento positivo o negativo."
+    },
+    {
+        "0":"1652099085736849409",
+        "1":"culpa puta saber guayaquil todo noche llover c\u00e1ntaro a\u00fan seguir",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene palabras que denoten un sentimiento positivo o negativo, por lo que se asume un sentimiento neutro. El score bayesiano se asigna en 0.5 para reflejar esto."
+    },
+    {
+        "0":"1652097315451072513",
+        "1":"justificaci\u00f3n violencia sexual si evidenciar delito deber aplicar ley excepci\u00f3n",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5. Justificaci\u00f3n: El texto no contiene ninguna palabra que sugiera un sentimiento positivo o negativo, por lo que se puede concluir que el sentimiento es neutro."
+    },
+    {
+        "0":"1652098761949151233",
+        "1":"familia isla trinitario recibido amenaza dispar detonaci\u00f3n explosivo denunciar asesinato httpstcobfjmcllq",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto contiene palabras como \"amenaza\", \"dispar\", \"explosivo\" y \"asesinato\", que sugieren una situaci\u00f3n peligrosa y violenta. Esto da una indicaci\u00f3n clara de un sentimiento negativo, y el score bayesiano refleja"
+    },
+    {
+        "0":"1652089872117559297",
+        "1":"delito violaci\u00f3n cometido petercalo detestable guacharnaco salir defender",
+        "2":"Sentimiento: Negativo. Score Bayesiano: 0.9. Porque el texto contiene palabras como \"detestable\" y \"violaci\u00f3n\" que sugieren un sentimiento negativo hacia el delito cometido por Petercalo."
+    },
+    {
+        "0":"1652092518354354177",
+        "1":"problema fascista ignorante vez tomar decisi\u00f3n materio seguridad",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"fascista\" e \"ignorante\", lo que sugiere un sentimiento negativo hacia la situaci\u00f3n descrita."
+    },
+    {
+        "0":"1652094326103474178",
+        "1":"duda plan anticrimar ecuador anuncio consejo seguridad p\u00fablico ecuador guerra",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0. \n\nEl anuncio del plan anticrimen de Ecuador es una iniciativa para mejorar la seguridad p\u00fablica del pa\u00eds, pero no contiene ninguna expresi\u00f3n de emoci\u00f3n positiva o negativa. Por lo tanto, el sentimiento es neutro y el score bayesiano"
+    },
+    {
+        "0":"1652098495602388994",
+        "1":"ayer gritar inseguridad narco hoy decir intervenci\u00f3n ej\u00e9rcito exagerado clamar",
+        "2":"libertad\n\nSentimiento: Negativo. Score Bayesiano: 0.8.\nRaz\u00f3n: El texto refleja una situaci\u00f3n de inseguridad y la necesidad de una intervenci\u00f3n militar exagerada, lo que sugiere un sentimiento de frustraci\u00f3n y desesperaci\u00f3n por la falta de libertad."
+    },
+    {
+        "0":"1652092107799052289",
+        "1":"nunca necesitar consulta alguno enfrentar delincuencia si necesitar tener",
+        "2":"una buena convivencia\n\nSentimiento: Positivo\nScore Bayesiano: 8\/10\nRaz\u00f3n: El texto expresa un deseo de tener una buena convivencia, lo que indica un sentimiento positivo. El score bayesiano es alto porque el texto est\u00e1 expresando un deseo de mejorar la situaci\u00f3n."
+    },
+    {
+        "0":"1652095418719784961",
+        "1":"vergenza asambleista ester torre tibio posici\u00f3n delincuencia s\u00e9palo vez slogar lfc negociar terrorista",
+        "2":"An\u00e1lisis de sentimientos:\nVergenza: Negativo (Score Bayesiano: -0.9) Porque se trata de un sentimiento desagradable.\n\nAsambleista: Neutro (Score Bayesiano: 0) Porque no hay una connotaci\u00f3n positiva o negativa asociada con el t\u00e9rmino.\n\nEster: Neutro ("
+    },
+    {
+        "0":"1652091342602870784",
+        "1":"ecuador raro mayor\u00eda detenido venezolano colombiano si analizar proporci\u00f3n detenido versus poblaci\u00f3n venezuelano quedar primero crimen problema poder ocultar que\u00edr actuar pol\u00edticamente correcto",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEl texto no contiene suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. Se trata de una descripci\u00f3n de una situaci\u00f3n sin ninguna evaluaci\u00f3n de la misma. Por lo tanto, el sentimiento es neutro y el score bayesiano es"
+    },
+    {
+        "0":"1652099995984691202",
+        "1":"si se\u00f1or petro expropiar cometer delito falsedad documento p\u00fablico firmar",
+        "2":"documento\n\nSentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto describe acciones ilegales, lo que indica un sentimiento negativo. El score bayesiano es alto porque el texto es claro en su descripci\u00f3n de acciones ilegales."
+    },
+    {
+        "0":"1652098845373878272",
+        "1":"atenci\u00f3n fiscal general solicitar fecha hora realizar audi",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene ninguna palabra o frase que pueda indicar un sentimiento positivo o negativo."
+    },
+    {
+        "0":"1652090361118961669",
+        "1":"urgente fiscal general solicitar fecha hora realizar audiencia",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0.5\nRaz\u00f3n: El texto no contiene ninguna palabra que indique un sentimiento positivo o negativo, por lo que se asume un sentimiento neutro."
+    },
+    {
+        "0":"1652090434263425024",
+        "1":"radio irfeyal internacional alrededor ni\u00f1o ucraniano trasladado rusia incluso iniciar invasi\u00f3n ucrania consejo europa se\u00f1alar acci\u00f3n deportaci\u00f3n ilegal recae crimar guerra httpstcouostgwmjn",
+        "2":"Sentimiento: Negativo. Score Bayesiano: 0.9.\n\nEsta noticia se refiere a la deportaci\u00f3n ilegal de un ni\u00f1o ucraniano a Rusia, lo que se\u00f1ala el Consejo de Europa como una acci\u00f3n criminal en medio de la guerra. Esto es una situaci\u00f3n muy negativa, por lo que el sentimiento es"
+    },
+    {
+        "0":"1652096831461965826",
+        "1":"delincuencia ambato exigir seguridad marcha httpstcotpmzqkktd",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: Esta marcha es una respuesta a la delincuencia en la ciudad de Ambato, lo que sugiere que la situaci\u00f3n es preocupante y que la gente est\u00e1 preocupada por su seguridad."
+    },
+    {
+        "0":"1652092788215889920",
+        "1":"esperar gobierno combato inseguridad miserable pensar c\u00f3mo asesinar poblaci\u00f3n atreir reclamar derecho httpstcohphjhwt",
+        "2":"Sentimiento: Negativo. Score Bayesiano: 0.9.\nRaz\u00f3n: El texto contiene palabras como \"miserable\", \"asesinar\" y \"reclamar\" que sugieren un sentimiento negativo. El uso de la palabra \"gobierno\" sugiere que hay una preocupaci\u00f3n por la inseguridad, lo que refuer"
+    },
+    {
+        "0":"1652096807944454144",
+        "1":"ahora presencia fiscal general resolver legal",
+        "2":"mente\n\nSentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene ninguna palabra o frase que indique un sentimiento positivo o negativo, por lo que se considera neutro."
+    },
+    {
+        "0":"1652092463618617346",
+        "1":"periodista palacio representar gobierno palabra equivocado deber ser utilizar criticar decisi\u00f3n luchar delincuencia decir adem\u00e1s gobierno decepci\u00f3n necesitar ser responsabilizar opini\u00f3n ajeno",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"equivocado\", \"criticar\", \"decepci\u00f3n\", \"responsabilizar\" que sugieren un sentimiento negativo hacia el gobierno y sus decisiones."
+    },
+    {
+        "0":"1652094022477807619",
+        "1":"actualizaci\u00f3n tribunal suspender audiencia juicio delito tortura grave violaci\u00f3n derechos h",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nRaz\u00f3n: El texto no contiene ninguna palabra que indique un sentimiento positivo o negativo, por lo que el sentimiento es neutro. El score bayesiano es 0.5 porque no hay ninguna indicaci\u00f3n de un sentimiento positivo o negativo."
+    },
+    {
+        "0":"1652091348324089856",
+        "1":"claro combatir delincuencia saber disparar ver manifestante guerrero cierto protector delincuente",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEl significado de este texto es ambiguo, ya que algunas palabras tienen connotaciones positivas (como \"combatir delincuencia\" y \"protector\") y otras tienen connotaciones negativas (como \"saber disparar\" y \"delincuente\"). Por lo tanto"
+    },
+    {
+        "0":"1652100117145567232",
+        "1":"v\u00eda costa pedido repotenciar v\u00eda actual tr\u00e1fico lugar atender pedido proponer carr",
+        "2":"iles bici\n\nSentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se asume una neutralidad."
+    },
+    {
+        "0":"1652090461299826690",
+        "1":"fiscal\u00eda apelar sentencia condenatorio anthony dami\u00e1n c autor asesinato hijastrar elia",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto se refiere a una sentencia condenatoria por el asesinato de una hijastra, lo que indica un sentimiento negativo hacia el autor."
+    },
+    {
+        "0":"1652093485032394755",
+        "1":"bueno explicar poner traba comparecencia rulimar teer creer ingenuo ciudadano t\u00fa socialcomunista mismo delincuencia encarnado httpstcojweedbuzyz",
+        "2":"An\u00e1lisis de sentimientos:\n\nPalabras clave: bueno, explicar, poner, traba, comparecencia, rulimar, teer, creer, ingenuo, ciudadano, t\u00fa, social, comunista, mismo, delincuencia, encarnado.\n\nSentimiento: Neutro.\nScore Bayesiano: 0.\n\nRaz\u00f3n"
+    },
+    {
+        "0":"1652099302573977603",
+        "1":"notimundoalacarta presidenta reconocer pa\u00eds vivir momento complejo",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nRaz\u00f3n: El texto no contiene palabras que sugieran un sentimiento positivo o negativo, por lo que se considera neutro. El score bayesiano se asigna en 0.5 porque no hay suficiente informaci\u00f3n para asignar una puntuaci\u00f3n m\u00e1s precisa"
+    },
+    {
+        "0":"1652093005468188672",
+        "1":"ministro llamar malo fe mediocres saber c\u00f3mo gobernar idea hacer inseguridad vivir pa\u00eds l\u00e1rguensir volver httpstcobqoelawdu",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"malo\", \"mediocre\", \"inseguridad\" y \"l\u00e1rguensir\" que sugieren un sentimiento negativo. Adem\u00e1s, el uso de la palabra \"volver\" sugiere que el pa\u00eds est\u00e1 en una situaci"
+    },
+    {
+        "0":"1652096464724656131",
+        "1":"d\u00f3nde dianar salazar asesinato maria bel\u00e9n naomi arcental preocupen mujer puerta",
+        "2":"Este texto es neutro ya que no contiene ninguna palabra que indique un sentimiento positivo o negativo. Si se le asignara un score bayesiano, ser\u00eda 0, ya que no hay ninguna indicaci\u00f3n de sentimiento."
+    },
+    {
+        "0":"1652095017039568896",
+        "1":"ver q s\u00f3lo tomar pelo decir necesitar consultama\u00f1\u00f3s ffaa poder ap",
+        "2":"render\n\nSentimiento: Neutro\nScore Bayesiano: 0.5\nRaz\u00f3n: El texto no contiene palabras que sugieran un sentimiento positivo o negativo, por lo que se asume que es neutro. El score bayesiano se asigna en 0.5 para reflejar esto."
+    },
+    {
+        "0":"1652096026784808961",
+        "1":"nunca interesado pa\u00eds ahora tratar salvar mueble comprar conciencia",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\nRaz\u00f3n: El texto no contiene palabras que indiquen un sentimiento positivo o negativo, por lo que se puede considerar neutro."
+    },
+    {
+        "0":"1652096830514102272",
+        "1":"guayaquil entrar puerto principalasalto cooperativo zaracay ultimahoro urgente httpstcoqhiqrje",
+        "2":"An\u00e1lisis de sentimientos:\n\nTexto: Guayaquil entrar puerto principal\nSentimiento: Neutro. Score Bayesiano: 0.\nRaz\u00f3n: El texto no contiene ninguna palabra con connotaci\u00f3n positiva o negativa, por lo que se considera neutro.\n\nTexto: Asalto cooperativo Zaracay \u00faltima"
+    },
+    {
+        "0":"1652097050291347459",
+        "1":"acusar fiscal\u00eda xguardase informaci\u00f3n caso estupi\u00f1ar dar billete villavicencio",
+        "2":"Sentimiento: Neutro. Score Bayesiano: 0.5.\n\nEl texto no contiene suficiente informaci\u00f3n para determinar un sentimiento positivo o negativo. Por lo tanto, se asume que el sentimiento es neutro. El score bayesiano se asigna en 0.5 para reflejar esto."
+    },
+    {
+        "0":"1652091229616717825",
+        "1":"tratar presunto delito tr\u00e1fico influencia involucrado forma directo tres funcionario p\u00fa",
+        "2":"blico\n\nSentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto se refiere a un presunto delito relacionado con el tr\u00e1fico de influencias en el que est\u00e1n involucrados tres funcionarios p\u00fablicos de forma directa, lo que sugiere una situaci\u00f3n negativa."
+    },
+    {
+        "0":"1652089629862969344",
+        "1":"terrible compa\u00f1ero consecuente terrible delitome pregunto qui\u00e9n s",
+        "2":"abe\n\nSentimiento: Negativo. Score Bayesiano: 0.9. El lenguaje utilizado es negativo, con palabras como \"terrible\" y \"delito\", lo que sugiere un sentimiento negativo. El score bayesiano es alto porque el lenguaje es muy claro y no hay ambig\u00fcedad en el mensaje."
+    },
+    {
+        "0":"1652092262631763968",
+        "1":"agradecer general paco moncayo wagner bravo sumar \u00e9l lucha complejo dif\u00edcil enfrentar crime",
+        "2":"Sentimiento: Positivo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"agradecer\", \"sumar\" y \"lucha\" que sugieren un sentimiento positivo. Adem\u00e1s, el contexto del texto sugiere que el autor est\u00e1 agradecido por el esfuerzo de alguien para enfrentar el"
+    },
+    {
+        "0":"1652093382829678593",
+        "1":"ley seguridad p\u00fablico establecer seguridad ciudadano combate delincuencia deli",
+        "2":"Sentimiento: Positivo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto se refiere a la seguridad p\u00fablica y al combate de la delincuencia, lo cual sugiere una actitud positiva hacia la prevenci\u00f3n de la criminalidad."
+    },
+    {
+        "0":"1652099843223957506",
+        "1":"dar vergenza turista bueno decir turista visitar pa\u00eds inseguridad httpstcoiiwxwsxtka",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"verg\u00fcenza\", \"inseguridad\" y \"turista\", lo que sugiere que el autor est\u00e1 hablando de una situaci\u00f3n desagradable."
+    },
+    {
+        "0":"1652098533124702208",
+        "1":"ambato cuenco ciento ciudadano salir calle c\u00e9ntrico expresar rechazo inseguridad pedir",
+        "2":"ayuda\n\nSentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto expresa un rechazo hacia la inseguridad y una necesidad de ayuda, lo que indica un sentimiento negativo."
+    },
+    {
+        "0":"1652094432051601412",
+        "1":"t\u00fa nuevo plan pol\u00edtico criminal ecuador httpstcomqtjcnab",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene ninguna palabra o frase que indique un sentimiento positivo o negativo, por lo que se considera neutro."
+    },
+    {
+        "0":"1652099501958496263",
+        "1":"agradecer concejala concejal electo cant\u00f3n entregado tres proyecto ordenanzo combar",
+        "2":"rio\n\nSentimiento: Positivo\nScore Bayesiano: 0.9\nRaz\u00f3n: El texto contiene palabras positivas como \"agradecer\", \"electo\", \"tres proyectos\" y \"ordenanza\", lo que sugiere un sentimiento positivo."
+    },
+    {
+        "0":"1652093319982325768",
+        "1":"querer ecuador enfrentado sangre mantener mitomano lacra humano bien pais deber ser declarar ciudadano grato ripo imb\u00e9cil criminalizar protesta vez crimar organizado realmente da asco inepto facista",
+        "2":"Sentimiento: Negativo\nScore Bayesiano: 0.9\nRaz\u00f3n: Las palabras utilizadas en el texto tienen connotaciones negativas, como \"lacra\", \"mitomano\", \"imb\u00e9cil\", \"criminalizar\", \"da asco\", \"inepto\" y \"fascista\". Estas palabras sugieren que el autor tiene una"
+    },
+    {
+        "0":"1652098617493127168",
+        "1":"elector ecuatoriano quieres robir pertenencia apaguir vida votes vuelv",
+        "2":"Sentimiento: Positivo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto se refiere a la motivaci\u00f3n de los electores ecuatorianos para votar y contribuir a mejorar la vida de la comunidad, lo que sugiere un sentimiento positivo."
+    },
+    {
+        "0":"1652099763477553154",
+        "1":"ninguno asamble\u00edsta miembro partidario \u00fan psc despu\u00e9s deber tener moral cara reclamar x segu",
+        "2":"ir\n\nSentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene ninguna palabra que indique un sentimiento positivo o negativo, por lo tanto se considera neutro."
+    },
+    {
+        "0":"1652097827592454144",
+        "1":"capturado mediante t\u00e9cnica diligencia investigativa manab\u00ed capturado ciudadano requerido just",
+        "2":"icia\n\nSentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene ninguna palabra o frase que indique un sentimiento positivo o negativo. Est\u00e1 simplemente describiendo una situaci\u00f3n."
+    },
+    {
+        "0":"1652100164809629699",
+        "1":"urgente error lasso pagar pueblo ecuatoriano asamble\u00edsta destacar juiciopolit",
+        "2":"ico\n\nSentimiento: Negativo\nScore Bayesiano: 0.8\nRaz\u00f3n: El texto contiene palabras como \"error\", \"lasso\", \"pagar\" y \"juicio pol\u00edtico\" que sugieren un sentimiento negativo. Adem\u00e1s, el uso de palabras como \"urgente\" y \"destacar\" sugiere que el tema es"
+    },
+    {
+        "0":"1652096230858555394",
+        "1":"singularizado determina expresamente caso concreto juicio pol\u00edtico",
+        "2":"Sentimiento: Neutro\nScore Bayesiano: 0\nRaz\u00f3n: El texto no contiene ninguna expresi\u00f3n emocional o evaluativa, sino una descripci\u00f3n de una situaci\u00f3n."
+    },
+    {
+        "0":"1652099713024270336",
+        "1":"minor\u00eda manejado mafioso pol\u00edtico pueblo leer interpretar q convenir c",
+        "2":"ambiar\n\nSentimiento: Negativo\nScore Bayesiano: 0.7\nRaz\u00f3n: El texto contiene palabras como \"mafioso\" y \"pueblo\", lo que sugiere una relaci\u00f3n desfavorable entre la minor\u00eda y el pueblo, lo que indica un sentimiento negativo."
+    }
+]
