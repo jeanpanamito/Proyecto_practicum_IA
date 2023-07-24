@@ -143,6 +143,9 @@ La información obtenida de este modelo de exploración se la guarda en un CSV.
 Déspues de leer y analizar su contenido, se identifica los valores óptimos para Alpha y Beta donde la coherencia entre tópicos sea la más alta.
 
 Para este proyecto, encontramos que la mayor coherencia se la obtenia cuando Alpha y Beta estaban en **0.01**.
+
+_Nota: Es importante recalcar que se hizo un experimento con los valores por defecto de Alpha y Beta, pero se obtuvo los resultado esperados._
+
 Con estos parámetros ya definidos, realizamos un modelo LDA para conocer la cantidad de tópicos recomendada donde no haya intersección entre tópicos
 
 ```python
@@ -175,6 +178,72 @@ plt.xlabel("Num Topics")
 plt.ylabel("Coherence score")
 plt.legend(("coherence_values"), loc='best')
 plt.show
+```
+![Coherencia](https://github.com/jeanpanamito/Proyecto_practicum_IA/blob/main/pictures/Coherencia.png)
+
+Con la gráfica nos damos cuenta que su pico es 2, pero no podemos tomar una cantidad tan mínima para nuestro modelado, es por eso que el valor que consideramos que aportaría un poco más sería el de **6 tópicos**.
+
+Por lo pronto, hemos los valores definidos son:
+-Número de Tópicos: 6
+-Alpha: 0.01
+-Beta: 0.01
+
+Procedemos a hacer nuestro modelo LDA final.
+```python
+num_topics = 6
+
+lda_model = gensim.models.LdaMulticore(corpus=corpus,
+                                           id2word=id2word,
+                                           num_topics=num_topics,
+                                           random_state=100,
+                                           chunksize=100,
+                                           passes=10,
+                                           alpha=0.01,
+                                           eta=0.01)
+```
+Imprimimos los temas de los 6 tópicos
+```python
+from pprint import pprint
+
+# Print the Keyword in the 10 topics
+pprint(lda_model.print_topics())
+doc_lda = lda_model[corpus]
+```
+Para la visualización de la gráfica del modeloLDA final, hacemos uso de 
+```python
+!pip install pyLDAvis
+```
+Nota: Dentro del entorno virtual _Google colab_, despues de instalar el módulo pyLDAvis, debemos volver al instalar las versiones correctas de numpy y pandas, ya que el módulo las desintala e instala otras versiones, las cuales no permiten que el código funcione.
+
+```python
+pip install pandas==1.5.3 numpy==1.22.4
+```
+El código que genera la gráfica es el siguiente:
+
+```python
+import pyLDAvis.gensim_models as gensimvis
+import pickle
+import pyLDAvis
+
+# Visualize the topics
+pyLDAvis.enable_notebook()
+
+LDAvis_data_filepath = os.path.join('./results/ldavis_tuned_'+str(num_topics))
+
+# # this is a bit time consuming - make the if statement True
+# # if you want to execute visualization prep yourself
+if 1 == 1:
+    LDAvis_prepared = gensimvis.prepare(lda_model, corpus, id2word)
+    with open(LDAvis_data_filepath, 'wb') as f:
+        pickle.dump(LDAvis_prepared, f)
+
+# load the pre-prepared pyLDAvis data from disk
+with open(LDAvis_data_filepath, 'rb') as f:
+    LDAvis_prepared = pickle.load(f)
+
+pyLDAvis.save_html(LDAvis_prepared, './results/ldavis_tuned_'+ str(num_topics) +'.html')
+
+LDAvis_prepared
 ```
 
 
