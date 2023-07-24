@@ -56,7 +56,8 @@ except Exception as e:
 
 ## Preprocesamiento
 Durante esta fase, se aplico una **limpieza** a los datos, la cual consiste en remover caracteres especiales, signos de puntuación, espacios y todo lo que era irrelevante para nuestro ánalisis, luego realizamos la **tokenización** para convertir el texto en una secuencia de elementos discretos que pueden ser analizados y procesados por algoritmos de PLN o modelos de aprendizaje automático, para posteriormente usar el **lematizado** con el intento de reducir cada palabra a su forma base o "lemma".
-Dentro de una nueva colección llamada ecuadorTweets, se cargaron los datos ya preprocesados para acceder a ellos con una mayor eficiencia, dentro de la colección trabajaremos con el atributo clean_text el cual tendra la información de cada tweet.
+En una nueva colección llamada ecuadorTweets, se cargaron los datos preprocesados para acceder a ellos con una mayor eficiencia.
+Dentro de la colección trabajaremos con el atributo clean_text el cual tiene la información de cada tweet.
 
 ```python
 mongo_db = 'Preprocessing'
@@ -70,5 +71,76 @@ stop_words = stopwords.words('spanish')
 stop_words.extend(['rt'])
 stop_words.extend(['q'])
 ```
+## Exploración de parámetros para modelo LDA
+Es importante realizar todas las pruebas necesarias para identificar los mejores parámetros con el fin de definirlos en nuestro modelo, para este proyecto, se realizaron 2 experimentos.
+### Primer Experimento
+En nuestro modelo de exploración, tomamos **30 tópicos** y asignamos que el valor de Alpha este comprendido en el siguiente rango **list(np.arange(0.01, 1, 0.3))** donde puede ser _symmetric_ o _asymmetric_, de la misma forma a Beta le otorgamos el rango de **list(np.arange(0.01, 1, 0.3))** con opción a ser _symmetric_. 
 
+```python
+import numpy as np
+import tqdm
+
+grid = {}
+grid['Validation_Set'] = {}
+
+# Topics range
+min_topics = 2
+max_topics = 31
+step_size = 1
+topics_range = range(min_topics, max_topics, step_size)
+
+# Alpha parameter
+alpha = list(np.arange(0.01, 1, 0.3))
+alpha.append('symmetric')
+alpha.append('asymmetric')
+
+# Beta parameter
+beta = list(np.arange(0.01, 1, 0.3))
+beta.append('symmetric')
+
+# Validation sets
+num_of_docs = len(corpus)
+corpus_sets = [gensim.utils.ClippedCorpus(corpus, int(num_of_docs*0.75)),
+               corpus]
+
+corpus_title = ['100% Corpus']
+
+model_results = {'Validation_Set': [],
+                 'Topics': [],
+                 'Alpha': [],
+                 'Beta': [],
+                 'Coherence': []
+                }
+
+# Can take a long time to run
+if 1 == 1:
+    pbar = tqdm.tqdm(total=(len(beta)*len(alpha)*len(topics_range)*len(corpus_title)))
+
+    # iterate through validation corpuses
+    for i in range(len(corpus_sets)):
+        # iterate through number of topics
+        for k in topics_range:
+            # iterate through alpha values
+            for a in alpha:
+                # iterare through beta values
+                for b in beta:
+                    # get the coherence score for the given parameters
+                    cv = compute_coherence_values(corpus=corpus_sets[i], dictionary=id2word,
+                                                  k=k, a=a, b=b)
+                    # Save the model results
+                    model_results['Validation_Set'].append(corpus_title)
+                    model_results['Topics'].append(k)
+                    model_results['Alpha'].append(a)
+                    model_results['Beta'].append(b)
+                    model_results['Coherence'].append(cv)
+
+                    pbar.update(1)
+    pd.DataFrame(model_results).to_csv('./results/lda_tuning_results.csv', index=False)
+    pbar.close()
+```
+
+La información obtenida de este modelo de exploración se la guarda en un CSV, déspues de leer y analizar su contenido, se identifica los valores óptimos para Alpha y Beta donde la coherencia entre tópicos sea la más alta.
+
+Para este proyecto, encontramos que la mayor coherencia se la obtenia cuando Alpha y Beta estaban en 0.01.
+Con estos valores ya definimos, realizamos un modelo LDA
 
