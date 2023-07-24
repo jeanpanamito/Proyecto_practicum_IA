@@ -213,8 +213,7 @@ Para la visualización de la gráfica del modeloLDA final, hacemos uso de
 ```python
 !pip install pyLDAvis
 ```
-Nota: Dentro del entorno virtual _Google colab_, despues de instalar el módulo pyLDAvis, debemos volver al instalar las versiones correctas de numpy y pandas, ya que el módulo las desintala e instala otras versiones, las cuales no permiten que el código funcione.
-
+_Nota: Dentro del entorno virtual Google colab, despues de instalar el módulo pyLDAvis, debemos volver al instalar las versiones correctas de numpy y pandas, ya que el módulo las desintala e instala otras versiones, las cuales no permiten que el código funcione._
 ```python
 pip install pandas==1.5.3 numpy==1.22.4
 ```
@@ -245,5 +244,7 @@ pyLDAvis.save_html(LDAvis_prepared, './results/ldavis_tuned_'+ str(num_topics) +
 
 LDAvis_prepared
 ```
+![Topicos](https://github.com/jeanpanamito/Proyecto_practicum_IA/blob/main/pictures/Topicos.png)
 
+Esa sería la gráfica resultante de nuestro modelo.
 
