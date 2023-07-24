@@ -139,10 +139,11 @@ if 1 == 1:
     pbar.close()
 ```
 
-La información obtenida de este modelo de exploración se la guarda en un CSV, déspues de leer y analizar su contenido, se identifica los valores óptimos para Alpha y Beta donde la coherencia entre tópicos sea la más alta.
+La información obtenida de este modelo de exploración se la guarda en un CSV.
+Déspues de leer y analizar su contenido, se identifica los valores óptimos para Alpha y Beta donde la coherencia entre tópicos sea la más alta.
 
 Para este proyecto, encontramos que la mayor coherencia se la obtenia cuando Alpha y Beta estaban en **0.01**.
-Con estos parámetros ya definidos, realizamos un modelo LDA para conocer la cantidad de tópicos recomendada donde no hay intersección entre tópicos
+Con estos parámetros ya definidos, realizamos un modelo LDA para conocer la cantidad de tópicos recomendada donde no haya intersección entre tópicos
 
 ```python
 from gensim.models import CoherenceModel
@@ -165,7 +166,7 @@ for i in range(0,29):
   print(listacv)
   print(len(listacv))
 ```
-Con el uso de Matplotlib generamos una gráfica donde podemos visualizar cual es la cantidad recomendada de tópicos
+Con el uso de Matplotlib generamos una gráfica donde podemos visualizar cual es la cantidad recomendada de tópicos.
 ```python
 import matplotlib.pyplot as plt
 x= range(2,31)
