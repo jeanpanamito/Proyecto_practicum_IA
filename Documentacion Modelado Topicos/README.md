@@ -144,7 +144,7 @@ Déspues de leer y analizar su contenido, se identifica los valores óptimos par
 
 Para este proyecto, encontramos que la mayor coherencia se la obtenia cuando Alpha y Beta estaban en **0.01**.
 
-_Nota: Es importante recalcar que se hizo un experimento con los valores por defecto de Alpha y Beta, pero se obtuvo los resultado esperados._
+_Nota: Es importante recalcar que se hizo un experimento con los valores por defecto de Alpha y Beta, pero NO se obtuvo los resultado esperados._
 
 Con estos parámetros ya definidos, realizamos un modelo LDA para conocer la cantidad de tópicos recomendada donde no haya intersección entre tópicos
 
