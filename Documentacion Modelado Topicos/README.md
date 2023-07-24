@@ -72,9 +72,9 @@ stop_words.extend(['rt'])
 stop_words.extend(['q'])
 ```
 ## Exploración de parámetros para modelo LDA
-Es importante realizar todas las pruebas necesarias para identificar los mejores parámetros con el fin de definirlos en nuestro modelo, para este proyecto, se realizaron 2 experimentos.
-### Primer Experimento
-En nuestro modelo de exploración, tomamos **30 tópicos** y asignamos que el valor de Alpha este comprendido en el siguiente rango **list(np.arange(0.01, 1, 0.3))** donde puede ser _symmetric_ o _asymmetric_, de la misma forma a Beta le otorgamos el rango de **list(np.arange(0.01, 1, 0.3))** con opción a ser _symmetric_. 
+Es importante realizar todas las pruebas necesarias para identificar los mejores parámetros con el fin de definirlos en nuestro modelo.
+
+En nuestro modelo de exploración, tomamos como prueba **30 tópicos** y asignamos que el valor de Alpha este comprendido en el siguiente rango **list(np.arange(0.01, 1, 0.3))** donde puede ser _symmetric_ o _asymmetric_, de la misma forma a Beta le otorgamos el rango de **list(np.arange(0.01, 1, 0.3))** con opción a ser _symmetric_. 
 
 ```python
 import numpy as np
