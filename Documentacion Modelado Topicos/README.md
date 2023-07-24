@@ -139,7 +139,8 @@ if 1 == 1:
     pbar.close()
 ```
 
-La información obtenida de este modelo de exploración se la guarda en un CSV.
+La información obtenida de este modelo de exploración se la guarda en un ![CSV](https://github.com/jeanpanamito/Proyecto_practicum_IA/blob/main/Archivos/lda_tuning_results.csv)
+
 Déspues de leer y analizar su contenido, se identifica los valores óptimos para Alpha y Beta donde la coherencia entre tópicos sea la más alta.
 
 Para este proyecto, encontramos que la mayor coherencia se la obtenia cuando Alpha y Beta estaban en **0.01**.
@@ -247,4 +248,6 @@ LDAvis_prepared
 ![Topicos](https://github.com/jeanpanamito/Proyecto_practicum_IA/blob/main/pictures/Topicos.png)
 
 Esa sería la gráfica resultante de nuestro modelo.
+
+El enlace para observar el notebook de Google Colab es el siguiente https://colab.research.google.com/drive/1_oGORY3LoNTJTo5U3VP_S5SD4jj3rJHU?usp=sharing 
 
