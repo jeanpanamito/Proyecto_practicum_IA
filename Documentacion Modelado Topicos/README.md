@@ -141,6 +141,39 @@ if 1 == 1:
 
 La información obtenida de este modelo de exploración se la guarda en un CSV, déspues de leer y analizar su contenido, se identifica los valores óptimos para Alpha y Beta donde la coherencia entre tópicos sea la más alta.
 
-Para este proyecto, encontramos que la mayor coherencia se la obtenia cuando Alpha y Beta estaban en 0.01.
-Con estos valores ya definimos, realizamos un modelo LDA
+Para este proyecto, encontramos que la mayor coherencia se la obtenia cuando Alpha y Beta estaban en **0.01**.
+Con estos parámetros ya definidos, realizamos un modelo LDA para conocer la cantidad de tópicos recomendada donde no hay intersección entre tópicos
+
+```python
+from gensim.models import CoherenceModel
+coherence = []
+for k in range(2,31):
+    print('Round: '+str(k))
+    Lda = gensim.models.ldamodel.LdaModel
+    ldamodel = Lda(corpus, num_topics=k, id2word = id2word, passes=20, iterations=20, chunksize = 25,random_state=10, eval_every = None,alpha=0.01,
+                                           eta=0.01)
+
+    cm = gensim.models.coherencemodel.CoherenceModel(model=ldamodel, texts= tweets,dictionary= id2word, coherence='c_v')
+
+    coherence.append((k,cm.get_coherence()))
+```
+Imprimimos el número de tópicos junto con el nivel de coherencia y lo guardamos en un CSV
+```python
+listacv=[]
+for i in range(0,29):
+  listacv.append(coherence[i][1])
+  print(listacv)
+  print(len(listacv))
+```
+Con el uso de Matplotlib generamos una gráfica donde podemos visualizar cual es la cantidad recomendada de tópicos
+```python
+import matplotlib.pyplot as plt
+x= range(2,31)
+plt.plot(x, listacv)
+plt.xlabel("Num Topics")
+plt.ylabel("Coherence score")
+plt.legend(("coherence_values"), loc='best')
+plt.show
+```
+
 
