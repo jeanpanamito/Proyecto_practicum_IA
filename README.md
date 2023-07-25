@@ -103,13 +103,12 @@ mongo_collection = 'tweets'
 db = client[mongo_db]
 datos = db[mongo_collection].find
 ```
-#### [Colecciones:](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=E7a4rhybfo5e&line=2&uniqifier=1)
+#### [Colecciones:](https://github.com/jeanpanamito/Proyecto_practicum_IA/tree/main/Archivos)
 1. tweets = tweets de muestra Original
 2. tweetsOriginals = twets sin rts
 3. tweetsPreprocessed = muestra sin rts con preprocesamiento inicial
 4. tweetsLemmaComparation = tweets sin rts comparacion entre lemmatización nltk y spacy
 5. ecuadorTweets = tweets filtrados y preprocesados
-
 
 ## [Preprocesamiento](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=omi0VcgIhMpP)
 El proyecto realiza varias etapas de preprocesamiento de datos para preparar los textos de los tweets antes de realizar el análisis de sentimientos y la clasificación.
@@ -120,7 +119,6 @@ Así evitamos alteraciones en los resultados por tweets que no aportan texto adi
 
 ### [2. Limpieza de texto](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=nWi8u6whhgn9&line=4&uniqifier=1)
 Se realiza una serie de pasos para limpiar el texto de los tweets:
-
 - Remover usuarios
 - Remover caractéres especiales manteniendo acentos.
 - Remover URL.
@@ -135,13 +133,23 @@ Cargamos la lista de palabras vacías en español utilizando `stopwords.words('s
 Se agrega manualmente la palabra 'rt' a la lista de stopwords utilizando `stop_words.extend(['rt'])`. 'rt' generalmente se refiere a "retweet" y a menudo se elimina en análisis de texto.
 
 ### [4. Tokenización](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=jjCubgkMhjHk&line=4&uniqifier=1)
-Los tweets se dividen en palabras o tokens individuales utilizando el tokenizador `word_tokenize` de NLTK. Esto nos permite trabajar con cada palabra por separado en etapas posteriores.
+Los tweets se dividen en palabras o tokens individuales utilizando el tokenizador `word_tokenize` de NLTK. Esto nos permite trabajar con cada palabra por separado en etapas posteriores. Recordar configurar en base al idioma con: `word_tokenize(text, language='spanish')`
 
 ### [5. Corrección ortográfica](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=3W22i8mXmz6I&line=7&uniqifier=1)
 Se realiza una corrección ortográfica en los tweets utilizando la biblioteca `SpellChecker`. Esto ayuda a corregir posibles errores de escritura y mejorar la precisión del análisis de sentimientos. (No implementada)
 
 ### [6. Lemmatización](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=aQyuaRnJbHp4)
-Se realiza la lematización de las palabras para reducir las palabras a su forma base o lema. Esto ayuda a reducir la variabilidad y mejorar la precisión del análisis de sentimientos.
+Se realiza la lematización de las palabras para reducir las palabras a su forma base o lema. Esto ayuda a reducir la variabilidad y mejorar la precisión del análisis de sentimientos. <br>
+Realizamos pruebas con la librería NLTK y Spacy
+
+### [7. WordCloud](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=1tKzw69LB15N&line=9&uniqifier=1)
+Utilizamos la biblioteca matplotlib y wordcloud para crear una nube de palabras. <br> 
+Se define una lista llamada `text_list`, donde se almacena el contenido limpio de cada tweet como una cadena de texto. 
+Se utiliza una comprensión de listas para recorrer la columna `clean_text` de `tweetDF` **(un DataFrame)** y unir las palabras limpias en cada tweet con un espacio para formar una cadena. <br>
+Luego, se crea una cadena de texto llamada `long_string`, que une todas las cadenas de texto de `text_list` en una sola cadena. <br>
+Se configura el objeto **WordCloud** con algunas opciones, como el color de fondo, el número máximo de palabras a mostrar (max_words), el color y el ancho del contorno.<br>
+Se genera la nube de palabras utilizando el método `generate(long_string)` aplicado al objeto **wordcloud**.<br>
+Finalmente, la imagen de la nube de palabras se visualiza utilizando el método `to_image()`. 
 
 ## Modelado de tópicos
 
