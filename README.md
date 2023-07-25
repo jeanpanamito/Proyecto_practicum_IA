@@ -22,7 +22,7 @@ urls | Urls extraidas del tweet
 photos | Urls de imágenes que contiene el tweet
 videos | Urls de videos que contenga el tweet
 
-## Instalación de módulos
+## [Instalación de módulos](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=O6QlgIXNOkJO)
 El proyecto requiere la instalación de los siguientes módulos. El signo de exclamación es en caso de realizarse en un notebook. La línea de código: 
 `-m spacy download es_core_news_sm` descarga un modelo específico para el procesamiento del lenguaje español (es) proporcionado por Spacy. 
 
@@ -105,11 +105,11 @@ datos = db[mongo_collection].find
 ```
 #### [Colecciones:](https://github.com/jeanpanamito/Proyecto_practicum_IA/tree/main/Archivos)
 1. tweets = tweets de muestra Original
-2. tweetsOriginals = twets sin rts
-3. tweetsPreprocessed = muestra sin rts con preprocesamiento inicial
-4. tweetsLemmaComparation = tweets sin rts comparacion entre lemmatización nltk y spacy
+2. tweetsOriginals = twets sin rts 
+3. tweetsPreprocessed = muestra sin rts con preprocesamiento inicial 
+4. tweetsLemmaComparation = tweets sin rts comparacion entre lemmatización nltk y spacy 
 5. ecuadorTweets = tweets filtrados y preprocesados
-
+ 
 ## [Preprocesamiento](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=omi0VcgIhMpP)
 El proyecto realiza varias etapas de preprocesamiento de datos para preparar los textos de los tweets antes de realizar el análisis de sentimientos y la clasificación.
 
@@ -117,7 +117,12 @@ El proyecto realiza varias etapas de preprocesamiento de datos para preparar los
 Filtramos y descartamos tweets que son retweets, es decir, aquellos tweets que tienen el mismo texto que otro tweet ya presente en la lista. El objetivo es obtener una lista de tweets que contenga solo los tweets originales sin duplicados. <br>
 Así evitamos alteraciones en los resultados por tweets que no aportan texto adicional.
 
-### [2. Limpieza de texto](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=nWi8u6whhgn9&line=4&uniqifier=1)
+### 2. [Filtrado por ubicación](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=mwdTQC2pdlYK&line=1&uniqifier=1)
+Se utiliza la expresión `dfProcessed['user'].apply(lambda x: 'ecuador' in x.get('location', '').lower())` para crear una serie booleana que indica si la ubicación de cada usuario en `dfProcessed` contiene la palabra **"ecuador"** en letras minúsculas.
+La expresión `x.get('location', '')` se utiliza para obtener el valor de la clave **'location'** del diccionario **x**, que representa cada fila en la columna **'user'** del DataFrame. Si no existe **'location'**, se devuelve una cadena vacía.
+El resultado del filtro se almacena en un nuevo DataFrame llamado **filtered_df**.
+
+### [3. Limpieza de texto](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=nWi8u6whhgn9&line=4&uniqifier=1)
 Se realiza una serie de pasos para limpiar el texto de los tweets:
 - Remover usuarios
 - Remover caractéres especiales manteniendo acentos.
@@ -126,19 +131,19 @@ Se realiza una serie de pasos para limpiar el texto de los tweets:
 - Remover espacios extra.
 - Remover leading/trailing spaces.
 
-### [3. StopWords](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=FpIHQEKslLEj&line=3&uniqifier=1)
+### [4. StopWords](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=FpIHQEKslLEj&line=3&uniqifier=1)
 Usamos la librería nltk para remover stopwords <br>
 Se descargan los recursos para el tokenizador y las palabras vacías (stopwords) en español utilizando `nltk.download('stopwords')` y `nltk.download('punkt')` <br>
 Cargamos la lista de palabras vacías en español utilizando `stopwords.words('spanish')`.
 Se agrega manualmente la palabra 'rt' a la lista de stopwords utilizando `stop_words.extend(['rt'])`. 'rt' generalmente se refiere a "retweet" y a menudo se elimina en análisis de texto.
 
-### [4. Tokenización](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=jjCubgkMhjHk&line=4&uniqifier=1)
+### [5. Tokenización](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=jjCubgkMhjHk&line=4&uniqifier=1)
 Los tweets se dividen en palabras o tokens individuales utilizando el tokenizador `word_tokenize` de NLTK. Esto nos permite trabajar con cada palabra por separado en etapas posteriores. Recordar configurar en base al idioma con: `word_tokenize(text, language='spanish')`
 
-### [5. Corrección ortográfica](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=3W22i8mXmz6I&line=7&uniqifier=1)
+### [6. Corrección ortográfica](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=3W22i8mXmz6I&line=7&uniqifier=1)
 Se realiza una corrección ortográfica en los tweets utilizando la biblioteca `SpellChecker`. Esto ayuda a corregir posibles errores de escritura y mejorar la precisión del análisis de sentimientos. (No implementada)
 
-### [6. Lemmatización](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=aQyuaRnJbHp4)
+### [7. Lemmatización](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=aQyuaRnJbHp4)
 Se realiza la lematización de las palabras para reducir las palabras a su forma base o lema. Esto ayuda a reducir la variabilidad y mejorar la precisión del análisis de sentimientos. <br>
 Realizamos pruebas con la librería NLTK y Spacy
 
