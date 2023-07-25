@@ -96,7 +96,7 @@ datos = db[mongo_collection].find
 ```
 
 
-## [Preprocesamiento](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=omi0VcgIhMpP){:target="_blank"}
+## [Preprocesamiento](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=omi0VcgIhMpP) {:target="_blank"}
 
 El proyecto realiza varias etapas de preprocesamiento de datos para preparar los textos de los tweets antes de realizar el análisis de sentimientos y la clasificación.
 
