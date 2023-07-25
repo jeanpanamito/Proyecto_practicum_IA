@@ -158,12 +158,12 @@ Se configura el objeto **WordCloud** con algunas opciones, como el color de fond
 Se genera la nube de palabras utilizando el método `generate(long_string)` aplicado al objeto **wordcloud**.<br>
 Finalmente, la imagen de la nube de palabras se visualiza utilizando el método `to_image()`. 
 
-## Modelado de tópicos
+## [Modelado de tópicos](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=2qnst2d3Zpz7)
 
 Durante esta etapa, se pretende recuperar toda la información obtenida desde los tweets para encontrar los temas generales y temáticas implicitas que abarquen todo el contenido del texto, para de esa forma ordenar, resumir y tener mejor comprensión sobre el mismo.
 Para este proyecto, hemos decidido trabajar bajo el algoritmo de LDA(Latent Dirichlet Allocation).
 
-##  Análisis de Sentimientos 
+##  [Análisis de Sentimientos](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=bkxtqgMBLG5q)
 
 En la presente documentacion, se describe el proceso de análisis de sentimientos realizado utilizando dos modelos de procesamiento de lenguaje natural. El objetivo fue evaluar diferentes enfoques y determinar cuál de los modelos proporcionaba los mejores resultados en términos de clasificación de sentimientos en textos, específicamente en tweets.
 
