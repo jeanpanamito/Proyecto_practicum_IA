@@ -22,6 +22,7 @@ Se utilizó el siguiente [notebook](https://colab.research.google.com/drive/1Czr
     - [7. Lemmatización](#7-lemmatización)
     - [8. WordCloud](#8-wordcloud)
   - [Modelado de tópicos](#modelado-de-tópicos)
+    - 
   - [Análisis de Sentimientos](#análisis-de-sentimientos)
     - [Modelos Utilizados](#modelos-utilizados)
     - [Proceso de Análisis de Sentimientos](#proceso-de-análisis-de-sentimientos)
@@ -196,8 +197,36 @@ Se realizo algunos experimentos al momento de definir los valores de Alpha y Bet
 - El segundo lo realizamos con un programa el cual nos permitia el que el valor de Alpha y Beta se situe en un rango de (0.01, 1, 0.3), dicho resultado lo almacenabamos en un CSV, el cual lo analizamos y escogimos los valores donde cuya coherencia era la más optima, donde el valor que definimos para estos parámetros fue de 0.01.
 
 De la misma manera, luego de definir los valores de Alpha y Beta, necesitabamos encontrar el número de tópicos más favorable para que no exista una duplicación de temas entre ellos, es por eso que generamos una gráfica la cual nos permitia observar el valor de la coherencia junto con el número de tópicos.
+
+- El pico de la gráfica era con 2 tópicos, pero fue descartado ya que era un número muy limitante a relación con una extensa información de los tweets.
+- El siguiente más alto, fue 6 tópicos, el cual lo elegimos, debido a que los temas de cada tópico no eran repetitivos y no se intersecaban.
+
 ### Selección y experimentación con parámetros óptimos
+Al obtener los parámetros óptimos los cuales eran:
+- Alpha: 0.01
+- Beta: 0.01
+- Diccionario: id2word
+- Número de tópicos: 6
+
+Se procedio a realizar el modelo final LDA:
+
+```python
+num_topics = 6
+
+lda_model = gensim.models.LdaMulticore(corpus=corpus,
+                                           id2word=id2word,
+                                           num_topics=num_topics,
+                                           random_state=100,
+                                           chunksize=100,
+                                           passes=10,
+                                           alpha=0.01,
+                                           eta=0.01)
+```
 ### Resultado del modelo LDA
+Presentamos el resultado del modelo, mediante una gráfica usando la libreria de pyLDAvis.
+![Topicos](https://github.com/jeanpanamito/Proyecto_practicum_IA/blob/main/pictures/Topicos.png)
+
+Donde nos permitio observar el contenido de temas que tenía cada tópico y la distancia/diferencia entre tópicos que existe.
 
 ##  [Análisis de Sentimientos](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=bkxtqgMBLG5q)
 
