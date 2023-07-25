@@ -75,7 +75,7 @@ A continuación, se detalla la funcionalidad de cada librería importada:
 14. `spellchecker`: Es una biblioteca para corregir la ortografía en textos.
 15. `spacy`: Biblioteca de procesamiento del lenguaje natural (PLN). Se la utilizará para 
 
-## Conexión a la base de datos MongoDB
+## [Conexión a la base de datos MongoDB](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=Cqa8eXtVXZQR)
 El proyecto se conecta a una base de datos MongoDB utilizando la siguiente configuración:
 
 ```python
@@ -83,8 +83,17 @@ uri = "mongodb+srv://<username>:<password>@<cluster_url>/"
 client = MongoClient(uri, server_api=ServerApi('1'))
 ```
 
-El URI de conexión debe reemplazarse con las credenciales y la URL del clúster MongoDB.
-
+El URI de conexión debe reemplazarse con las credenciales y la URL de la base deseada, en este caso se usó un cluster de Mongo Atlas.
+<br>
+Con las siguiente línea de código obtenemos una confirmación en caso de conectarse a una base en la nube
+```python
+# Send a ping to confirm a successful connection
+try:
+    client.admin.command('ping')
+    print("Pinged your deployment. You successfully connected to MongoDB!")
+except Exception as e:
+    print(e)
+```
 ## Especificación de la colección de la base de datos
 El proyecto especifica la base de datos y la colección de MongoDB con la siguiente configuración:
 
@@ -94,6 +103,12 @@ mongo_collection = 'tweets'
 db = client[mongo_db]
 datos = db[mongo_collection].find
 ```
+#### [Colecciones:](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=E7a4rhybfo5e&line=2&uniqifier=1)
+1. tweets = tweets de muestra Original
+2. tweetsOriginals = twets sin rts
+3. tweetsPreprocessed = muestra sin rts con preprocesamiento inicial
+4. tweetsLemmaComparation = tweets sin rts comparacion entre lemmatización nltk y spacy
+5. ecuadorTweets = tweets filtrados y preprocesados
 
 
 ## [Preprocesamiento](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=omi0VcgIhMpP)
