@@ -1,8 +1,10 @@
 # Proyecto_practicum_IA
 Aplicación de Técnicas de Inteligencia Artificial en Información Relacionada a la Seguridad Nacional
-# Documentación del proyecto "Aplicación de Técnicas de Inteligencia Artificial en Información Relacionada a la Seguridad Nacional"
 
-El proyecto "Aplicación de Técnicas de Inteligencia Artificial en Información Relacionada a la Seguridad Nacional" utiliza varias técnicas de procesamiento del lenguaje natural y análisis de sentimientos para procesar y analizar datos relacionados con la seguridad nacional.
+# Documentación del proyecto "Aplicación de Técnicas de Inteligencia Artificial en Información Relacionada a la Seguridad Nacional"
+El proyecto "Aplicación de Técnicas de Inteligencia Artificial en Información Relacionada a la Seguridad Nacional" utiliza varias técnicas de procesamiento del lenguaje natural y análisis de sentimientos para procesar y analizar datos relacionados con la seguridad nacional. <br>
+
+Se utilizó el siguiente [notebook](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=nADt1RBGXbDX&uniqifier=1) de Google Colab para el desarrollo del proyecto
 
 ## Descripción de Metadatos
 Se utilizó la API de Twitter para guardar en una colección de MongoDB documentos que contienen metadatos de tweets sobre Seguridad en Ecuador
