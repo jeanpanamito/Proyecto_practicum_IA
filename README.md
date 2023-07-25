@@ -119,7 +119,7 @@ El proyecto realiza varias etapas de preprocesamiento de datos para preparar los
 Filtramos y descartamos tweets que son retweets, es decir, aquellos tweets que tienen el mismo texto que otro tweet ya presente en la lista. El objetivo es obtener una lista de tweets que contenga solo los tweets originales sin duplicados. <br>
 Así evitamos alteraciones en los resultados por tweets que no aportan texto adicional.
 
-### 2. [Filtrado por ubicación](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=mwdTQC2pdlYK&line=1&uniqifier=1)
+### [2. Filtrado por ubicación](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=mwdTQC2pdlYK&line=1&uniqifier=1)
 Se utiliza la expresión `dfProcessed['user'].apply(lambda x: 'ecuador' in x.get('location', '').lower())` para crear una serie booleana que indica si la ubicación de cada usuario en `dfProcessed` contiene la palabra **"ecuador"** en letras minúsculas.
 La expresión `x.get('location', '')` se utiliza para obtener el valor de la clave **'location'** del diccionario **x**, que representa cada fila en la columna **'user'** del DataFrame. Si no existe **'location'**, se devuelve una cadena vacía.
 El resultado del filtro se almacena en un nuevo DataFrame llamado **filtered_df**.
