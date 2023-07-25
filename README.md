@@ -230,6 +230,9 @@ Presentamos el resultado del modelo, mediante una gráfica usando la libreria de
 
 Donde nos permitio observar el contenido de temas que tenía cada tópico y la distancia/diferencia entre tópicos que existe.
 
+Nota: Si necesita más información sobre lo realizado con el modelado de tópicos, puede redirigirse a la carpeta de documentación del mismo.
+[Documentacion Modelado Topicos](https://github.com/jeanpanamito/Proyecto_practicum_IA/tree/a3772ba94ea5d29af4e0f28452aa191a305b82ae/Documentacion%20Modelado%20Topicos)
+
 ##  [Análisis de Sentimientos](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=bkxtqgMBLG5q)
 
 En la presente documentacion, se describe el proceso de análisis de sentimientos realizado utilizando dos modelos de procesamiento de lenguaje natural. El objetivo fue evaluar diferentes enfoques y determinar cuál de los modelos proporcionaba los mejores resultados en términos de clasificación de sentimientos en textos, específicamente en tweets.
