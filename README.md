@@ -189,6 +189,16 @@ Finalmente, la imagen de la nube de palabras se visualiza utilizando el método 
 Durante esta etapa, se pretende recuperar toda la información obtenida desde los tweets para encontrar los temas generales y temáticas implicitas que abarquen todo el contenido del texto, para de esa forma ordenar, resumir y tener mejor comprensión sobre el mismo.
 Para este proyecto, hemos decidido trabajar bajo el algoritmo de LDA(Latent Dirichlet Allocation).
 
+### Exploración de parámetros para el modelo LDA
+
+Se realizo algunos experimentos al momento de definir los valores de Alpha y Beta
+- El primero fue usando los valores por defecto, pero la coherencia que obteniamos, era baja.
+- El segundo lo realizamos con un programa el cual nos permitia el que el valor de Alpha y Beta se situe en un rango de (0.01, 1, 0.3), dicho resultado lo almacenabamos en un CSV, el cual lo analizamos y escogimos los valores donde cuya coherencia era la más optima, donde el valor que definimos para estos parámetros fue de 0.01.
+
+De la misma manera, luego de definir los valores de Alpha y Beta, necesitabamos encontrar el número de tópicos más favorable para que no exista una duplicación de temas entre ellos, es por eso que generamos una gráfica la cual nos permitia observar el valor de la coherencia junto con el número de tópicos.
+### Selección y experimentación con parámetros óptimos
+### Resultado del modelo LDA
+
 ##  [Análisis de Sentimientos](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=bkxtqgMBLG5q)
 
 En la presente documentacion, se describe el proceso de análisis de sentimientos realizado utilizando dos modelos de procesamiento de lenguaje natural. El objetivo fue evaluar diferentes enfoques y determinar cuál de los modelos proporcionaba los mejores resultados en términos de clasificación de sentimientos en textos, específicamente en tweets.
