@@ -6,6 +6,32 @@ El proyecto "Aplicación de Técnicas de Inteligencia Artificial en Información
 
 Se utilizó el siguiente [notebook](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=nADt1RBGXbDX&uniqifier=1) de Google Colab para el desarrollo del proyecto
 
+## Tabla de Contenidos
+  - [Descripción de Metadatos](#descripción-de-metadatos)
+  - [Instalación de módulos](#instalación-de-módulos)
+  - [Importación de librerías](#importación-de-librerías)
+  - [Conexión a la base de datos MongoDB](#conexión-a-la-base-de-datos-mongodb)
+  - [Especificación de la colección de la base de datos](#especificación-de-la-colección-de-la-base-de-datos)
+  - [Preprocesamiento](#preprocesamiento)
+    - [1. Discriminar Retweets](#1-discriminar-retweets)
+    - [2. Filtrado por ubicación](#2-filtrado-por-ubicación)
+    - [3. Limpieza de texto](#3-limpieza-de-texto)
+    - [4. StopWords](#4-stopwords)
+    - [5. Tokenización](#5-tokenización)
+    - [6. Corrección ortográfica](#6-corrección-ortográfica)
+    - [7. Lemmatización](#7-lemmatización)
+    - [8. WordCloud](#8-wordcloud)
+  - [Modelado de tópicos](#modelado-de-tópicos)
+  - [Análisis de Sentimientos](#análisis-de-sentimientos)
+    - [Modelos Utilizados](#modelos-utilizados)
+    - [Proceso de Análisis de Sentimientos](#proceso-de-análisis-de-sentimientos)
+    - [Conclusiones](#conclusiones)
+  - [Clasificación de temas](#clasificación-de-temas)
+  - [Almacenamiento de resultados](#almacenamiento-de-resultados)
+  - [Conclusiones](#conclusiones-1)
+
+
+
 ## Descripción de Metadatos
 Se utilizó la API de Twitter para guardar en una colección de MongoDB documentos que contienen metadatos de tweets sobre Seguridad en Ecuador
 Metadato | Descripción |
@@ -149,7 +175,7 @@ Se realiza una corrección ortográfica en los tweets utilizando la biblioteca `
 Se realiza la lematización de las palabras para reducir las palabras a su forma base o lema. Esto ayuda a reducir la variabilidad y mejorar la precisión del análisis de sentimientos. <br>
 Realizamos pruebas con la librería NLTK y Spacy
 
-### [7. WordCloud](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=1tKzw69LB15N&line=9&uniqifier=1)
+### [8. WordCloud](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=1tKzw69LB15N&line=9&uniqifier=1)
 Utilizamos la biblioteca matplotlib y wordcloud para crear una nube de palabras. <br> 
 Se define una lista llamada `text_list`, donde se almacena el contenido limpio de cada tweet como una cadena de texto. 
 Se utiliza una comprensión de listas para recorrer la columna `clean_text` de `tweetDF` **(un DataFrame)** y unir las palabras limpias en cada tweet con un espacio para formar una cadena. <br>
