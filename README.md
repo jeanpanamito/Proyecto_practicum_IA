@@ -22,7 +22,9 @@ Se utilizó el siguiente [notebook](https://colab.research.google.com/drive/1Czr
     - [7. Lemmatización](#7-lemmatización)
     - [8. WordCloud](#8-wordcloud)
   - [Modelado de tópicos](#modelado-de-tópicos)
-    - 
+    - [Exploración de parámetros para el modelo LDA](#exploración-de-parámetros-para-el-modelo-LDA)
+    - [Selección y experimentación con parámetros óptimos](#selección-y-experimentación-con-parámetros-óptimos)
+    - [Resultado del modelo LDA](#resultado-del-modelo-LDA)
   - [Análisis de Sentimientos](#análisis-de-sentimientos)
     - [Modelos Utilizados](#modelos-utilizados)
     - [Proceso de Análisis de Sentimientos](#proceso-de-análisis-de-sentimientos)
