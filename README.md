@@ -23,12 +23,17 @@ photos | Urls de imágenes que contiene el tweet
 videos | Urls de videos que contenga el tweet
 
 ## Instalación de módulos
-El proyecto requiere la instalación de los siguientes módulos:
+El proyecto requiere la instalación de los siguientes módulos. El signo de exclamación es en caso de realizarse en un notebook. La línea de código: 
+`-m spacy download es_core_news_sm` descarga un modelo específico para el procesamiento del lenguaje español (es) proporcionado por Spacy. 
 
-```python
-!pip install tweepy pymongo
+```shell
+!pip install pandas 
+!pip install tweepy pymongo 
+!pip install spacy 
+!python -m spacy download es_core_news_sm #Setting adicional para Spacy
 !pip install transformers
 !pip install pyspellchecker
+!pip install openai
 ```
 
 ## Importación de librerías
@@ -41,6 +46,7 @@ from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import re
+import spacy
 from nltk.tokenize import word_tokenize
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import numpy as np
@@ -67,6 +73,7 @@ A continuación, se detalla la funcionalidad de cada librería importada:
 12. `urllib.request`: Se utiliza para abrir y leer URL.
 13. `nltk.corpus.stopwords`: Proporciona una lista de palabras comunes que se pueden filtrar en el procesamiento del lenguaje natural.
 14. `spellchecker`: Es una biblioteca para corregir la ortografía en textos.
+15. `spacy`: Biblioteca de procesamiento del lenguaje natural (PLN). Se la utilizará para 
 
 ## Conexión a la base de datos MongoDB
 El proyecto se conecta a una base de datos MongoDB utilizando la siguiente configuración:
@@ -89,34 +96,41 @@ datos = db[mongo_collection].find
 ```
 
 
-## Preprocesamiento de datos
+## [Preprocesamiento](https://colab.research.google.com/drive/1CzrbJVRNDXXsiP752i0PNpjq1TyAy-Tm#scrollTo=omi0VcgIhMpP){:target="_blank"}
 
 El proyecto realiza varias etapas de preprocesamiento de datos para preparar los textos de los tweets antes de realizar el análisis de sentimientos y la clasificación.
+
 
 ### 1. Limpieza de texto
 
 Se realiza una serie de pasos para limpiar el texto de los tweets:
 
-- Se eliminan los enlaces URL utilizando expresiones regulares.
-- Se eliminan las menciones a otros usuarios de Twitter.
-- Se eliminan los caracteres especiales y los números.
-- Se convierten todos los caracteres a minúsculas.
-- Se eliminan los signos de puntuación.
-- Se eliminan los espacios en blanco adicionales.
+- Remover usuarios
+- Remover caractéres especiales manteniendo acentos.
+- Remover URL.
+- Remover puntuaciones.
+- Remover espacios extra.
+- Remover leading/trailing spaces.
 
-### 2. Tokenización
+### 2. StopWords
+Se usa la librería nltk para remover stopwords <br>
+Se descargan los recursos para el tokenizador y las palabras vacías (stopwords) en español utilizando `nltk.download('stopwords')` y `nltk.download('punkt')` <br>
+Se carga la lista de palabras vacías en español utilizando stopwords.words('spanish').
+Se agrega manualmente la palabra 'rt' a la lista de stopwords utilizando stop_words.extend(['rt']). 'rt' generalmente se refiere a "retweet" y a menudo se elimina en análisis de texto.
+
+### 3. Tokenización
 
 Los tweets se dividen en palabras o tokens individuales utilizando el tokenizador `word_tokenize` de NLTK. Esto nos permite trabajar con cada palabra por separado en etapas posteriores.
 
-### 3. Eliminación de palabras irrelevantes
+### 4. Eliminación de palabras irrelevantes
 
 Se eliminan las palabras irrelevantes, como los artículos, pronombres y preposiciones, utilizando la lista de palabras vacías (stop words) proporcionada por NLTK.
 
-### 4. Corrección ortográfica
+### 5. Corrección ortográfica
 
-Se realiza una corrección ortográfica en los tweets utilizando la biblioteca `SpellChecker`. Esto ayuda a corregir posibles errores de escritura y mejorar la precisión del análisis de sentimientos.
+Se realiza una corrección ortográfica en los tweets utilizando la biblioteca `SpellChecker`. Esto ayuda a corregir posibles errores de escritura y mejorar la precisión del análisis de sentimientos. (No implementada)
 
-### 5. Lemmatización
+### 6. Lemmatización
 
 Se realiza la lematización de las palabras para reducir las palabras a su forma base o lema. Esto ayuda a reducir la variabilidad y mejorar la precisión del análisis de sentimientos.
 
