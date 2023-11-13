@@ -1,0 +1,4003 @@
+[{
+  "_id": {
+    "$oid": "644ca6e9e354dc5c6920bf25"
+  },
+  "time": "2023-04-29 05:11:05",
+  "id": "1652100249048039426",
+  "created_at": "2023-04-28 23:59:28+00:00",
+  "full_text": "RT @MaferFloresG_: Señores de @LigaProEC entiendo el horario prime y etc. Pero dada la situación actual de inseguridad sumado a que llueve…",
+  "clean_text": [
+    "señores",
+    "entiendo",
+    "horario",
+    "prime",
+    "etc",
+    "dada",
+    "situación",
+    "actual",
+    "inseguridad",
+    "sumado",
+    "llueve"
+  ],
+  "user": {
+    "name": "Irene Córdova☁",
+    "screen_name": "IreneCordova_",
+    "location": "Guayaquil - Ecuador",
+    "followers_count": 1019
+  },
+  "url_tweet": "https://twitter.com/IreneCordova_/status/1652100249048039426",
+  "place": null,
+  "retweet_count": 21,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca6f7e354dc5c6920bf65"
+  },
+  "time": "2023-04-29 05:11:19",
+  "id": "1652100164809629699",
+  "created_at": "2023-04-28 23:59:08+00:00",
+  "full_text": "RT @ZoomEcuador: #URGENTE\n¡LOS ERRORES DE LASSO, LOS PAGA EL PUEBLO ECUATORIANO!\nLa asambleísta @VivianaVeloz18 destaca que el #JuicioPolit…",
+  "clean_text": [
+    "urgente",
+    "errores",
+    "lasso",
+    "paga",
+    "pueblo",
+    "ecuatoriano",
+    "asambleísta",
+    "destaca",
+    "juiciopolit"
+  ],
+  "user": {
+    "name": "rbcotacachi@yahoo.es",
+    "screen_name": "BolvarC",
+    "location": "Ciudad Puyo - Ecuador",
+    "followers_count": 1762
+  },
+  "url_tweet": "https://twitter.com/BolvarC/status/1652100164809629699",
+  "place": null,
+  "retweet_count": 297,
+  "hashtags": [
+    "URGENTE"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca6fde354dc5c6920bf80"
+  },
+  "time": "2023-04-29 05:11:25",
+  "id": "1652100117145567232",
+  "created_at": "2023-04-28 23:58:57+00:00",
+  "full_text": "RT @AtomikHeartMom: La Vía a la costa ha pedido repotenciar la vía actual por el tráfico, en lugar de atender ese pedido, proponen una carr…",
+  "clean_text": [
+    "vía",
+    "costa",
+    "pedido",
+    "repotenciar",
+    "vía",
+    "actual",
+    "tráfico",
+    "lugar",
+    "atender",
+    "pedido",
+    "proponen",
+    "carr"
+  ],
+  "user": {
+    "name": "Ghislaine",
+    "screen_name": "Ghisi_izzy",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 441
+  },
+  "url_tweet": "https://twitter.com/Ghisi_izzy/status/1652100117145567232",
+  "place": null,
+  "retweet_count": 68,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca702e354dc5c6920bf99"
+  },
+  "time": "2023-04-29 05:11:30",
+  "id": "1652100084064976896",
+  "created_at": "2023-04-28 23:58:49+00:00",
+  "full_text": "RT @OscarAyerve: FUERZA PÚBLICA DECLARA LA GUERRA AL CRIMEN ORGANIZADO\nEn reunión del Consejo de Seguridad Pública y del Estado (COSEPE) de…",
+  "clean_text": [
+    "fuerza",
+    "pública",
+    "declara",
+    "guerra",
+    "crimen",
+    "organizado",
+    "reunión",
+    "consejo",
+    "seguridad",
+    "pública",
+    "cosepe"
+  ],
+  "user": {
+    "name": "Moira Castellanos V",
+    "screen_name": "MoiraCastellano",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 153
+  },
+  "url_tweet": "https://twitter.com/MoiraCastellano/status/1652100084064976896",
+  "place": null,
+  "retweet_count": 68,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca70be354dc5c6920bfc1"
+  },
+  "time": "2023-04-29 05:11:39",
+  "id": "1652099995984691202",
+  "created_at": "2023-04-28 23:58:28+00:00",
+  "full_text": "RT @DiegoMendezL: Si al señor Petro le de por 'expropiar' estaría cometiendo el delito de 'falsedad en documento público' ya que firmó ante…",
+  "clean_text": [
+    "si",
+    "señor",
+    "petro",
+    "expropiar",
+    "cometiendo",
+    "delito",
+    "falsedad",
+    "documento",
+    "público",
+    "firmó"
+  ],
+  "user": {
+    "name": "Eduardo",
+    "screen_name": "EduardoRestrep3",
+    "location": "Cuenca, Ecuador",
+    "followers_count": 1142
+  },
+  "url_tweet": "https://twitter.com/EduardoRestrep3/status/1652099995984691202",
+  "place": null,
+  "retweet_count": 5,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca858e354dc5c6920c126"
+  },
+  "time": "2023-04-29 05:17:12",
+  "id": "1652099843223957506",
+  "created_at": "2023-04-28 23:57:51+00:00",
+  "full_text": "No les da ni vergüenza de los turistas. Bueno... decir que ni turistas visitan el país por la inseguridad. ⚠️🙈 https://t.co/IiWxwsXTKA",
+  "clean_text": [
+    "da",
+    "vergenza",
+    "turistas",
+    "bueno",
+    "decir",
+    "turistas",
+    "visitan",
+    "país",
+    "inseguridad",
+    "httpstcoiiwxwsxtka"
+  ],
+  "user": {
+    "name": "Gabriel Cevallos V",
+    "screen_name": "gabocevallosv",
+    "location": "Ecuador",
+    "followers_count": 8168
+  },
+  "url_tweet": "https://twitter.com/gabocevallosv/status/1652099843223957506",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 3,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/radio_pichincha/status/1652068129193836545"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca870e354dc5c6920c196"
+  },
+  "time": "2023-04-29 05:17:36",
+  "id": "1652099678459117574",
+  "created_at": "2023-04-28 23:57:12+00:00",
+  "full_text": "RT @paulinaaraujog: Defendieron a Glas Viejó.\n\nNo solo apoyaron, sino que defendieron y con furia la amnistía al violador Floresmilo Villal…",
+  "clean_text": [
+    "defendieron",
+    "glas",
+    "viejó",
+    "solo",
+    "apoyaron",
+    "sino",
+    "defendieron",
+    "furia",
+    "amnistía",
+    "violador",
+    "floresmilo",
+    "villal"
+  ],
+  "user": {
+    "name": "MSc Douglas Torres Feraud 🇪🇨",
+    "screen_name": "douglastorresfe",
+    "location": "Guayaquil - Ecuador",
+    "followers_count": 2453
+  },
+  "url_tweet": "https://twitter.com/douglastorresfe/status/1652099678459117574",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 1237,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca863e354dc5c6920c15b"
+  },
+  "time": "2023-04-29 05:17:23",
+  "id": "1652099763477553154",
+  "created_at": "2023-04-28 23:57:32+00:00",
+  "full_text": "RT @fragafriega1: Ningún asambleísta, miembro o partidario de UNES o PSC después de esto debería tener la moral o cara para reclamar x segu…",
+  "clean_text": [
+    "ningún",
+    "asambleísta",
+    "miembro",
+    "partidario",
+    "unes",
+    "psc",
+    "después",
+    "debería",
+    "tener",
+    "moral",
+    "cara",
+    "reclamar",
+    "x",
+    "segu"
+  ],
+  "user": {
+    "name": "Joel ¿Who?",
+    "screen_name": "BJotaMB",
+    "location": "Milagro, Ecuador",
+    "followers_count": 376
+  },
+  "url_tweet": "https://twitter.com/BJotaMB/status/1652099763477553154",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 108,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca86ae354dc5c6920c177"
+  },
+  "time": "2023-04-29 05:17:30",
+  "id": "1652099713024270336",
+  "created_at": "2023-04-28 23:57:20+00:00",
+  "full_text": "RT @RobertoSaa72: @cubalondra Una minoría manejada por mafiosos políticos NO es el pueblo, estos leen o interpretan lo q les conviene, es c…",
+  "clean_text": [
+    "minoría",
+    "manejada",
+    "mafiosos",
+    "políticos",
+    "pueblo",
+    "leen",
+    "interpretan",
+    "q",
+    "conviene",
+    "c"
+  ],
+  "user": {
+    "name": "LEONARDO MUNOZ",
+    "screen_name": "NANOLEOZ",
+    "location": "GUAYAQUIL ECUADOR",
+    "followers_count": 890
+  },
+  "url_tweet": "https://twitter.com/NANOLEOZ/status/1652099713024270336",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 3,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca866e354dc5c6920c168"
+  },
+  "time": "2023-04-29 05:17:26",
+  "id": "1652099749468680199",
+  "created_at": "2023-04-28 23:57:29+00:00",
+  "full_text": "RT @LaDataEc: ¡NO POR SER LEGISLADOR PUEDE VIOLAR!\n“No por ser legislador, puede ser violador” señala la asambleísta @BlankiSacancela (BAN)…",
+  "clean_text": [
+    "ser",
+    "legislador",
+    "puede",
+    "violar",
+    "ser",
+    "legislador",
+    "puede",
+    "ser",
+    "violador",
+    "señala",
+    "asambleísta",
+    "ban"
+  ],
+  "user": {
+    "name": "Leonardo Zúñiga Gaona 🇪🇨",
+    "screen_name": "fabrizio_213",
+    "location": "Guayaquil-Ecuador",
+    "followers_count": 593
+  },
+  "url_tweet": "https://twitter.com/fabrizio_213/status/1652099749468680199",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 78,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca89ce354dc5c6920c25a"
+  },
+  "time": "2023-04-29 05:18:20",
+  "id": "1652099381837942785",
+  "created_at": "2023-04-28 23:56:01+00:00",
+  "full_text": "📢Estamos #AlAire en #NotimundoEstelar con @fracarrion_ING, Embajador de #Ecuador en #México, para dialogar sobre los 43 migrantes ecuatorianos rescatados, tras un secuestro masivo.\n\n🔴Mira la entrevista #EnVivo➡️https://t.co/x2LL3Ldamk. https://t.co/FH6JwtJpdm",
+  "clean_text": [
+    "alaire",
+    "notimundoestelar",
+    "embajador",
+    "ecuador",
+    "méxico",
+    "dialogar",
+    "migrantes",
+    "ecuatorianos",
+    "rescatados",
+    "tras",
+    "secuestro",
+    "masivo",
+    "mira",
+    "entrevista",
+    "envivohttpstcoxllldamk",
+    "httpstcofhjwtjpdm"
+  ],
+  "user": {
+    "name": "NotiMundo",
+    "screen_name": "notimundoec",
+    "location": "Ecuador",
+    "followers_count": 56269
+  },
+  "url_tweet": "https://twitter.com/notimundoec/status/1652099381837942785",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [
+    "AlAire",
+    "NotimundoEstelar",
+    "Ecuador",
+    "México",
+    "EnVivo"
+  ],
+  "urls": [
+    "https://bit.ly/3ne12gt"
+  ],
+  "photos": [
+    "https://pbs.twimg.com/media/Fu1vbw3XoAA8vyZ.jpg"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca88ce354dc5c6920c211"
+  },
+  "time": "2023-04-29 05:18:04",
+  "id": "1652099501958496263",
+  "created_at": "2023-04-28 23:56:30+00:00",
+  "full_text": "RT @czamoramatute: Agradezco a las concejalas y concejales electos del cantón\n\nLes he entregado tres proyectos de ordenanza sobre:\n\n- Comba…",
+  "clean_text": [
+    "agradezco",
+    "concejalas",
+    "concejales",
+    "electos",
+    "cantón",
+    "entregado",
+    "tres",
+    "proyectos",
+    "ordenanza",
+    "comba"
+  ],
+  "user": {
+    "name": "Informativo Veraz Cuenca",
+    "screen_name": "InformaDeCuenca",
+    "location": "Cuenca, Ecuador",
+    "followers_count": 3337
+  },
+  "url_tweet": "https://twitter.com/InformaDeCuenca/status/1652099501958496263",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 18,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca8a0e354dc5c6920c26e"
+  },
+  "time": "2023-04-29 05:18:24",
+  "id": "1652099334442196993",
+  "created_at": "2023-04-28 23:55:50+00:00",
+  "full_text": "RT @EddiChonero1: Señores: @dw_espanol el crimen organizado lo representa #ElGranPadrino #DaniloCarrera y por eso NO se lo puede combatir,…",
+  "clean_text": [
+    "señores",
+    "crimen",
+    "organizado",
+    "representa",
+    "elgranpadrino",
+    "danilocarrera",
+    "puede",
+    "combatir"
+  ],
+  "user": {
+    "name": "Jefferson Olalla",
+    "screen_name": "jeffersonolalla",
+    "location": "Ecuador",
+    "followers_count": 325
+  },
+  "url_tweet": "https://twitter.com/jeffersonolalla/status/1652099334442196993",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 5,
+  "hashtags": [
+    "ElGranPadrino",
+    "DaniloCarrera"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca8a6e354dc5c6920c288"
+  },
+  "time": "2023-04-29 05:18:30",
+  "id": "1652099302573977603",
+  "created_at": "2023-04-28 23:55:42+00:00",
+  "full_text": "RT @notimundoec: 🔊#NotimundoALaCarta, @mheller_ec, presidenta de @lacamaradequito, reconoció que el país vive un \"momento complejo\" por el…",
+  "clean_text": [
+    "notimundoalacarta",
+    "presidenta",
+    "reconoció",
+    "país",
+    "vive",
+    "momento",
+    "complejo"
+  ],
+  "user": {
+    "name": "Rafael F. Roldan Muñoz",
+    "screen_name": "rafaelfroldan",
+    "location": "Ecuador",
+    "followers_count": 2701
+  },
+  "url_tweet": "https://twitter.com/rafaelfroldan/status/1652099302573977603",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 3,
+  "hashtags": [
+    "NotimundoALaCarta"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca881e354dc5c6920c1de"
+  },
+  "time": "2023-04-29 05:17:53",
+  "id": "1652099558430605312",
+  "created_at": "2023-04-28 23:56:43+00:00",
+  "full_text": "RT @eluniversocom: Dos presuntos delincuentes que tenían medidas cautelares fueron capturados por delito de secuestro extorsivo en el sur d…",
+  "clean_text": [
+    "dos",
+    "presuntos",
+    "delincuentes",
+    "medidas",
+    "cautelares",
+    "capturados",
+    "delito",
+    "secuestro",
+    "extorsivo",
+    "sur",
+    "d"
+  ],
+  "user": {
+    "name": "🔆MANOLITA🔆🐶",
+    "screen_name": "TiffosaLatam",
+    "location": "Ecuador",
+    "followers_count": 9306
+  },
+  "url_tweet": "https://twitter.com/TiffosaLatam/status/1652099558430605312",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 111,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca87ee354dc5c6920c1d3"
+  },
+  "time": "2023-04-29 05:17:50",
+  "id": "1652099585743921155",
+  "created_at": "2023-04-28 23:56:50+00:00",
+  "full_text": "RT @PoliciaEcuador: NEUTRALIZAMOS ACCIÓN DELICTIVA \n\nCon la aprehensión de dos personas presuntas implicadas en tentativa de asesinato, en…",
+  "clean_text": [
+    "neutralizamos",
+    "acción",
+    "delictiva",
+    "aprehensión",
+    "dos",
+    "personas",
+    "presuntas",
+    "implicadas",
+    "tentativa",
+    "asesinato"
+  ],
+  "user": {
+    "name": "🔆MANOLITA🔆🐶",
+    "screen_name": "TiffosaLatam",
+    "location": "Ecuador",
+    "followers_count": 9306
+  },
+  "url_tweet": "https://twitter.com/TiffosaLatam/status/1652099585743921155",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 49,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca916e354dc5c6920c480"
+  },
+  "time": "2023-04-29 05:20:22",
+  "id": "1652098491609391105",
+  "created_at": "2023-04-28 23:52:29+00:00",
+  "full_text": "RT @MateoFloresM: Y a esto el Ministro @CapiZapataEC le llama mala fe. ¡Mediocres! No saben cómo gobernar y no tienen idea de que hacer con…",
+  "clean_text": [
+    "ministro",
+    "llama",
+    "mala",
+    "fe",
+    "mediocres",
+    "saben",
+    "cómo",
+    "gobernar",
+    "idea",
+    "hacer"
+  ],
+  "user": {
+    "name": "Bonelsy",
+    "screen_name": "bonelsy",
+    "location": "Quito Ecuador",
+    "followers_count": 868
+  },
+  "url_tweet": "https://twitter.com/bonelsy/status/1652098491609391105",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 21,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca901e354dc5c6920c423"
+  },
+  "time": "2023-04-29 05:20:01",
+  "id": "1652098617493127168",
+  "created_at": "2023-04-28 23:52:59+00:00",
+  "full_text": "RT @ifpoveda: Elector ecuatoriano: tú no quieres que roben tus pertenencias o que apaguen tu vida y la de los tuyos.\nCuando votes, no vuelv…",
+  "clean_text": [
+    "elector",
+    "ecuatoriano",
+    "quieres",
+    "roben",
+    "pertenencias",
+    "apaguen",
+    "vida",
+    "votes",
+    "vuelv"
+  ],
+  "user": {
+    "name": "Viviana Pico",
+    "screen_name": "gv_pico",
+    "location": "Ecuador",
+    "followers_count": 219
+  },
+  "url_tweet": "https://twitter.com/gv_pico/status/1652098617493127168",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 266,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca90ee354dc5c6920c45d"
+  },
+  "time": "2023-04-29 05:20:14",
+  "id": "1652098533124702208",
+  "created_at": "2023-04-28 23:52:39+00:00",
+  "full_text": "RT @Primicias: En Ambato y Cuenca, cientos de ciudadanos salieron a las calles céntricas para expresar su rechazo a la inseguridad y pedir…",
+  "clean_text": [
+    "ambato",
+    "cuenca",
+    "cientos",
+    "ciudadanos",
+    "salieron",
+    "calles",
+    "céntricas",
+    "expresar",
+    "rechazo",
+    "inseguridad",
+    "pedir"
+  ],
+  "user": {
+    "name": "Nicolás Merizalde 🧭",
+    "screen_name": "nicomerizalde1",
+    "location": "Ambato, Ecuador",
+    "followers_count": 742
+  },
+  "url_tweet": "https://twitter.com/nicomerizalde1/status/1652098533124702208",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 14,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca8ede354dc5c6920c3c9"
+  },
+  "time": "2023-04-29 05:19:41",
+  "id": "1652098761949151233",
+  "created_at": "2023-04-28 23:53:34+00:00",
+  "full_text": "Una familia de la isla Trinitaria ha recibido amenazas, disparos y hasta detonación de explosivos por denunciar asesinato https://t.co/7bfJMcL6lQ",
+  "clean_text": [
+    "familia",
+    "isla",
+    "trinitaria",
+    "recibido",
+    "amenazas",
+    "disparos",
+    "detonación",
+    "explosivos",
+    "denunciar",
+    "asesinato",
+    "httpstcobfjmcllq"
+  ],
+  "user": {
+    "name": "La República EC",
+    "screen_name": "larepublica_ec",
+    "location": "Ecuador",
+    "followers_count": 155424
+  },
+  "url_tweet": "https://twitter.com/larepublica_ec/status/1652098761949151233",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://www.larepublica.ec/blog/2023/04/28/una-familia-de-la-isla-trinitaria-ha-recibido-amenazas-disparos-y-hasta-detonacion-de-explosivos-por-denunciar-asesinato/"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca8fae354dc5c6920c404"
+  },
+  "time": "2023-04-29 05:19:54",
+  "id": "1652098673872912387",
+  "created_at": "2023-04-28 23:53:13+00:00",
+  "full_text": "RT @PoliciaEcuador: AYÚDANOS A ENCONTRARLO\n\nA Osorio Parra Luis Felipe de 45 años de edad, reportado como desaparecido desde el 30 de marzo…",
+  "clean_text": [
+    "ayúdanos",
+    "encontrarlo",
+    "osorio",
+    "parra",
+    "luis",
+    "felipe",
+    "años",
+    "edad",
+    "reportado",
+    "desaparecido",
+    "marzo"
+  ],
+  "user": {
+    "name": "Jairo López",
+    "screen_name": "Jairo_Lopez88",
+    "location": "Quito, Ecuador",
+    "followers_count": 84
+  },
+  "url_tweet": "https://twitter.com/Jairo_Lopez88/status/1652098673872912387",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 667,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca91de354dc5c6920c4a1"
+  },
+  "time": "2023-04-29 05:20:29",
+  "id": "1652098438442385408",
+  "created_at": "2023-04-28 23:52:16+00:00",
+  "full_text": "RT @TiempoRealEC: 📌.#ATENCIÓN |\n‼️ El gobierno del Encuentro es asesorado por la misma gente de @Lenin Moreno\n‼️ @PacoMoncayo demostró ser…",
+  "clean_text": [
+    "atención",
+    "gobierno",
+    "encuentro",
+    "asesorado",
+    "misma",
+    "gente",
+    "moreno",
+    "demostró",
+    "ser"
+  ],
+  "user": {
+    "name": "Stefy",
+    "screen_name": "Stefy97845919",
+    "location": "Pichincha, Ecuador",
+    "followers_count": 338
+  },
+  "url_tweet": "https://twitter.com/Stefy97845919/status/1652098438442385408",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 183,
+  "hashtags": [
+    "ATENCIÓN"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca915e354dc5c6920c47c"
+  },
+  "time": "2023-04-29 05:20:21",
+  "id": "1652098495602388994",
+  "created_at": "2023-04-28 23:52:30+00:00",
+  "full_text": "RT @RaGecuador: Los que ayer gritaban por la inseguridad y el narco Estado hoy dicen que la intervención del ejército es exagerada y claman…",
+  "clean_text": [
+    "ayer",
+    "gritaban",
+    "inseguridad",
+    "narco",
+    "hoy",
+    "dicen",
+    "intervención",
+    "ejército",
+    "exagerada",
+    "claman"
+  ],
+  "user": {
+    "name": "Pablo E Cevallos A",
+    "screen_name": "pcevallosa",
+    "location": "Quito, Ecuador",
+    "followers_count": 281
+  },
+  "url_tweet": "https://twitter.com/pcevallosa/status/1652098495602388994",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 55,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca97ae354dc5c6920c646"
+  },
+  "time": "2023-04-29 05:22:02",
+  "id": "1652097827592454144",
+  "created_at": "2023-04-28 23:49:51+00:00",
+  "full_text": "RT @PoliciaEcuador: CAPTURADO\n\nMediante técnicas y diligencias investigativas, en #Manabí, fue capturado un ciudadano requerido por la just…",
+  "clean_text": [
+    "capturado",
+    "mediante",
+    "técnicas",
+    "diligencias",
+    "investigativas",
+    "manabí",
+    "capturado",
+    "ciudadano",
+    "requerido",
+    "just"
+  ],
+  "user": {
+    "name": "robert augusto trejo",
+    "screen_name": "roberthtrejo1",
+    "location": "quito-ecuador",
+    "followers_count": 175
+  },
+  "url_tweet": "https://twitter.com/roberthtrejo1/status/1652097827592454144",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 48,
+  "hashtags": [
+    "Manabí"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca8c2e354dc5c6920c304"
+  },
+  "time": "2023-04-29 05:18:58",
+  "id": "1652099085736849409",
+  "created_at": "2023-04-28 23:54:51+00:00",
+  "full_text": "RT @allisonazul: Pero la culpa de todo esto tiene la puta @LigaProEC saben que en Guayaquil todas las noches llueve a cántaros y aún siguen…",
+  "clean_text": [
+    "culpa",
+    "puta",
+    "saben",
+    "guayaquil",
+    "todas",
+    "noches",
+    "llueve",
+    "cántaros",
+    "aún",
+    "siguen"
+  ],
+  "user": {
+    "name": "Angel Alvarez",
+    "screen_name": "aalvarez1985",
+    "location": "Quito Ecuador",
+    "followers_count": 1130
+  },
+  "url_tweet": "https://twitter.com/aalvarez1985/status/1652099085736849409",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 1,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca96ce354dc5c6920c604"
+  },
+  "time": "2023-04-29 05:21:48",
+  "id": "1652097929534898176",
+  "created_at": "2023-04-28 23:50:15+00:00",
+  "full_text": "RT @fabriciovelav: ¡Caramba!\nYo creí que la decisión del COSEPE apuntaba a tomar decisiones contra el crimen organizado. Estos mensajes no…",
+  "clean_text": [
+    "caramba",
+    "creí",
+    "decisión",
+    "cosepe",
+    "apuntaba",
+    "tomar",
+    "decisiones",
+    "crimen",
+    "organizado",
+    "mensajes"
+  ],
+  "user": {
+    "name": "Steven",
+    "screen_name": "carlosstevenmz",
+    "location": "Piñas, Ecuador",
+    "followers_count": 315
+  },
+  "url_tweet": "https://twitter.com/carlosstevenmz/status/1652097929534898176",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 146,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca8dde354dc5c6920c381"
+  },
+  "time": "2023-04-29 05:19:25",
+  "id": "1652098866332803072",
+  "created_at": "2023-04-28 23:53:58+00:00",
+  "full_text": "RT @AP_Kost: No entiendo porqué hay militares en las calles, no entiendo porqué ahora van a combatir la delincuencia. Decían que sin consul…",
+  "clean_text": [
+    "entiendo",
+    "porqué",
+    "militares",
+    "calles",
+    "entiendo",
+    "porqué",
+    "ahora",
+    "van",
+    "combatir",
+    "delincuencia",
+    "decían",
+    "consul"
+  ],
+  "user": {
+    "name": "Andrés Ortega",
+    "screen_name": "aortega_fauna",
+    "location": "Quito, Ecuador",
+    "followers_count": 582
+  },
+  "url_tweet": "https://twitter.com/aortega_fauna/status/1652098866332803072",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 564,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca8e0e354dc5c6920c38e"
+  },
+  "time": "2023-04-29 05:19:28",
+  "id": "1652098845373878272",
+  "created_at": "2023-04-28 23:53:53+00:00",
+  "full_text": "RT @radio_pichincha: 🔴#ATENCIÓN | La Fiscal General, @DianaSalazarM2, solicitó a la @CorteNacional fecha y hora para que se realice la audi…",
+  "clean_text": [
+    "atención",
+    "fiscal",
+    "general",
+    "solicitó",
+    "fecha",
+    "hora",
+    "realice",
+    "audi"
+  ],
+  "user": {
+    "name": "Marcelo55",
+    "screen_name": "MarceloFreire55",
+    "location": "Quito, Ecuador",
+    "followers_count": 169
+  },
+  "url_tweet": "https://twitter.com/MarceloFreire55/status/1652098845373878272",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 28,
+  "hashtags": [
+    "ATENCIÓN"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca9c3e354dc5c6920c78b"
+  },
+  "time": "2023-04-29 05:23:15",
+  "id": "1652097315451072513",
+  "created_at": "2023-04-28 23:47:49+00:00",
+  "full_text": "RT @MabeMendezR: No hay justificación para la violencia sexual. Si hay evidencia del delito, se debe aplicar la ley sin excepciones. Estoy…",
+  "clean_text": [
+    "justificación",
+    "violencia",
+    "sexual",
+    "si",
+    "evidencia",
+    "delito",
+    "debe",
+    "aplicar",
+    "ley",
+    "excepciones"
+  ],
+  "user": {
+    "name": "Foro Permanente de las Mujeres Ecuatorianas",
+    "screen_name": "ForoMujeresEc",
+    "location": "Ecuador",
+    "followers_count": 3877
+  },
+  "url_tweet": "https://twitter.com/ForoMujeresEc/status/1652097315451072513",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 7,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca9cde354dc5c6920c7b8"
+  },
+  "time": "2023-04-29 05:23:25",
+  "id": "1652097260107497474",
+  "created_at": "2023-04-28 23:47:35+00:00",
+  "full_text": "@PoliciaEcuador Por eso que el País está como está, además de incompetentes para combatir la delincuencia, PENDEJOS hasta para mentir... 🤦🏻‍♂️",
+  "clean_text": [
+    "país",
+    "además",
+    "incompetentes",
+    "combatir",
+    "delincuencia",
+    "pendejos",
+    "mentir"
+  ],
+  "user": {
+    "name": "Carlos Las Pelotas",
+    "screen_name": "CaloShebi",
+    "location": "Ecuador 🇪🇨",
+    "followers_count": 933
+  },
+  "url_tweet": "https://twitter.com/CaloShebi/status/1652097260107497474",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca9d7e354dc5c6920c7e5"
+  },
+  "time": "2023-04-29 05:23:35",
+  "id": "1652097182219096066",
+  "created_at": "2023-04-28 23:47:17+00:00",
+  "full_text": "RT @ABorreroVega: El crimen organizado y el narcotráfico no nos vencerán. Hemos emprendido una Gran Cruzada por la seguridad y la paz de ca…",
+  "clean_text": [
+    "crimen",
+    "organizado",
+    "narcotráfico",
+    "vencerán",
+    "emprendido",
+    "gran",
+    "cruzada",
+    "seguridad",
+    "paz",
+    "ca"
+  ],
+  "user": {
+    "name": "lucy jurado",
+    "screen_name": "lucyjurado9",
+    "location": "Ecuador",
+    "followers_count": 324
+  },
+  "url_tweet": "https://twitter.com/lucyjurado9/status/1652097182219096066",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 70,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca9a9e354dc5c6920c71a"
+  },
+  "time": "2023-04-29 05:22:49",
+  "id": "1652097498482106368",
+  "created_at": "2023-04-28 23:48:32+00:00",
+  "full_text": "RT @CrotonaAvenue: Que las nuevas medidas de seguridad se tomen al borde de un posible levantamiento, \n\nconfirma que al gobierno le preocup…",
+  "clean_text": [
+    "nuevas",
+    "medidas",
+    "seguridad",
+    "tomen",
+    "borde",
+    "posible",
+    "levantamiento",
+    "confirma",
+    "gobierno",
+    "preocup"
+  ],
+  "user": {
+    "name": "alja1975",
+    "screen_name": "Alja1975",
+    "location": "ecuador-el oro-machala",
+    "followers_count": 1082
+  },
+  "url_tweet": "https://twitter.com/Alja1975/status/1652097498482106368",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 9,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca9a2e354dc5c6920c6f9"
+  },
+  "time": "2023-04-29 05:22:42",
+  "id": "1652097542799106049",
+  "created_at": "2023-04-28 23:48:43+00:00",
+  "full_text": "RT @DiegoFuentesEC: Desde el 2009 la Ley de Seguridad Pública y del Estado establece a la seguridad ciudadana (combate a la delincuencia y…",
+  "clean_text": [
+    "ley",
+    "seguridad",
+    "pública",
+    "establece",
+    "seguridad",
+    "ciudadana",
+    "combate",
+    "delincuencia"
+  ],
+  "user": {
+    "name": "Bonelsy",
+    "screen_name": "bonelsy",
+    "location": "Quito Ecuador",
+    "followers_count": 868
+  },
+  "url_tweet": "https://twitter.com/bonelsy/status/1652097542799106049",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 158,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caa0fe354dc5c6920c8e0"
+  },
+  "time": "2023-04-29 05:24:31",
+  "id": "1652096807944454144",
+  "created_at": "2023-04-28 23:45:48+00:00",
+  "full_text": "RT @FiscaliaEcuador: #AHORA | En la @CorteNacional, con la presencia de la fiscal general del Estado, @DianaSalazarM2, se resuelve la legal…",
+  "clean_text": [
+    "ahora",
+    "presencia",
+    "fiscal",
+    "general",
+    "resuelve",
+    "legal"
+  ],
+  "user": {
+    "name": "Francisco Nebel",
+    "screen_name": "FNebelH",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 123
+  },
+  "url_tweet": "https://twitter.com/FNebelH/status/1652096807944454144",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 169,
+  "hashtags": [
+    "AHORA"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644ca9e9e354dc5c6920c836"
+  },
+  "time": "2023-04-29 05:23:53",
+  "id": "1652097050291347459",
+  "created_at": "2023-04-28 23:46:45+00:00",
+  "full_text": "RT @jepamerican: Y cuando le acusan en fiscalía Xguardase la información del caso donde Estupiñan le dio al billete 💴 villavicencio y el se…",
+  "clean_text": [
+    "acusan",
+    "fiscalía",
+    "xguardase",
+    "información",
+    "caso",
+    "estupiñan",
+    "dio",
+    "billete",
+    "villavicencio"
+  ],
+  "user": {
+    "name": "Francisco Echeverria",
+    "screen_name": "fecheverria69",
+    "location": "Quito, Ecuador",
+    "followers_count": 345
+  },
+  "url_tweet": "https://twitter.com/fecheverria69/status/1652097050291347459",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 3,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caa0ae354dc5c6920c8cb"
+  },
+  "time": "2023-04-29 05:24:26",
+  "id": "1652096831461965826",
+  "created_at": "2023-04-28 23:45:53+00:00",
+  "full_text": "‘¡Fuera la delincuencia!’: Ambato exige más seguridad durante marcha https://t.co/TPMzqKk0td",
+  "clean_text": [
+    "delincuencia",
+    "ambato",
+    "exige",
+    "seguridad",
+    "marcha",
+    "httpstcotpmzqkktd"
+  ],
+  "user": {
+    "name": "Machala Móvil",
+    "screen_name": "MachalaMovil",
+    "location": "Machala, Ecuador",
+    "followers_count": 19564
+  },
+  "url_tweet": "https://twitter.com/MachalaMovil/status/1652096831461965826",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://machalamovil.com/fuera-la-delincuencia-ambato-exige-mas-seguridad-durante-marcha/"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caa0ae354dc5c6920c8cc"
+  },
+  "time": "2023-04-29 05:24:26",
+  "id": "1652096830514102272",
+  "created_at": "2023-04-28 23:45:53+00:00",
+  "full_text": "RT @PoliticaYZona: #Guayaquil entrando al puerto principal,asalto a cooperativa Zaracay #UltimaHora #URGENTE https://t.co/QH25iqRjE0",
+  "clean_text": [
+    "guayaquil",
+    "entrando",
+    "puerto",
+    "principalasalto",
+    "cooperativa",
+    "zaracay",
+    "ultimahora",
+    "urgente",
+    "httpstcoqhiqrje"
+  ],
+  "user": {
+    "name": "rbcotacachi@yahoo.es",
+    "screen_name": "BolvarC",
+    "location": "Ciudad Puyo - Ecuador",
+    "followers_count": 1762
+  },
+  "url_tweet": "https://twitter.com/BolvarC/status/1652096830514102272",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 79,
+  "hashtags": [
+    "Guayaquil",
+    "UltimaHora",
+    "URGENTE"
+  ],
+  "urls": [],
+  "photos": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/1651716882318213120/pu/img/fOlP0niPk7UDw2sf.jpg"
+  ],
+  "videos": [
+    "https://video.twimg.com/ext_tw_video/1651716882318213120/pu/vid/320x580/gkQEHsvJtdrAi35I.mp4?tag=12"
+  ]
+},
+{
+  "_id": {
+    "$oid": "644caa24e354dc5c6920c93f"
+  },
+  "time": "2023-04-29 05:24:52",
+  "id": "1652096639690067979",
+  "created_at": "2023-04-28 23:45:08+00:00",
+  "full_text": "RT @luisantonio_r: En #Manta, nuestra @PoliciaEcuador encuentra en poder de un ciudadano un fusil de asalto (armamento de guerra). Las inve…",
+  "clean_text": [
+    "manta",
+    "encuentra",
+    "poder",
+    "ciudadano",
+    "fusil",
+    "asalto",
+    "armamento",
+    "guerra",
+    "inve"
+  ],
+  "user": {
+    "name": "FerchisJ 🇪🇨👨‍👩‍👦‍👦",
+    "screen_name": "FerchaMafeben",
+    "location": "ECUADOR",
+    "followers_count": 1680
+  },
+  "url_tweet": "https://twitter.com/FerchaMafeben/status/1652096639690067979",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 153,
+  "hashtags": [
+    "Manta"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caa8fe354dc5c6920ca3f"
+  },
+  "time": "2023-04-29 05:26:39",
+  "id": "1652096230858555394",
+  "created_at": "2023-04-28 23:43:30+00:00",
+  "full_text": "RT @Ricardo_Vanegas: SINGULARIZADO! La @CorteConstEcu determina expresamente que en el caso concreto del juicio político de @LassoGuillermo…",
+  "clean_text": [
+    "singularizado",
+    "determina",
+    "expresamente",
+    "caso",
+    "concreto",
+    "juicio",
+    "político"
+  ],
+  "user": {
+    "name": "Marcos Rafael Pozo P",
+    "screen_name": "MarcosRafaelPo1",
+    "location": "El Oro, Ecuador",
+    "followers_count": 67
+  },
+  "url_tweet": "https://twitter.com/MarcosRafaelPo1/status/1652096230858555394",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 373,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caa6ee354dc5c6920c9ad"
+  },
+  "time": "2023-04-29 05:26:06",
+  "id": "1652096464724656131",
+  "created_at": "2023-04-28 23:44:26+00:00",
+  "full_text": "RT @PensantesEc: ¿Dónde estuvo Diana Salazar por el asesinato de Maria Belén o Naomi arcentales? Que se preocupen de las mujeres a puertas…",
+  "clean_text": [
+    "dónde",
+    "diana",
+    "salazar",
+    "asesinato",
+    "maria",
+    "belén",
+    "naomi",
+    "arcentales",
+    "preocupen",
+    "mujeres",
+    "puertas"
+  ],
+  "user": {
+    "name": "Francisco Echeverria",
+    "screen_name": "fecheverria69",
+    "location": "Quito, Ecuador",
+    "followers_count": 345
+  },
+  "url_tweet": "https://twitter.com/fecheverria69/status/1652096464724656131",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 25,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caa7fe354dc5c6920c9f9"
+  },
+  "time": "2023-04-29 05:26:23",
+  "id": "1652096344297820161",
+  "created_at": "2023-04-28 23:43:57+00:00",
+  "full_text": "RT @Urgente_Ecuador: 🔴Santo Domingo de los Tsáchilas: Policía confirma secuestro contra directora de la ANT\nAproximadamente a las 17:40 del…",
+  "clean_text": [
+    "santo",
+    "domingo",
+    "tsáchilas",
+    "policía",
+    "confirma",
+    "secuestro",
+    "directora",
+    "ant",
+    "aproximadamente"
+  ],
+  "user": {
+    "name": "Robert Cuenca",
+    "screen_name": "cuencarobert",
+    "location": "Pichincha, Ecuador",
+    "followers_count": 101
+  },
+  "url_tweet": "https://twitter.com/cuencarobert/status/1652096344297820161",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 69,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caa84e354dc5c6920ca10"
+  },
+  "time": "2023-04-29 05:26:28",
+  "id": "1652096312714690561",
+  "created_at": "2023-04-28 23:43:50+00:00",
+  "full_text": "RT @Ulsove: Correa, Correa y siempre Correa.\nDéjenlo descansar , déjenlo vivir,  que ya él ha hecho demasiado sacrificio por este  país.\nEs…",
+  "clean_text": [
+    "correa",
+    "correa",
+    "siempre",
+    "correa",
+    "déjenlo",
+    "descansar",
+    "déjenlo",
+    "vivir",
+    "hecho",
+    "demasiado",
+    "sacrificio",
+    "país"
+  ],
+  "user": {
+    "name": "Fausto Coronel Ortiz",
+    "screen_name": "Goethe1965",
+    "location": "ECUADOR AMAZONICO",
+    "followers_count": 1973
+  },
+  "url_tweet": "https://twitter.com/Goethe1965/status/1652096312714690561",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 102,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab19e354dc5c6920ccae"
+  },
+  "time": "2023-04-29 05:28:57",
+  "id": "1652095283067510787",
+  "created_at": "2023-04-28 23:39:44+00:00",
+  "full_text": "@PalacioEmilio Lamentablemente este individuo representa la mentalidad del gobierno, no importa la lucha contra el crimen, solo mantener su poder y privilegios a costa de reprimir todo tipo de manifestaciones.",
+  "clean_text": [
+    "lamentablemente",
+    "individuo",
+    "representa",
+    "mentalidad",
+    "gobierno",
+    "importa",
+    "lucha",
+    "crimen",
+    "solo",
+    "mantener",
+    "poder",
+    "privilegios",
+    "costa",
+    "reprimir",
+    "tipo",
+    "manifestaciones"
+  ],
+  "user": {
+    "name": "Juan Carlos",
+    "screen_name": "Juankrlos810",
+    "location": "Azogues, Ecuador",
+    "followers_count": 3
+  },
+  "url_tweet": "https://twitter.com/Juankrlos810/status/1652095283067510787",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caab0e354dc5c6920cad5"
+  },
+  "time": "2023-04-29 05:27:12",
+  "id": "1652096026784808961",
+  "created_at": "2023-04-28 23:42:41+00:00",
+  "full_text": "RT @natavaldivieso: @FaustoJarrinT Porque nunca les ha interesado el país! Ahora están tratando de salvar los muebles comprando conciencias…",
+  "clean_text": [
+    "nunca",
+    "interesado",
+    "país",
+    "ahora",
+    "tratando",
+    "salvar",
+    "muebles",
+    "comprando",
+    "conciencias"
+  ],
+  "user": {
+    "name": "Geovanni Jaramillo",
+    "screen_name": "LongoBello",
+    "location": "Quito, Ecuador",
+    "followers_count": 123
+  },
+  "url_tweet": "https://twitter.com/LongoBello/status/1652096026784808961",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 2,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab3be354dc5c6920cd48"
+  },
+  "time": "2023-04-29 05:29:31",
+  "id": "1652095043451211776",
+  "created_at": "2023-04-28 23:38:47+00:00",
+  "full_text": "@PalacioEmilio Pero le comento la gente protesta no por ser borregos o por ideología, lo hacemos por convicción por buscar un mejorar país para vivir, entre que te mate la delincuencia o el gobierno hay una vereda de distancia así que cuando ya no hay nada que perder la gente ya no calla.",
+  "clean_text": [
+    "comento",
+    "gente",
+    "protesta",
+    "ser",
+    "borregos",
+    "ideología",
+    "hacemos",
+    "convicción",
+    "buscar",
+    "mejorar",
+    "país",
+    "vivir",
+    "mate",
+    "delincuencia",
+    "gobierno",
+    "vereda",
+    "distancia",
+    "así",
+    "perder",
+    "gente",
+    "calla"
+  ],
+  "user": {
+    "name": "Juan Carlos",
+    "screen_name": "juancca23",
+    "location": "Quito, Ecuador",
+    "followers_count": 89
+  },
+  "url_tweet": "https://twitter.com/juancca23/status/1652095043451211776",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab44e354dc5c6920cd70"
+  },
+  "time": "2023-04-29 05:29:40",
+  "id": "1652094979831996416",
+  "created_at": "2023-04-28 23:38:32+00:00",
+  "full_text": "RT @ponkarceina: Se acaba de presentar una Acción de Inconstitucionalidad al grupo de reformas punitivas que hizo la @AsambleaEcuador y que…",
+  "clean_text": [
+    "acaba",
+    "presentar",
+    "acción",
+    "inconstitucionalidad",
+    "grupo",
+    "reformas",
+    "punitivas",
+    "hizo"
+  ],
+  "user": {
+    "name": "Francisco Echeverria",
+    "screen_name": "fecheverria69",
+    "location": "Quito, Ecuador",
+    "followers_count": 345
+  },
+  "url_tweet": "https://twitter.com/fecheverria69/status/1652094979831996416",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 88,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab15e354dc5c6920cc9a"
+  },
+  "time": "2023-04-29 05:28:53",
+  "id": "1652095307763658752",
+  "created_at": "2023-04-28 23:39:50+00:00",
+  "full_text": "Esto ya es el colmo de ldiotez!! Está más que claro que Unes y PSC son el brazo político de la delincuencia en Ecuador!! https://t.co/toGjvsEmoK",
+  "clean_text": [
+    "colmo",
+    "ldiotez",
+    "claro",
+    "unes",
+    "psc",
+    "brazo",
+    "político",
+    "delincuencia",
+    "ecuador",
+    "httpstcotogjvsemok"
+  ],
+  "user": {
+    "name": "Tauro Ecu",
+    "screen_name": "acordova007",
+    "location": "Quito-Ecuador",
+    "followers_count": 136
+  },
+  "url_tweet": "https://twitter.com/acordova007/status/1652095307763658752",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/ecultimahora/status/1651992442999132160"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab28e354dc5c6920ccf2"
+  },
+  "time": "2023-04-29 05:29:12",
+  "id": "1652095184685899779",
+  "created_at": "2023-04-28 23:39:21+00:00",
+  "full_text": "Solidarios y comprometidos con el sentir de nuestra provincia #Azuay nos sumamos a la protesta y esfuerzo por días mejores de todos a quienes nos afecta la inseguridad y mal estado de las vías✊🟥🟨 https://t.co/YrMY5mlMs3",
+  "clean_text": [
+    "solidarios",
+    "comprometidos",
+    "sentir",
+    "provincia",
+    "azuay",
+    "sumamos",
+    "protesta",
+    "esfuerzo",
+    "días",
+    "mejores",
+    "afecta",
+    "inseguridad",
+    "mal",
+    "vías",
+    "httpstcoyrmymlms"
+  ],
+  "user": {
+    "name": "Actividad Física UPS",
+    "screen_name": "DeportesUPS",
+    "location": "Cuenca, Ecuador",
+    "followers_count": 357
+  },
+  "url_tweet": "https://twitter.com/DeportesUPS/status/1652095184685899779",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [
+    "Azuay"
+  ],
+  "urls": [
+    "https://twitter.com/upsalesianaec/status/1652093232996655107"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab03e354dc5c6920cc4a"
+  },
+  "time": "2023-04-29 05:28:35",
+  "id": "1652095418719784961",
+  "created_at": "2023-04-28 23:40:16+00:00",
+  "full_text": "@Ricardo_Vanegas @LassoGuillermo Una vergüenza este Asambleista Esteban Torres tibio en su posición contra la delincuencia. Y sépalo de una vez: el slogan de LFC era no negociar con terroristas",
+  "clean_text": [
+    "vergenza",
+    "asambleista",
+    "esteban",
+    "torres",
+    "tibio",
+    "posición",
+    "delincuencia",
+    "sépalo",
+    "vez",
+    "slogan",
+    "lfc",
+    "negociar",
+    "terroristas"
+  ],
+  "user": {
+    "name": "CIENFUEGOS↙️",
+    "screen_name": "Fuegos100Kamil",
+    "location": "ecuador",
+    "followers_count": 6902
+  },
+  "url_tweet": "https://twitter.com/Fuegos100Kamil/status/1652095418719784961",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caad5e354dc5c6920cb7a"
+  },
+  "time": "2023-04-29 05:27:49",
+  "id": "1652095769212534785",
+  "created_at": "2023-04-28 23:41:40+00:00",
+  "full_text": "Pero la culpa de todo esto tiene la puta @LigaProEC saben que en Guayaquil todas las noches llueve a cántaros y aún siguen neceando con el horario de la noche, eso sin hacer eco de la delincuencia terrible de esta ciudad",
+  "clean_text": [
+    "culpa",
+    "puta",
+    "saben",
+    "guayaquil",
+    "todas",
+    "noches",
+    "llueve",
+    "cántaros",
+    "aún",
+    "siguen",
+    "neceando",
+    "horario",
+    "noche",
+    "hacer",
+    "eco",
+    "delincuencia",
+    "terrible",
+    "ciudad"
+  ],
+  "user": {
+    "name": "ⒶⓁⓁⒾⓈⓄⓃ ✨💖",
+    "screen_name": "allisonazul",
+    "location": "Guayaquil / Ecuador",
+    "followers_count": 2034
+  },
+  "url_tweet": "https://twitter.com/allisonazul/status/1652095769212534785",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 1,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caaf2e354dc5c6920cbfe"
+  },
+  "time": "2023-04-29 05:28:18",
+  "id": "1652095552471855106",
+  "created_at": "2023-04-28 23:40:48+00:00",
+  "full_text": "RT @DonAlexDeLarge: Toda esta porquería de tener que sufrir diariamente por la delincuencia de los venezolanos en el país se va a acabar pa…",
+  "clean_text": [
+    "toda",
+    "porquería",
+    "tener",
+    "sufrir",
+    "diariamente",
+    "delincuencia",
+    "venezolanos",
+    "país",
+    "va",
+    "acabar",
+    "pa"
+  ],
+  "user": {
+    "name": "Briggitte Dulceyiz",
+    "screen_name": "Briggitte_lml",
+    "location": "Guayas, Ecuador",
+    "followers_count": 130
+  },
+  "url_tweet": "https://twitter.com/Briggitte_lml/status/1652095552471855106",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 7,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab0ee354dc5c6920cc7b"
+  },
+  "time": "2023-04-29 05:28:46",
+  "id": "1652095353003425792",
+  "created_at": "2023-04-28 23:40:01+00:00",
+  "full_text": "@LaDataEc Ja ja ja y cuando chucha van contra la delincuencia común? O primero van contra los terroristas de la mafia albanesa y cuyo líder está en Carondelet 😁😁😁😁 https://t.co/mdKhOTZUNx",
+  "clean_text": [
+    "ja",
+    "ja",
+    "ja",
+    "chucha",
+    "van",
+    "delincuencia",
+    "común",
+    "primero",
+    "van",
+    "terroristas",
+    "mafia",
+    "albanesa",
+    "cuyo",
+    "líder",
+    "carondelet",
+    "httpstcomdkhotzunx"
+  ],
+  "user": {
+    "name": "Pipo's",
+    "screen_name": "tontolinos",
+    "location": "Ecuador",
+    "followers_count": 692
+  },
+  "url_tweet": "https://twitter.com/tontolinos/status/1652095353003425792",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [
+    "https://pbs.twimg.com/media/Fu1r-AMXgAEvvth.jpg"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab3fe354dc5c6920cd58"
+  },
+  "time": "2023-04-29 05:29:35",
+  "id": "1652095017039568896",
+  "created_at": "2023-04-28 23:38:41+00:00",
+  "full_text": "RT @UnTalDiego18: Vieron q @LassoGuillermo sólo les tomó el pelo cuando dijo que “necesitaba la #ConsultaMañosa para que las FFAA puedan ap…",
+  "clean_text": [
+    "vieron",
+    "q",
+    "sólo",
+    "tomó",
+    "pelo",
+    "dijo",
+    "necesitaba",
+    "consultamañosa",
+    "ffaa",
+    "puedan",
+    "ap"
+  ],
+  "user": {
+    "name": "Bonelsy",
+    "screen_name": "bonelsy",
+    "location": "Quito Ecuador",
+    "followers_count": 868
+  },
+  "url_tweet": "https://twitter.com/bonelsy/status/1652095017039568896",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 22,
+  "hashtags": [
+    "ConsultaMañosa"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab9fe354dc5c6920cef8"
+  },
+  "time": "2023-04-29 05:31:11",
+  "id": "1652094435587502080",
+  "created_at": "2023-04-28 23:36:22+00:00",
+  "full_text": "@PalacioEmilio Empiezan a sacar las verdaderas intenciones de blindar al gobierno.\nA ustedes no les interesa el pueblo ni que la delincuencia este atacandonos, su verdadero interés es amedrentar y repeler la protesta social.\nYa salió su verdadero interés, su odio le brota y vivir así es nefasto",
+  "clean_text": [
+    "empiezan",
+    "sacar",
+    "verdaderas",
+    "intenciones",
+    "blindar",
+    "gobierno",
+    "ustedes",
+    "interesa",
+    "pueblo",
+    "delincuencia",
+    "atacandonos",
+    "verdadero",
+    "interés",
+    "amedrentar",
+    "repeler",
+    "protesta",
+    "social",
+    "salió",
+    "verdadero",
+    "interés",
+    "odio",
+    "brota",
+    "vivir",
+    "así",
+    "nefasto"
+  ],
+  "user": {
+    "name": "Juan Carlos",
+    "screen_name": "juancca23",
+    "location": "Quito, Ecuador",
+    "followers_count": 89
+  },
+  "url_tweet": "https://twitter.com/juancca23/status/1652094435587502080",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cab97e354dc5c6920ced5"
+  },
+  "time": "2023-04-29 05:31:03",
+  "id": "1652094479958982656",
+  "created_at": "2023-04-28 23:36:33+00:00",
+  "full_text": "RT @NoryElizabethF: La otra cara:\nConversaba con una amiga de la inseguridad, y q yo no dormía hasta q mi hijo escriba q está bien en casa,…",
+  "clean_text": [
+    "cara",
+    "conversaba",
+    "amiga",
+    "inseguridad",
+    "q",
+    "dormía",
+    "q",
+    "hijo",
+    "escriba",
+    "q",
+    "bien",
+    "casa"
+  ],
+  "user": {
+    "name": "Javier Flor B.",
+    "screen_name": "JavierFlorB",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 1174
+  },
+  "url_tweet": "https://twitter.com/JavierFlorB/status/1652094479958982656",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 9,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cabb0e354dc5c6920cf3c"
+  },
+  "time": "2023-04-29 05:31:28",
+  "id": "1652094326103474178",
+  "created_at": "2023-04-28 23:35:56+00:00",
+  "full_text": "RT @dw_espanol: Dudas sobre plan anticrimen en Ecuador \n\nEl anuncio del Consejo de Seguridad Pública y del Estado de #Ecuador de una guerra…",
+  "clean_text": [
+    "dudas",
+    "plan",
+    "anticrimen",
+    "ecuador",
+    "anuncio",
+    "consejo",
+    "seguridad",
+    "pública",
+    "ecuador",
+    "guerra"
+  ],
+  "user": {
+    "name": "mfp",
+    "screen_name": "mflorespazos",
+    "location": "Quito, Ecuador",
+    "followers_count": 92
+  },
+  "url_tweet": "https://twitter.com/mflorespazos/status/1652094326103474178",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 115,
+  "hashtags": [
+    "Ecuador"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cabd1e354dc5c6920cfcd"
+  },
+  "time": "2023-04-29 05:32:01",
+  "id": "1652094122491015173",
+  "created_at": "2023-04-28 23:35:07+00:00",
+  "full_text": "RT @LaDataEc: #Entérate “El país, la estabilidad y la democracia están por encima de todo. Debemos unir esfuerzos para vencer al crimen org…",
+  "clean_text": [
+    "entérate",
+    "país",
+    "estabilidad",
+    "democracia",
+    "encima",
+    "debemos",
+    "unir",
+    "esfuerzos",
+    "vencer",
+    "crimen",
+    "org"
+  ],
+  "user": {
+    "name": "Master windu",
+    "screen_name": "perroconhueso",
+    "location": "Sigsig, Ecuador",
+    "followers_count": 761
+  },
+  "url_tweet": "https://twitter.com/perroconhueso/status/1652094122491015173",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 26,
+  "hashtags": [
+    "Entérate"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caba0e354dc5c6920cefb"
+  },
+  "time": "2023-04-29 05:31:12",
+  "id": "1652094432051601412",
+  "created_at": "2023-04-28 23:36:21+00:00",
+  "full_text": "RT @PedritoExtranja: Con ustedes el nuevo Plan de Política Criminal del Ecuador: https://t.co/1mQ5TjcNab",
+  "clean_text": [
+    "ustedes",
+    "nuevo",
+    "plan",
+    "política",
+    "criminal",
+    "ecuador",
+    "httpstcomqtjcnab"
+  ],
+  "user": {
+    "name": "Lore",
+    "screen_name": "Lorelialsa31",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 200
+  },
+  "url_tweet": "https://twitter.com/Lorelialsa31/status/1652094432051601412",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 430,
+  "hashtags": [],
+  "urls": [],
+  "photos": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/1651280937466904576/pu/img/9UXaQLfcpumeqfiJ.jpg"
+  ],
+  "videos": [
+    "https://video.twimg.com/ext_tw_video/1651280937466904576/pu/vid/480x360/V-gms0HxVa9IR2uB.mp4?tag=12"
+  ]
+},
+{
+  "_id": {
+    "$oid": "644cabf8e354dc5c6920d080"
+  },
+  "time": "2023-04-29 05:32:40",
+  "id": "1652093843280388097",
+  "created_at": "2023-04-28 23:34:01+00:00",
+  "full_text": "La fiscal general, Diana Salazar, solicitó hoy a la Corte Nacional de Justicia que fije fecha y hora para formular cargos en contra de tres funcionarios públicos, entre ellos, dos vocales del Consejo de la Judicatura, por su presunta participación en el delito de tráfico de in...",
+  "clean_text": [
+    "fiscal",
+    "general",
+    "diana",
+    "salazar",
+    "solicitó",
+    "hoy",
+    "corte",
+    "nacional",
+    "justicia",
+    "fije",
+    "fecha",
+    "hora",
+    "formular",
+    "cargos",
+    "tres",
+    "funcionarios",
+    "públicos",
+    "dos",
+    "vocales",
+    "consejo",
+    "judicatura",
+    "presunta",
+    "participación",
+    "delito",
+    "tráfico",
+    "in"
+  ],
+  "user": {
+    "name": "Dialoguemos INFO",
+    "screen_name": "DialoguemosINFO",
+    "location": "Quito, Ecuador",
+    "followers_count": 193346
+  },
+  "url_tweet": "https://twitter.com/DialoguemosINFO/status/1652093843280388097",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cabdae354dc5c6920cff6"
+  },
+  "time": "2023-04-29 05:32:10",
+  "id": "1652094048193200128",
+  "created_at": "2023-04-28 23:34:50+00:00",
+  "full_text": "Los militares cuando rondan en las calles (Santa Elena, estado de excepción) lo hacen por minutos y luego supuestamente van a otras zonas de peligro. No obstante, el nivel de delincuencia sigue siendo el mismo. https://t.co/FrQj53xTbN",
+  "clean_text": [
+    "militares",
+    "rondan",
+    "calles",
+    "santa",
+    "elena",
+    "excepción",
+    "hacen",
+    "minutos",
+    "luego",
+    "supuestamente",
+    "van",
+    "zonas",
+    "peligro",
+    "obstante",
+    "nivel",
+    "delincuencia",
+    "sigue",
+    "siendo",
+    "mismo",
+    "httpstcofrqjxtbn"
+  ],
+  "user": {
+    "name": "Vivi Garcés-Vargas 🦄",
+    "screen_name": "mininainterior",
+    "location": "Salinas- Ecuador",
+    "followers_count": 1229
+  },
+  "url_tweet": "https://twitter.com/mininainterior/status/1652094048193200128",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/aponcev1/status/1651942891227435009"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac27e354dc5c6920d152"
+  },
+  "time": "2023-04-29 05:33:27",
+  "id": "1652093485032394755",
+  "created_at": "2023-04-28 23:32:35+00:00",
+  "full_text": "@BancadaUNESec @virgiliohernand @VivianaVeloz18 @FiscalizacionAN @AsambleaEcuador Sería bueno que nos expliquen porque pusieron trabas a la comparecencia de ruliman Terán, nos creen ingenuos a los ciudadanos?? Ustedes socialcomunistas son la misma delincuencia encarnada https://t.co/jweEdbuzYZ",
+  "clean_text": [
+    "bueno",
+    "expliquen",
+    "pusieron",
+    "trabas",
+    "comparecencia",
+    "ruliman",
+    "terán",
+    "creen",
+    "ingenuos",
+    "ciudadanos",
+    "ustedes",
+    "socialcomunistas",
+    "misma",
+    "delincuencia",
+    "encarnada",
+    "httpstcojweedbuzyz"
+  ],
+  "user": {
+    "name": "Edgar",
+    "screen_name": "lidrsmillonario",
+    "location": "Madrid,España/Quito,Ecuador",
+    "followers_count": 148
+  },
+  "url_tweet": "https://twitter.com/lidrsmillonario/status/1652093485032394755",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [
+    "https://pbs.twimg.com/media/Fu1qRRkWAAEnovW.jpg"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cabf4e354dc5c6920d06d"
+  },
+  "time": "2023-04-29 05:32:36",
+  "id": "1652093868635029506",
+  "created_at": "2023-04-28 23:34:07+00:00",
+  "full_text": "RT @ifancytsuki: por culpa d esta mina me enteré de las hip dips y que se veía como algo malo, ahora es mi mayor inseguridad jjakdj",
+  "clean_text": [
+    "culpa",
+    "d",
+    "mina",
+    "enteré",
+    "hip",
+    "dips",
+    "veía",
+    "malo",
+    "ahora",
+    "mayor",
+    "inseguridad",
+    "jjakdj"
+  ],
+  "user": {
+    "name": "dayana",
+    "screen_name": "jexndyn",
+    "location": "Ecuador",
+    "followers_count": 285
+  },
+  "url_tweet": "https://twitter.com/jexndyn/status/1652093868635029506",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 5,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cabebe354dc5c6920d044"
+  },
+  "time": "2023-04-29 05:32:27",
+  "id": "1652093948117098497",
+  "created_at": "2023-04-28 23:34:26+00:00",
+  "full_text": "@JCSolines Claro, podría configurar un delito penal, pero eso deja abierta la posibilidad que no haya delito penal, de ser así, lo regresan a Lasso al poder? Bobo!",
+  "clean_text": [
+    "claro",
+    "podría",
+    "configurar",
+    "delito",
+    "penal",
+    "deja",
+    "abierta",
+    "posibilidad",
+    "delito",
+    "penal",
+    "ser",
+    "así",
+    "regresan",
+    "lasso",
+    "poder",
+    "bobo"
+  ],
+  "user": {
+    "name": "Rodrigo Paucar",
+    "screen_name": "rodrigopm100",
+    "location": "Santo Domingo, Ecuador",
+    "followers_count": 162
+  },
+  "url_tweet": "https://twitter.com/rodrigopm100/status/1652093948117098497",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cabdfe354dc5c6920d00d"
+  },
+  "time": "2023-04-29 05:32:15",
+  "id": "1652094022477807619",
+  "created_at": "2023-04-28 23:34:44+00:00",
+  "full_text": "RT @FiscaliaEcuador: #ACTUALIZACIÓN | Tribunal suspende audiencia de juicio por el delito de tortura, como grave violación a los derechos h…",
+  "clean_text": [
+    "actualización",
+    "tribunal",
+    "suspende",
+    "audiencia",
+    "juicio",
+    "delito",
+    "tortura",
+    "grave",
+    "violación",
+    "derechos",
+    "h"
+  ],
+  "user": {
+    "name": "Farratv1",
+    "screen_name": "VeritoRiveroC",
+    "location": "Sto Dgo /Ecuador",
+    "followers_count": 4074
+  },
+  "url_tweet": "https://twitter.com/VeritoRiveroC/status/1652094022477807619",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 2,
+  "hashtags": [
+    "ACTUALIZACIÓN"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac5ae354dc5c6920d237"
+  },
+  "time": "2023-04-29 05:34:18",
+  "id": "1652093072686084096",
+  "created_at": "2023-04-28 23:30:57+00:00",
+  "full_text": "@LuisaGonzalezEc @RonnyAleagaS @VillaFernando_ @LassoGuillermo Cómo Ecuatoriano de bien y el 98% de ecuatorianos también estamos avergonzados de gentuzas cómo ustedes revolucionarios socialcomunistas sinvergüenzas ustedes trabajan para el crimen organizado y tapan todo lo podrido de ustedes. https://t.co/rp1pVnqdnT",
+  "clean_text": [
+    "cómo",
+    "ecuatoriano",
+    "bien",
+    "ecuatorianos",
+    "avergonzados",
+    "gentuzas",
+    "cómo",
+    "ustedes",
+    "revolucionarios",
+    "socialcomunistas",
+    "sinvergenzas",
+    "ustedes",
+    "trabajan",
+    "crimen",
+    "organizado",
+    "tapan",
+    "podrido",
+    "ustedes",
+    "httpstcorppvnqdnt"
+  ],
+  "user": {
+    "name": "Edgar",
+    "screen_name": "lidrsmillonario",
+    "location": "Madrid,España/Quito,Ecuador",
+    "followers_count": 148
+  },
+  "url_tweet": "https://twitter.com/lidrsmillonario/status/1652093072686084096",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [
+    "https://pbs.twimg.com/media/Fu1p5M4WIAE_unX.jpg"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac3ae354dc5c6920d1a9"
+  },
+  "time": "2023-04-29 05:33:46",
+  "id": "1652093319982325768",
+  "created_at": "2023-04-28 23:31:56+00:00",
+  "full_text": "@PalacioEmilio ESTO ES LO QUE QUIEREN UN ECUADOR ENFRENTADO A SANGRE POR MANTENER UN MITOMANO ERES UNA LACRA HUMANA Y POR EL BIEN DE PAIS DEBES SER DECLARADO CIUDADANO  NO GRATO. ESTE RIPO DE IMBÉCILES QUE CRIMINALIZAN LA PROTESTA EN VEZ DEL CRIMEN ORGANIZADO. REALMENTE DAS ASCO INEPTO FACISTA.",
+  "clean_text": [
+    "quieren",
+    "ecuador",
+    "enfrentado",
+    "sangre",
+    "mantener",
+    "mitomano",
+    "lacra",
+    "humana",
+    "bien",
+    "pais",
+    "debes",
+    "ser",
+    "declarado",
+    "ciudadano",
+    "grato",
+    "ripo",
+    "imbéciles",
+    "criminalizan",
+    "protesta",
+    "vez",
+    "crimen",
+    "organizado",
+    "realmente",
+    "das",
+    "asco",
+    "inepto",
+    "facista"
+  ],
+  "user": {
+    "name": "Parro",
+    "screen_name": "memoparro66",
+    "location": "Quito, Ecuador",
+    "followers_count": 5
+  },
+  "url_tweet": "https://twitter.com/memoparro66/status/1652093319982325768",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac33e354dc5c6920d188"
+  },
+  "time": "2023-04-29 05:33:39",
+  "id": "1652093382829678593",
+  "created_at": "2023-04-28 23:32:11+00:00",
+  "full_text": "RT @MarcoItalo: Desde el 2009 la Ley de Seguridad Pública y del Estado establece a la seguridad ciudadana (combate a la delincuencia y deli…",
+  "clean_text": [
+    "ley",
+    "seguridad",
+    "pública",
+    "establece",
+    "seguridad",
+    "ciudadana",
+    "combate",
+    "delincuencia",
+    "deli"
+  ],
+  "user": {
+    "name": "villano",
+    "screen_name": "villanoveraz",
+    "location": "Quito, Ecuador",
+    "followers_count": 315
+  },
+  "url_tweet": "https://twitter.com/villanoveraz/status/1652093382829678593",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 10,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cacabe354dc5c6920d3a8"
+  },
+  "time": "2023-04-29 05:35:39",
+  "id": "1652092518354354177",
+  "created_at": "2023-04-28 23:28:45+00:00",
+  "full_text": "RT @NandoBastias: Es el problema cuando tenemos a fascistas e ignorantes a la vez tomando decisiones en materia de seguridad. \n\n¿Qué están…",
+  "clean_text": [
+    "problema",
+    "fascistas",
+    "ignorantes",
+    "vez",
+    "tomando",
+    "decisiones",
+    "materia",
+    "seguridad"
+  ],
+  "user": {
+    "name": "Alex",
+    "screen_name": "Alextq87",
+    "location": "Ecuador",
+    "followers_count": 293
+  },
+  "url_tweet": "https://twitter.com/Alextq87/status/1652092518354354177",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 7,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac67e354dc5c6920d275"
+  },
+  "time": "2023-04-29 05:34:31",
+  "id": "1652093005468188672",
+  "created_at": "2023-04-28 23:30:41+00:00",
+  "full_text": "Y a esto el Ministro @CapiZapataEC le llama mala fe. ¡Mediocres! No saben cómo gobernar y no tienen idea de que hacer con la inseguridad que vive el país.\n\nLárguense y no vuelvan 😡 https://t.co/Bq2OeLawdu",
+  "clean_text": [
+    "ministro",
+    "llama",
+    "mala",
+    "fe",
+    "mediocres",
+    "saben",
+    "cómo",
+    "gobernar",
+    "idea",
+    "hacer",
+    "inseguridad",
+    "vive",
+    "país",
+    "lárguense",
+    "vuelvan",
+    "httpstcobqoelawdu"
+  ],
+  "user": {
+    "name": "Mateo Flores",
+    "screen_name": "MateoFloresM",
+    "location": "Quito - Ecuador",
+    "followers_count": 4628
+  },
+  "url_tweet": "https://twitter.com/MateoFloresM/status/1652093005468188672",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 21,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/ecuainm_oficial/status/1652069290080600069"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac9de354dc5c6920d369"
+  },
+  "time": "2023-04-29 05:35:25",
+  "id": "1652092629058826241",
+  "created_at": "2023-04-28 23:29:11+00:00",
+  "full_text": "Un #PrimerodeMayo en la que la unidad ante la inseguridad debe prevalecer. Lo dijo hoy en @radioi99 el representante de los trabajadores @MTatamuez .\n\n#1deMayo2023\n#Ecuador\n#Guayaquil https://t.co/1zuwAtdgw9",
+  "clean_text": [
+    "primerodemayo",
+    "unidad",
+    "inseguridad",
+    "debe",
+    "prevalecer",
+    "dijo",
+    "hoy",
+    "representante",
+    "trabajadores",
+    "demayo",
+    "ecuador",
+    "guayaquil",
+    "httpstcozuwatdgw"
+  ],
+  "user": {
+    "name": "Daniel Solórzano 📝",
+    "screen_name": "dani_solorzano",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 5003
+  },
+  "url_tweet": "https://twitter.com/dani_solorzano/status/1652092629058826241",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 1,
+  "hashtags": [
+    "PrimerodeMayo",
+    "1deMayo2023",
+    "Ecuador",
+    "Guayaquil"
+  ],
+  "urls": [],
+  "photos": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/1652092560553246721/pu/img/e1Af_XuD4STtKvhY.jpg"
+  ],
+  "videos": [
+    "https://video.twimg.com/ext_tw_video/1652092560553246721/pu/pl/9uce27UyVyag9G9-.m3u8?tag=12&container=fmp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "644cac7ae354dc5c6920d2c9"
+  },
+  "time": "2023-04-29 05:34:50",
+  "id": "1652092884101857289",
+  "created_at": "2023-04-28 23:30:12+00:00",
+  "full_text": "RT @radiolacalle: #ATENCION | La comunidad ecuatoriana residente en España realizará un plantón pacífico debido al aumento de la insegurida…",
+  "clean_text": [
+    "atencion",
+    "comunidad",
+    "ecuatoriana",
+    "residente",
+    "españa",
+    "realizará",
+    "plantón",
+    "pacífico",
+    "debido",
+    "aumento",
+    "insegurida"
+  ],
+  "user": {
+    "name": "ARIAS URBINA FERNANDO",
+    "screen_name": "ariasnando",
+    "location": "Quito, Ecuador",
+    "followers_count": 1707
+  },
+  "url_tweet": "https://twitter.com/ariasnando/status/1652092884101857289",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 40,
+  "hashtags": [
+    "ATENCION"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac98e354dc5c6920d354"
+  },
+  "time": "2023-04-29 05:35:20",
+  "id": "1652092660201451522",
+  "created_at": "2023-04-28 23:29:19+00:00",
+  "full_text": "RT @socialholico: Legislador es detenido en flagrancia por el delito de violación a una joven de 19 años.\n\nEl tonto de turno: https://t.co/…",
+  "clean_text": [
+    "legislador",
+    "detenido",
+    "flagrancia",
+    "delito",
+    "violación",
+    "joven",
+    "años",
+    "tonto",
+    "turno",
+    "httpstco"
+  ],
+  "user": {
+    "name": "Alex",
+    "screen_name": "Alextq87",
+    "location": "Ecuador",
+    "followers_count": 293
+  },
+  "url_tweet": "https://twitter.com/Alextq87/status/1652092660201451522",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 70,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cacb1e354dc5c6920d3c2"
+  },
+  "time": "2023-04-29 05:35:45",
+  "id": "1652092463618617346",
+  "created_at": "2023-04-28 23:28:32+00:00",
+  "full_text": "@fabriciovelav El periodista Palacio no representa al Gobierno y sus palabras equivocadas no deberían ser utilizadas para criticar las decisiones para luchar contra la delincuencia (no lo digo por ti). Además, un Gobierno que decepciona no necesita ser responsabilizado por opiniones ajenas.",
+  "clean_text": [
+    "periodista",
+    "palacio",
+    "representa",
+    "gobierno",
+    "palabras",
+    "equivocadas",
+    "deberían",
+    "ser",
+    "utilizadas",
+    "criticar",
+    "decisiones",
+    "luchar",
+    "delincuencia",
+    "digo",
+    "además",
+    "gobierno",
+    "decepciona",
+    "necesita",
+    "ser",
+    "responsabilizado",
+    "opiniones",
+    "ajenas"
+  ],
+  "user": {
+    "name": "Paúl Valarezo Ordóñez",
+    "screen_name": "PaulVala",
+    "location": "Ecuador",
+    "followers_count": 189
+  },
+  "url_tweet": "https://twitter.com/PaulVala/status/1652092463618617346",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac88e354dc5c6920d30c"
+  },
+  "time": "2023-04-29 05:35:04",
+  "id": "1652092788215889920",
+  "created_at": "2023-04-28 23:29:49+00:00",
+  "full_text": "Nosotros esperando que el gobierno combata la inseguridad y estos miserables han estado pensando en cómo asesinar a la población cuando se atrevan a reclamar sus derechos. https://t.co/hpHjhw84t9",
+  "clean_text": [
+    "esperando",
+    "gobierno",
+    "combata",
+    "inseguridad",
+    "miserables",
+    "pensando",
+    "cómo",
+    "asesinar",
+    "población",
+    "atrevan",
+    "reclamar",
+    "derechos",
+    "httpstcohphjhwt"
+  ],
+  "user": {
+    "name": "Efravilla",
+    "screen_name": "Efravilla1",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 258
+  },
+  "url_tweet": "https://twitter.com/Efravilla1/status/1652092788215889920",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/PalacioEmilio/status/1651977506344386562"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac79e354dc5c6920d2c6"
+  },
+  "time": "2023-04-29 05:34:49",
+  "id": "1652092889957113857",
+  "created_at": "2023-04-28 23:30:14+00:00",
+  "full_text": "En un operativo realizado la madrugada del viernes, 28 de abril, efectivos de la Policía Nacional detuvieron a seis antisociales, miembros de una banda dedicada al secuestro extorsivo https://t.co/9QnLAv7AlH https://t.co/ZkfT73bGjc",
+  "clean_text": [
+    "operativo",
+    "realizado",
+    "madrugada",
+    "viernes",
+    "abril",
+    "efectivos",
+    "policía",
+    "nacional",
+    "detuvieron",
+    "seis",
+    "antisociales",
+    "miembros",
+    "banda",
+    "dedicada",
+    "secuestro",
+    "extorsivo",
+    "httpstcoqnlavalh",
+    "httpstcozkftbgjc"
+  ],
+  "user": {
+    "name": "ecuadorenvivo",
+    "screen_name": "ecuadorenvivo",
+    "location": "Ecuador",
+    "followers_count": 317666
+  },
+  "url_tweet": "https://twitter.com/ecuadorenvivo/status/1652092889957113857",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 2,
+  "hashtags": [],
+  "urls": [
+    "http://ow.ly/TxZT50O2h4E"
+  ],
+  "photos": [
+    "https://pbs.twimg.com/media/Fu1pup1WYAM5jlX.jpg"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cac91e354dc5c6920d334"
+  },
+  "time": "2023-04-29 05:35:13",
+  "id": "1652092728186925056",
+  "created_at": "2023-04-28 23:29:35+00:00",
+  "full_text": "RT @andresspaudo: Ecuador va a enfrentar en los próximos meses sufrirá una crisis energética terrible.\n\nSe imaginan esta inseguridad y sin…",
+  "clean_text": [
+    "ecuador",
+    "va",
+    "enfrentar",
+    "próximos",
+    "meses",
+    "sufrirá",
+    "crisis",
+    "energética",
+    "terrible",
+    "imaginan",
+    "inseguridad"
+  ],
+  "user": {
+    "name": "@EnriqueNavarretePalma",
+    "screen_name": "RuralNaceLaPat1",
+    "location": "Los Rios, Ecuador",
+    "followers_count": 670
+  },
+  "url_tweet": "https://twitter.com/RuralNaceLaPat1/status/1652092728186925056",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 14,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cade7e354dc5c6920d404"
+  },
+  "time": "2023-04-29 05:40:55",
+  "id": "1652092374091268100",
+  "created_at": "2023-04-28 23:28:11+00:00",
+  "full_text": "RT @PoliciaEcuador: CAPTURADO\n\nCoordinaciones realizadas con nuestro similar #InterpolPerú permitió la detención de Isamel J., procesado en…",
+  "clean_text": [
+    "capturado",
+    "coordinaciones",
+    "realizadas",
+    "similar",
+    "interpolperú",
+    "permitió",
+    "detención",
+    "isamel",
+    "j",
+    "procesado"
+  ],
+  "user": {
+    "name": "Conexión Noticias ec",
+    "screen_name": "Conexnoticiasec",
+    "location": "Ecuador",
+    "followers_count": 2252
+  },
+  "url_tweet": "https://twitter.com/Conexnoticiasec/status/1652092374091268100",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 7,
+  "hashtags": [
+    "InterpolPerú"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cae07e354dc5c6920d492"
+  },
+  "time": "2023-04-29 05:41:27",
+  "id": "1652092107799052289",
+  "created_at": "2023-04-28 23:27:07+00:00",
+  "full_text": "RT @mwa267: @radio_pichincha NUNCA NECESITARON DE CONSULTA ALGUNA PARA ENFRENTAR A LA DELINCUENCIA, DE LO QUE SI SE NECESITA ES DE TENER TE…",
+  "clean_text": [
+    "nunca",
+    "necesitaron",
+    "consulta",
+    "alguna",
+    "enfrentar",
+    "delincuencia",
+    "si",
+    "necesita",
+    "tener"
+  ],
+  "user": {
+    "name": "Gladys Rodríguez",
+    "screen_name": "glaroma5",
+    "location": "Quito, Ecuador",
+    "followers_count": 91
+  },
+  "url_tweet": "https://twitter.com/glaroma5/status/1652092107799052289",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 3,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cadf8e354dc5c6920d44e"
+  },
+  "time": "2023-04-29 05:41:12",
+  "id": "1652092262631763968",
+  "created_at": "2023-04-28 23:27:44+00:00",
+  "full_text": "RT @LassoGuillermo: Agradezco a los generales Paco Moncayo y Wagner Bravo por sumarse a esta lucha compleja y difícil de enfrentar al crime…",
+  "clean_text": [
+    "agradezco",
+    "generales",
+    "paco",
+    "moncayo",
+    "wagner",
+    "bravo",
+    "sumarse",
+    "lucha",
+    "compleja",
+    "difícil",
+    "enfrentar",
+    "crime"
+  ],
+  "user": {
+    "name": "Paulo Alexis Quelal 🇪🇨",
+    "screen_name": "p_quelal",
+    "location": "Quito, Ecuador",
+    "followers_count": 182
+  },
+  "url_tweet": "https://twitter.com/p_quelal/status/1652092262631763968",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 938,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cae52e354dc5c6920d5e7"
+  },
+  "time": "2023-04-29 05:42:42",
+  "id": "1652091494033940480",
+  "created_at": "2023-04-28 23:24:41+00:00",
+  "full_text": "RT @Ulsove: @MashiRafael ¿Necesitaban ganar la consulta popular, para mandar a los militares a las calles y enfrentar a la delincuencia? NO…",
+  "clean_text": [
+    "necesitaban",
+    "ganar",
+    "consulta",
+    "popular",
+    "mandar",
+    "militares",
+    "calles",
+    "enfrentar",
+    "delincuencia"
+  ],
+  "user": {
+    "name": "2022",
+    "screen_name": "kiasoulnegr2012",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 101
+  },
+  "url_tweet": "https://twitter.com/kiasoulnegr2012/status/1652091494033940480",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 67,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cae63e354dc5c6920d632"
+  },
+  "time": "2023-04-29 05:42:59",
+  "id": "1652091342602870784",
+  "created_at": "2023-04-28 23:24:05+00:00",
+  "full_text": "@B_Gortaire_M Estamos en Ecuador, sería raro que la mayoría de detenidos sean Venezolanos o Colombianos. Si se analiza la proporción de detenidos versus población, Venezuelanos quedan primeros en crimen. Es un problema que no se puede ocultar por más que quieran actuar políticamente correcto",
+  "clean_text": [
+    "ecuador",
+    "raro",
+    "mayoría",
+    "detenidos",
+    "venezolanos",
+    "colombianos",
+    "si",
+    "analiza",
+    "proporción",
+    "detenidos",
+    "versus",
+    "población",
+    "venezuelanos",
+    "quedan",
+    "primeros",
+    "crimen",
+    "problema",
+    "puede",
+    "ocultar",
+    "quieran",
+    "actuar",
+    "políticamente",
+    "correcto"
+  ],
+  "user": {
+    "name": "Gary 🦂",
+    "screen_name": "garlcyon",
+    "location": "Quito, Ecuador",
+    "followers_count": 227
+  },
+  "url_tweet": "https://twitter.com/garlcyon/status/1652091342602870784",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cae62e354dc5c6920d630"
+  },
+  "time": "2023-04-29 05:42:58",
+  "id": "1652091348324089856",
+  "created_at": "2023-04-28 23:24:06+00:00",
+  "full_text": "@PalacioEmilio Claro, porque para combatir la delincuencia, no saben ni disparar y entre ellos se vieron, pero con los manifestantes serán todos unos guerreros, cierto protector de delincuentes???",
+  "clean_text": [
+    "claro",
+    "combatir",
+    "delincuencia",
+    "saben",
+    "disparar",
+    "vieron",
+    "manifestantes",
+    "guerreros",
+    "cierto",
+    "protector",
+    "delincuentes"
+  ],
+  "user": {
+    "name": "Miriam Monserrat",
+    "screen_name": "miriam757718",
+    "location": "Ecuador",
+    "followers_count": 780
+  },
+  "url_tweet": "https://twitter.com/miriam757718/status/1652091348324089856",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cadf8e354dc5c6920d44f"
+  },
+  "time": "2023-04-29 05:41:12",
+  "id": "1652092258311651336",
+  "created_at": "2023-04-28 23:27:43+00:00",
+  "full_text": "RT @PoliciaEcuador: MANTENEMOS UNA CONVIVENCIA SEGURA\n\nEn Atacames #Esmeraldas aprehendimos a dos presuntos implicados en asalto y robo.…",
+  "clean_text": [
+    "mantenemos",
+    "convivencia",
+    "segura",
+    "atacames",
+    "esmeraldas",
+    "aprehendimos",
+    "dos",
+    "presuntos",
+    "implicados",
+    "asalto",
+    "robo"
+  ],
+  "user": {
+    "name": "Moises García ",
+    "screen_name": "predicure",
+    "location": "Machala Ecuador",
+    "followers_count": 71
+  },
+  "url_tweet": "https://twitter.com/predicure/status/1652092258311651336",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 21,
+  "hashtags": [
+    "Esmeraldas"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cae7ae354dc5c6920d699"
+  },
+  "time": "2023-04-29 05:43:22",
+  "id": "1652091172435763201",
+  "created_at": "2023-04-28 23:23:24+00:00",
+  "full_text": "@xhu74 @Paulcoellosegar @LassoGuillermo @GustavoManriq_M @CapiZapataEC Es decir, la delincuencia para ti aquí en ecuador  comenzó con la llegada de los venezolanos? Mi pregunta de basa en que dices para acabar con la delincuencia.",
+  "clean_text": [
+    "decir",
+    "delincuencia",
+    "aquí",
+    "ecuador",
+    "comenzó",
+    "llegada",
+    "venezolanos",
+    "pregunta",
+    "basa",
+    "dices",
+    "acabar",
+    "delincuencia"
+  ],
+  "user": {
+    "name": "Jackson blas Lopez",
+    "screen_name": "Jacksonblas1",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 1
+  },
+  "url_tweet": "https://twitter.com/Jacksonblas1/status/1652091172435763201",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cae72e354dc5c6920d674"
+  },
+  "time": "2023-04-29 05:43:14",
+  "id": "1652091229616717825",
+  "created_at": "2023-04-28 23:23:38+00:00",
+  "full_text": "RT @ecuadorenvivo: Se trata un presunto delito de tráfico de influencias en el que están involucrados de forma directa tres funcionarios pú…",
+  "clean_text": [
+    "trata",
+    "presunto",
+    "delito",
+    "tráfico",
+    "influencias",
+    "involucrados",
+    "forma",
+    "directa",
+    "tres",
+    "funcionarios",
+    "pú"
+  ],
+  "user": {
+    "name": "Andrea Daza",
+    "screen_name": "Cristhyn3000",
+    "location": "Ecuador ",
+    "followers_count": 2642
+  },
+  "url_tweet": "https://twitter.com/Cristhyn3000/status/1652091229616717825",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 2,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caeeee354dc5c6920d8a5"
+  },
+  "time": "2023-04-29 05:45:18",
+  "id": "1652090341552451587",
+  "created_at": "2023-04-28 23:20:06+00:00",
+  "full_text": "RT @eluniversocom: Terminó con el pulmón perforado y sin su carro: el relato de un taxista que sobrevivió a asalto en Quito ► https://t.co/…",
+  "clean_text": [
+    "terminó",
+    "pulmón",
+    "perforado",
+    "carro",
+    "relato",
+    "taxista",
+    "sobrevivió",
+    "asalto",
+    "quito",
+    "httpstco"
+  ],
+  "user": {
+    "name": "GonZALO VAK",
+    "screen_name": "Zalovak",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 230
+  },
+  "url_tweet": "https://twitter.com/Zalovak/status/1652090341552451587",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 5,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf10e354dc5c6920d942"
+  },
+  "time": "2023-04-29 05:45:52",
+  "id": "1652090103819378693",
+  "created_at": "2023-04-28 23:19:09+00:00",
+  "full_text": "🔴#ATENCIÓN | Siete personas fueron sentenciadas por un Tribunal por el asesinato del abogado #WalterVallejo en #Guayaquil. Xavier Orlando V. L., Jean Carlos T. Ch. y Bryan Xavier L.V. cumplirán con una pena de 34 años de cárcel, mientras que los otros 4 implicados, fueron… https://t.co/HBQqXsQgxb https://t.co/lVdFXOzcAp",
+  "clean_text": [
+    "atención",
+    "siete",
+    "personas",
+    "sentenciadas",
+    "tribunal",
+    "asesinato",
+    "abogado",
+    "waltervallejo",
+    "guayaquil",
+    "xavier",
+    "orlando",
+    "v",
+    "l",
+    "jean",
+    "carlos",
+    "t",
+    "ch",
+    "bryan",
+    "xavier",
+    "lv",
+    "cumplirán",
+    "pena",
+    "años",
+    "cárcel",
+    "mientras",
+    "implicados",
+    "httpstcohbqqxsqgxb",
+    "httpstcolvdfxozcap"
+  ],
+  "user": {
+    "name": "NotiMundo",
+    "screen_name": "notimundoec",
+    "location": "Ecuador",
+    "followers_count": 56269
+  },
+  "url_tweet": "https://twitter.com/notimundoec/status/1652090103819378693",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 3,
+  "hashtags": [
+    "ATENCIÓN",
+    "WalterVallejo",
+    "Guayaquil"
+  ],
+  "urls": [
+    "https://twitter.com/i/web/status/1652090103819378693"
+  ],
+  "photos": [
+    "https://pbs.twimg.com/media/Fu1m_5JXwAYkQxX.jpg"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caee0e354dc5c6920d869"
+  },
+  "time": "2023-04-29 05:45:04",
+  "id": "1652090434263425024",
+  "created_at": "2023-04-28 23:20:28+00:00",
+  "full_text": "RADIO IRFEYAL⭕\n#Internacionales\nAlrededor de 16 000 niños ucranianos fueron trasladados a Rusia incluso antes de iniciar la invasión a Ucrania. El Consejo de Europa señaló esas acciones como deportaciones ilegales, lo cual recae en un crimen de guerra. \nhttps://t.co/uoS7TGwMjN",
+  "clean_text": [
+    "radio",
+    "irfeyal",
+    "internacionales",
+    "alrededor",
+    "niños",
+    "ucranianos",
+    "trasladados",
+    "rusia",
+    "incluso",
+    "iniciar",
+    "invasión",
+    "ucrania",
+    "consejo",
+    "europa",
+    "señaló",
+    "acciones",
+    "deportaciones",
+    "ilegales",
+    "recae",
+    "crimen",
+    "guerra",
+    "httpstcouostgwmjn"
+  ],
+  "user": {
+    "name": "IRFEYALecuador",
+    "screen_name": "IRFEYAL",
+    "location": "Quito Ecuador",
+    "followers_count": 293
+  },
+  "url_tweet": "https://twitter.com/IRFEYAL/status/1652090434263425024",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [
+    "Internacionales"
+  ],
+  "urls": [
+    "https://es.euronews.com/2023/04/28/el-consejo-de-europa-considera-genocidio-el-desplazamiento-de-ninos-ucranianos-a-rusia"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf31e354dc5c6920d9d0"
+  },
+  "time": "2023-04-29 05:46:25",
+  "id": "1652089872117559297",
+  "created_at": "2023-04-28 23:18:14+00:00",
+  "full_text": "RT @XavierCarrilloS: El delito de violación cometido por #petercalo es detestable, pero que el #guacharnaco @LuisAlmeidaM salga a defender…",
+  "clean_text": [
+    "delito",
+    "violación",
+    "cometido",
+    "petercalo",
+    "detestable",
+    "guacharnaco",
+    "salga",
+    "defender"
+  ],
+  "user": {
+    "name": "Charo Gamboa",
+    "screen_name": "charogamboa",
+    "location": "Pichincha, Ecuador",
+    "followers_count": 380
+  },
+  "url_tweet": "https://twitter.com/charogamboa/status/1652089872117559297",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 47,
+  "hashtags": [
+    "petercalo",
+    "guacharnaco"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caedce354dc5c6920d853"
+  },
+  "time": "2023-04-29 05:45:00",
+  "id": "1652090461299826690",
+  "created_at": "2023-04-28 23:20:34+00:00",
+  "full_text": "RT @elmercurioec: La Fiscalía apelará la sentencia condenatoria en contra de Anthony Damián C. como autor del asesinato de su hijastra Elia…",
+  "clean_text": [
+    "fiscalía",
+    "apelará",
+    "sentencia",
+    "condenatoria",
+    "anthony",
+    "damián",
+    "c",
+    "autor",
+    "asesinato",
+    "hijastra",
+    "elia"
+  ],
+  "user": {
+    "name": "sin rumbo en la vida",
+    "screen_name": "luisbonet2013",
+    "location": "ecuador",
+    "followers_count": 90
+  },
+  "url_tweet": "https://twitter.com/luisbonet2013/status/1652090461299826690",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 1,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf1de354dc5c6920d97b"
+  },
+  "time": "2023-04-29 05:46:05",
+  "id": "1652090005886586880",
+  "created_at": "2023-04-28 23:18:46+00:00",
+  "full_text": "Emelec jugaba 17:00 a más tardar 17:30 en años anteriores ños domingos no se xq ahora se escoge un horario feo todo lo que sucede en la ciudad lluvia,delincuencia deberían cambiar el horario ah otra cosa ni buses ni taxis casi hay a la hora que se sale. https://t.co/ja297wv7QQ",
+  "clean_text": [
+    "emelec",
+    "jugaba",
+    "tardar",
+    "años",
+    "anteriores",
+    "ños",
+    "domingos",
+    "xq",
+    "ahora",
+    "escoge",
+    "horario",
+    "feo",
+    "sucede",
+    "ciudad",
+    "lluviadelincuencia",
+    "deberían",
+    "cambiar",
+    "horario",
+    "ah",
+    "cosa",
+    "buses",
+    "taxis",
+    "casi",
+    "hora",
+    "sale",
+    "httpstcojawvqq"
+  ],
+  "user": {
+    "name": "Manolo Parada López🇪🇨⚽🏀🎾",
+    "screen_name": "ManoloParadaLo1",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 819
+  },
+  "url_tweet": "https://twitter.com/ManoloParadaLo1/status/1652090005886586880",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/MaferFloresG_/status/1652089053444022273"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf36e354dc5c6920d9e6"
+  },
+  "time": "2023-04-29 05:46:30",
+  "id": "1652089831386652673",
+  "created_at": "2023-04-28 23:18:04+00:00",
+  "full_text": "Y que ha hecho @FiscaliaEcuador para esclarecer el asesinato de las 3 jóvenes en Esmeraldas? https://t.co/tumm1OKHdR",
+  "clean_text": [
+    "hecho",
+    "esclarecer",
+    "asesinato",
+    "jóvenes",
+    "esmeraldas",
+    "httpstcotummokhdr"
+  ],
+  "user": {
+    "name": "Estefania Manzo",
+    "screen_name": "estefania3651",
+    "location": "Ecuador",
+    "followers_count": 506
+  },
+  "url_tweet": "https://twitter.com/estefania3651/status/1652089831386652673",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/DianaSalazarM2/status/1651738970030587908"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caeeae354dc5c6920d895"
+  },
+  "time": "2023-04-29 05:45:14",
+  "id": "1652090361118961669",
+  "created_at": "2023-04-28 23:20:11+00:00",
+  "full_text": "RT @ecuainm_oficial: ‼️#URGENTE\nFiscal General, @DianaSalazarM2, solicitó a la @CorteNacional fecha y hora para que se realice la audiencia…",
+  "clean_text": [
+    "urgente",
+    "fiscal",
+    "general",
+    "solicitó",
+    "fecha",
+    "hora",
+    "realice",
+    "audiencia"
+  ],
+  "user": {
+    "name": "Gabriela O. Gachet",
+    "screen_name": "gabygachet",
+    "location": "Ecuador",
+    "followers_count": 457
+  },
+  "url_tweet": "https://twitter.com/gabygachet/status/1652090361118961669",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 21,
+  "hashtags": [
+    "URGENTE"
+  ],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caecce354dc5c6920d80e"
+  },
+  "time": "2023-04-29 05:44:44",
+  "id": "1652090549946535936",
+  "created_at": "2023-04-28 23:20:56+00:00",
+  "full_text": "RT @AndFuckIsForAll: El 31 de Mayo fuí victima de secuestro express, me sustrajeron la cantidad de $15,250.00 del @BancoGuayaquil hacía otr…",
+  "clean_text": [
+    "mayo",
+    "fuí",
+    "victima",
+    "secuestro",
+    "express",
+    "sustrajeron",
+    "cantidad",
+    "hacía",
+    "otr"
+  ],
+  "user": {
+    "name": "Lore",
+    "screen_name": "Lorelialsa31",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 200
+  },
+  "url_tweet": "https://twitter.com/Lorelialsa31/status/1652090549946535936",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 1207,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cb010e354dc5c6920ddc6"
+  },
+  "time": "2023-04-29 05:50:08",
+  "id": "1652088214553874432",
+  "created_at": "2023-04-28 23:11:39+00:00",
+  "full_text": "Como sociedad debemos eliminar barreras para que todos tengan un verdadero acceso a educación de calidad. Esta educación es la mejor \"arma\" que pueda existir frente a la inseguridad, pobreza e indiferencia. Bravo por @espol que mantiene su misión y no olvida su razón de ser. https://t.co/sFK0rkPfaf",
+  "clean_text": [
+    "sociedad",
+    "debemos",
+    "eliminar",
+    "barreras",
+    "verdadero",
+    "acceso",
+    "educación",
+    "calidad",
+    "educación",
+    "mejor",
+    "arma",
+    "pueda",
+    "existir",
+    "frente",
+    "inseguridad",
+    "pobreza",
+    "indiferencia",
+    "bravo",
+    "mantiene",
+    "misión",
+    "olvida",
+    "razón",
+    "ser",
+    "httpstcosfkrkpfaf"
+  ],
+  "user": {
+    "name": "Danny Tagle",
+    "screen_name": "Dannytagle1",
+    "location": "Ecuador",
+    "followers_count": 578
+  },
+  "url_tweet": "https://twitter.com/Dannytagle1/status/1652088214553874432",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/espol/status/1652064754389729280"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf94e354dc5c6920db94"
+  },
+  "time": "2023-04-29 05:48:04",
+  "id": "1652089081147404289",
+  "created_at": "2023-04-28 23:15:05+00:00",
+  "full_text": "@ecuainm_oficial @PoliciaEcuador iCon estas chatarras, el cínico, farsante, incapaz y mentiroso de @LassoGuillermo, quiere combatir el crimen organizado!.",
+  "clean_text": [
+    "icon",
+    "chatarras",
+    "cínico",
+    "farsante",
+    "incapaz",
+    "mentiroso",
+    "quiere",
+    "combatir",
+    "crimen",
+    "organizado"
+  ],
+  "user": {
+    "name": "BOSSCEC",
+    "screen_name": "bosscec",
+    "location": "Guayas, Ecuador",
+    "followers_count": 4962
+  },
+  "url_tweet": "https://twitter.com/bosscec/status/1652089081147404289",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf4fe354dc5c6920da5a"
+  },
+  "time": "2023-04-29 05:46:55",
+  "id": "1652089629862969344",
+  "created_at": "2023-04-28 23:17:16+00:00",
+  "full_text": "RT @janetibis: @Aortizlemos @VillaFernando_ Lo terrible de todo que sus compañeros le consecuente  terrible delito!!!me pregunto  quiénes s…",
+  "clean_text": [
+    "terrible",
+    "compañeros",
+    "consecuente",
+    "terrible",
+    "delitome",
+    "pregunto",
+    "quiénes",
+    "s"
+  ],
+  "user": {
+    "name": "Jorge Rodriguez",
+    "screen_name": "jorgito2786",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 624
+  },
+  "url_tweet": "https://twitter.com/jorgito2786/status/1652089629862969344",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 1,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cafcbe354dc5c6920dc8b"
+  },
+  "time": "2023-04-29 05:48:59",
+  "id": "1652088719577366530",
+  "created_at": "2023-04-28 23:13:39+00:00",
+  "full_text": "@SofikaVikinga2 @LassoGuillermo Seguramente son parte de la organización criminal: \"tren de aragua\", auspiciada desde el interior del gobierno venezolano...",
+  "clean_text": [
+    "seguramente",
+    "parte",
+    "organización",
+    "criminal",
+    "tren",
+    "aragua",
+    "auspiciada",
+    "interior",
+    "gobierno",
+    "venezolano"
+  ],
+  "user": {
+    "name": "Enrique Mariduena G.",
+    "screen_name": "Palosanto18",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 184
+  },
+  "url_tweet": "https://twitter.com/Palosanto18/status/1652088719577366530",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf63e354dc5c6920dab1"
+  },
+  "time": "2023-04-29 05:47:15",
+  "id": "1652089455409340416",
+  "created_at": "2023-04-28 23:16:35+00:00",
+  "full_text": "#Loja | La ciudadanía se movilizó contra la inseguridad en la provincia. https://t.co/TLJrt4Dq1b",
+  "clean_text": [
+    "loja",
+    "ciudadanía",
+    "movilizó",
+    "inseguridad",
+    "provincia",
+    "httpstcotljrtdqb"
+  ],
+  "user": {
+    "name": "Periodistas de las Calles /Investigamos la noticia",
+    "screen_name": "callesdecuenca",
+    "location": "Cuenca - Ecuador",
+    "followers_count": 4136
+  },
+  "url_tweet": "https://twitter.com/callesdecuenca/status/1652089455409340416",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [
+    "Loja"
+  ],
+  "urls": [],
+  "photos": [
+    "https://pbs.twimg.com/media/Fu1mmsKX0AE5nJu.jpg"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf59e354dc5c6920da84"
+  },
+  "time": "2023-04-29 05:47:05",
+  "id": "1652089535159754753",
+  "created_at": "2023-04-28 23:16:54+00:00",
+  "full_text": "Toda pena por delito que contenga terrorismo, extorsión, secuestro, tráfico de armas, trata de menores para terrorismo o narcotráfico, asesinato con descuartizamiento y desaparición, debe ser endurecida con pena mayor a 35 años sin derecho a rebaja. https://t.co/t1o1OtRtuV",
+  "clean_text": [
+    "toda",
+    "pena",
+    "delito",
+    "contenga",
+    "terrorismo",
+    "extorsión",
+    "secuestro",
+    "tráfico",
+    "armas",
+    "trata",
+    "menores",
+    "terrorismo",
+    "narcotráfico",
+    "asesinato",
+    "descuartizamiento",
+    "desaparición",
+    "debe",
+    "ser",
+    "endurecida",
+    "pena",
+    "mayor",
+    "años",
+    "derecho",
+    "rebaja",
+    "httpstcotootrtuv"
+  ],
+  "user": {
+    "name": "FERNANDO BALDA",
+    "screen_name": "fernandobalda",
+    "location": "Ecuador",
+    "followers_count": 39225
+  },
+  "url_tweet": "https://twitter.com/fernandobalda/status/1652089535159754753",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 4,
+  "hashtags": [],
+  "urls": [
+    "https://twitter.com/ecuavisainforma/status/1652002237743345690"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644caf8ee354dc5c6920db77"
+  },
+  "time": "2023-04-29 05:47:58",
+  "id": "1652089118615011332",
+  "created_at": "2023-04-28 23:15:14+00:00",
+  "full_text": "Seguridad: estas son las ocho bandas de crimen organizado declaradas terroristas https://t.co/xCfGOTSNBa",
+  "clean_text": [
+    "seguridad",
+    "ocho",
+    "bandas",
+    "crimen",
+    "organizado",
+    "declaradas",
+    "terroristas",
+    "httpstcoxcfgotsnba"
+  ],
+  "user": {
+    "name": "juan govea a",
+    "screen_name": "jmga1961",
+    "location": "Guayaquil, Ecuador",
+    "followers_count": 310
+  },
+  "url_tweet": "https://twitter.com/jmga1961/status/1652089118615011332",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [
+    "https://radiogovea.wordpress.com/2023/04/28/seguridad-estas-son-las-ocho-bandas-de-crimen-organizado-declaradas-terroristas/"
+  ],
+  "photos": [],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "644cb028e354dc5c6920de30"
+  },
+  "time": "2023-04-29 05:50:32",
+  "id": "1652088029949882370",
+  "created_at": "2023-04-28 23:10:55+00:00",
+  "full_text": "@EddiChonero1 @dw_espanol No pueden combatir el crimen porque los criminales son ellos mismos",
+  "clean_text": [
+    "pueden",
+    "combatir",
+    "crimen",
+    "criminales",
+    "mismos"
+  ],
+  "user": {
+    "name": "Jhonny Menéndez 🇪🇨",
+    "screen_name": "jhonnymenendez7",
+    "location": "Ecuador",
+    "followers_count": 1120
+  },
+  "url_tweet": "https://twitter.com/jhonnymenendez7/status/1652088029949882370",
+  "place": {
+    "$numberDouble": "NaN"
+  },
+  "retweet_count": 0,
+  "hashtags": [],
+  "urls": [],
+  "photos": [],
+  "videos": []
+}]
